@@ -8,4 +8,6 @@
 
 A meeting management and decision status tracking software written in php with mysql as the database and cakephp as the development framework.
 
+Code is also available at https://sourceforge.net/projects/mymeeting/
+
 Last rollout in the year 2010.
