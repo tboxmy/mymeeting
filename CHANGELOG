@@ -1,0 +1,41 @@
+CHANGELOG 2.2
+
+Ticket  	Bugs
+#194 	Meeting todo should set user_id = urusetia by default
+#141 	Captcha @ Login - after >3 login attempts still allow user to login
+#205 	Show even the meeting which has been cancelled on the calendar view
+#152 	Meeting number not being generated for the first time (Bil 1 tahun 2009)
+#193 	Sorting function at the table headers giving out errors (committee's todo list)
+#180 	Filtering shows deleted users
+#144 	Attachment file - Cant re-download the attachment after canceling
+#201 	Searching in system-wide todo resulting in different output 
+#199 	Search users by committee produce error
+#186 	Viewing permissions still has all the unrelevant links
+#151 	Item name didn't change when editing committee
+#187 	Announcement lists not being displayed
+#184 	When using filters in decision list - all status become Updated even when it's not
+
+Ticket  	Enhancements
+#169 	Translation to malay language
+#170 	Manual for 2.2 	documentation 
+#200 	Sending meeting invitation emails should include the title together
+#166 	Delete button for 6 month/1 year log history
+#161 	Function to see the history of status
+#165 	Make address field a textbox to show full info inside
+#176 	View report by project
+#157 	Secretariat can create committees (sub-committees) and assign another urusetia for it (under their committe only)
+#168 	View report link include attachments as link inside status 
+#159 	Attendance list, if groups exist, put it in 2 columns - group on the left, members on the right
+#158 	Truncate long decision in decision list & when viewing decision in detail
+#156 	Feature for who's forgotten their usernames
+#155 	Reset password for users on the login page
+#154 	User confirm their own attendance - give link to confirm in email
+#163 	Force user to change password after they login with default password
+#203 	Activity log for monitoring (for server admin/superuser)
+#171 	Show decision in status entry page
+#121 	User profile should have agensi attribute
+#204 	Session stored in cakephp's /tmp directory
+#188 	Added changelog in MyMeeting release
+#178 	Comments - display latest on top
+#160 	Align form fields properly
+

@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <?php if(DEBUG == 0) { ?>
+            <meta http-equiv="Refresh" content="<?php echo $pause?>;url=<?php echo $url?>"/>
+        <?php } ?>
+    </head>
+
+        <body onload="setVisible('popup', true);">
+
+                <div id="popup" class="success">
+                <h3 class="success"><a href="<?php echo $url?>"></a><?php
+echo $message?></h3>
+                        <p><a onclick="closeDiv('popup', true);">Close</a></p>
+                </div>
+        </body>
+</html>
+

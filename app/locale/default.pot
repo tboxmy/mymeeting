@@ -1,0 +1,4349 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  Revision: 7874 /app/controllers/components/auth.php
+#  Revision: 19 /app/models/behaviors/bindable.php
+#  Revision: 6352 /app/vendors/shells/schema.php
+#  Revision: 6574 /app/vendors/shells/tasks/db_config.php
+#  Revision: 7639 /app/views/helpers/form.php
+#  Revision: 6311 /app/views/layouts/default.ctp
+#  Revision: 6311 /app/views/layouts/popup.ctp
+#  Revision: 7214 /app/webroot/test.php
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2009-02-26 12:12+0800\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /app_controller.php:54
+msgid "There appears to be more than 1 committee with that name"
+msgstr ""
+
+#: /app_controller.php:61
+msgid "Please select a valid committee"
+msgstr ""
+
+#: /app_controller.php:103
+msgid "Please key in the code"
+msgstr ""
+
+#: /app_controller.php:111
+#: /controllers/users_controller.php:194
+msgid "Invalid username or password"
+msgstr ""
+
+#: /app_controller.php:140
+msgid "You have entered wrong code"
+msgstr ""
+
+#: /app_model.php:299
+msgid "%s,%s"
+msgstr ""
+
+#: /controllers/announcements_controller.php:80
+msgid "Invalid Announcement."
+msgstr ""
+
+#: /controllers/announcements_controller.php:100;126
+msgid "The Announcement has been saved"
+msgstr ""
+
+#: /controllers/announcements_controller.php:103;129
+msgid "The Announcement could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/announcements_controller.php:121
+msgid "Invalid Announcement"
+msgstr ""
+
+#: /controllers/announcements_controller.php:150
+msgid "Invalid id for Announcement"
+msgstr ""
+
+#: /controllers/announcements_controller.php:154
+msgid "Announcement deleted"
+msgstr ""
+
+#: /controllers/committees_controller.php:60
+msgid "The community does not exists"
+msgstr ""
+
+#: /controllers/committees_controller.php:125
+msgid "Invalid Committee."
+msgstr ""
+
+#: /controllers/committees_controller.php:164;198
+msgid "The Committee has been saved"
+msgstr ""
+
+#: /controllers/committees_controller.php:177;201
+msgid "The Committee could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/committees_controller.php:191
+msgid "Invalid Committee"
+msgstr ""
+
+#: /controllers/committees_controller.php:228
+msgid "Committee deleted"
+msgstr ""
+
+#: /controllers/committees_controller.php:345
+msgid "The sub-committee has been saved"
+msgstr ""
+
+#: /controllers/committees_controller.php:348
+msgid "The sub-committee could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:67;124;160
+#: /controllers/meetingtodos_controller.php:82;105;143
+#: /controllers/systemtodos_controller.php:53;117;160
+msgid "Immediate"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:67;124;160
+#: /controllers/meetingtodos_controller.php:82;105;143
+#: /controllers/systemtodos_controller.php:53;117;160
+msgid "Urgent"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:67;124;160
+#: /controllers/meetingtodos_controller.php:82;105;143
+#: /controllers/systemtodos_controller.php:53;117;160
+msgid "High"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:67;124;160
+#: /controllers/meetingtodos_controller.php:82;105;143
+#: /controllers/systemtodos_controller.php:53;117;160
+msgid "Normal"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:67;124;160
+#: /controllers/meetingtodos_controller.php:82;105;143
+#: /controllers/systemtodos_controller.php:53;117;160
+msgid "Low"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:67;124;160
+#: /controllers/meetingtodos_controller.php:82;105;143
+#: /controllers/systemtodos_controller.php:53;117;160
+msgid "None"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:98
+msgid "Invalid Committeetodo."
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:117
+#: /controllers/systemtodos_controller.php:111;150
+msgid "The To-do has been saved"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:120
+#: /controllers/systemtodos_controller.php:114;153
+msgid "The To-do could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:144
+msgid "Invalid Committeetodo"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:149
+msgid "The Committeetodo has been saved"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:152
+msgid "The Committeetodo could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:174
+msgid "Invalid id for Committeetodo"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:178
+msgid "Committeetodo deleted"
+msgstr ""
+
+#: /controllers/decisions_controller.php:84
+msgid "Invalid Decision."
+msgstr ""
+
+#: /controllers/decisions_controller.php:385;530
+msgid "The Decision has been saved"
+msgstr ""
+
+#: /controllers/decisions_controller.php:397;542
+msgid "The Decision could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/decisions_controller.php:507
+msgid "Notifications of decision sent to users"
+msgstr ""
+
+#: /controllers/decisions_controller.php:523
+msgid "Invalid Decision"
+msgstr ""
+
+#: /controllers/decisions_controller.php:569
+msgid "Invalid id for Decision"
+msgstr ""
+
+#: /controllers/decisions_controller.php:572
+msgid "Decision deleted"
+msgstr ""
+
+#: /controllers/decisions_groups_controller.php:64;97;124
+msgid "Invalid DecisionsGroup"
+msgstr ""
+
+#: /controllers/decisions_groups_controller.php:78
+msgid "DecisionsGroup saved."
+msgstr ""
+
+#: /controllers/decisions_groups_controller.php:102
+msgid "The DecisionsGroup has been saved."
+msgstr ""
+
+#: /controllers/decisions_groups_controller.php:127
+msgid "DecisionsGroup deleted"
+msgstr ""
+
+#: /controllers/decisions_users_controller.php:63
+msgid "Invalid DecisionsUser."
+msgstr ""
+
+#: /controllers/decisions_users_controller.php:78;102
+msgid "The DecisionsUser has been saved"
+msgstr ""
+
+#: /controllers/decisions_users_controller.php:81;105
+msgid "The DecisionsUser could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/decisions_users_controller.php:97
+msgid "Invalid DecisionsUser"
+msgstr ""
+
+#: /controllers/decisions_users_controller.php:124
+msgid "Invalid id for DecisionsUser"
+msgstr ""
+
+#: /controllers/decisions_users_controller.php:128
+msgid "DecisionsUser deleted"
+msgstr ""
+
+#: /controllers/groups_controller.php:86
+msgid "Invalid Group."
+msgstr ""
+
+#: /controllers/groups_controller.php:107;133
+msgid "The Group has been saved"
+msgstr ""
+
+#: /controllers/groups_controller.php:110;136
+msgid "The Group could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/groups_controller.php:128
+msgid "Invalid Group"
+msgstr ""
+
+#: /controllers/groups_controller.php:157
+msgid "Invalid id for Group"
+msgstr ""
+
+#: /controllers/groups_controller.php:161
+msgid "Group deleted"
+msgstr ""
+
+#: /controllers/groupstatuses_controller.php:49
+msgid "Invalid Groupstatus."
+msgstr ""
+
+#: /controllers/groupstatuses_controller.php:69;186
+msgid "The Groupstatus has been saved"
+msgstr ""
+
+#: /controllers/groupstatuses_controller.php:77;198
+msgid "The Groupstatus could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/groupstatuses_controller.php:118
+msgid "New comments for %s meeting status"
+msgstr ""
+
+#: /controllers/groupstatuses_controller.php:121
+msgid "For the status: %s\n\n"
+msgstr ""
+
+#: /controllers/groupstatuses_controller.php:122
+msgid "%s commented: %s"
+msgstr ""
+
+#: /controllers/groupstatuses_controller.php:153
+msgid "Invalid Groupstatus"
+msgstr ""
+
+#: /controllers/groupstatuses_controller.php:221
+msgid "Invalid id for Groupstatus"
+msgstr ""
+
+#: /controllers/groupstatuses_controller.php:225
+msgid "Groupstatus deleted"
+msgstr ""
+
+#: /controllers/hashes_controller.php:54
+msgid "Attendance confirmation has been saved"
+msgstr ""
+
+#: /controllers/hashes_controller.php:56
+msgid "Attendance confirmation could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/hashes_controller.php:76
+msgid "Invalid action."
+msgstr ""
+
+#: /controllers/items_controller.php:77
+msgid "Invalid Project."
+msgstr ""
+
+#: /controllers/items_controller.php:217;241;266
+msgid "The Item has been saved"
+msgstr ""
+
+#: /controllers/items_controller.php:220;243;269
+msgid "The Item could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/items_controller.php:260
+msgid "Invalid Item"
+msgstr ""
+
+#: /controllers/items_controller.php:291
+msgid "Invalid id for Item"
+msgstr ""
+
+#: /controllers/items_controller.php:295
+msgid "Item deleted"
+msgstr ""
+
+#: /controllers/logs_controller.php:42
+msgid "Users activity"
+msgstr ""
+
+#: /controllers/logs_controller.php:42
+msgid "No of meetings"
+msgstr ""
+
+#: /controllers/logs_controller.php:57;72
+msgid "Logs have been deleted"
+msgstr ""
+
+#: /controllers/logs_controller.php:59
+msgid "No logs older than 6 months found"
+msgstr ""
+
+#: /controllers/logs_controller.php:74
+msgid "No logs older than 1 year found"
+msgstr ""
+
+#: /controllers/meetings_controller.php:127
+msgid "Notifications of decisions sent to users"
+msgstr ""
+
+#: /controllers/meetings_controller.php:131
+msgid "Invalid meeting id"
+msgstr ""
+
+#: /controllers/meetings_controller.php:185;672;693
+msgid "Invalid Meeting."
+msgstr ""
+
+#: /controllers/meetings_controller.php:478
+msgid "Emails set to send"
+msgstr ""
+
+#: /controllers/meetings_controller.php:523
+msgid "The invitations has been sent"
+msgstr ""
+
+#: /controllers/meetings_controller.php:560
+msgid "The cancelations has been sent"
+msgstr ""
+
+#: /controllers/meetings_controller.php:606;648;882
+msgid "The Meeting has been saved"
+msgstr ""
+
+#: /controllers/meetings_controller.php:609;653;906
+msgid "The Meeting could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/meetings_controller.php:834;971
+msgid "Invalid Meeting"
+msgstr ""
+
+#: /controllers/meetings_controller.php:932
+msgid "Invalid id for Meeting"
+msgstr ""
+
+#: /controllers/meetings_controller.php:937
+msgid "Meeting deleted"
+msgstr ""
+
+#: /controllers/meetings_users_controller.php:63
+msgid "Invalid MeetingsUser."
+msgstr ""
+
+#: /controllers/meetings_users_controller.php:98
+msgid "The attendance has been saved"
+msgstr ""
+
+#: /controllers/meetings_users_controller.php:114
+msgid "Invalid MeetingsUser"
+msgstr ""
+
+#: /controllers/meetings_users_controller.php:119
+msgid "The MeetingsUser has been saved"
+msgstr ""
+
+#: /controllers/meetings_users_controller.php:122
+msgid "The MeetingsUser could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/meetings_users_controller.php:141
+msgid "Invalid id for MeetingsUser"
+msgstr ""
+
+#: /controllers/meetings_users_controller.php:145
+msgid "MeetingsUser deleted"
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:78
+msgid "Invalid Meetingtodo."
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:98;126
+msgid "The Meetingtodo has been saved"
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:101;135
+msgid "The Meetingtodo could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:121
+msgid "Invalid Meetingtodo"
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:158
+msgid "Invalid id for Meeting's To-do"
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:163
+msgid "Meeting's To-do deleted"
+msgstr ""
+
+#: /controllers/memberships_controller.php:67;235
+msgid "Invalid Membership"
+msgstr ""
+
+#: /controllers/memberships_controller.php:72
+msgid "The changes on user role has been saved"
+msgstr ""
+
+#: /controllers/memberships_controller.php:75;243
+msgid "The Membership could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/memberships_controller.php:161
+msgid "Invalid Membership."
+msgstr ""
+
+#: /controllers/memberships_controller.php:197;208
+#: /controllers/users_controller.php:341;368
+msgid "The User could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/memberships_controller.php:205
+#: /controllers/users_controller.php:338;365
+msgid "The User has been saved"
+msgstr ""
+
+#: /controllers/memberships_controller.php:240
+msgid "The Membership has been saved"
+msgstr ""
+
+#: /controllers/memberships_controller.php:267
+msgid "Invalid id for Membership"
+msgstr ""
+
+#: /controllers/memberships_controller.php:271
+msgid "Membership deleted"
+msgstr ""
+
+#: /controllers/notifications_controller.php:63
+msgid "Invalid Notification."
+msgstr ""
+
+#: /controllers/notifications_controller.php:78;101
+msgid "The Notification has been saved"
+msgstr ""
+
+#: /controllers/notifications_controller.php:81;104
+msgid "The Notification could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/notifications_controller.php:96
+msgid "Invalid Notification"
+msgstr ""
+
+#: /controllers/notifications_controller.php:122
+msgid "Invalid id for Notification"
+msgstr ""
+
+#: /controllers/notifications_controller.php:126
+msgid "Notification deleted"
+msgstr ""
+
+#: /controllers/roles_controller.php:89
+msgid "Invalid Role."
+msgstr ""
+
+#: /controllers/roles_controller.php:106;185
+msgid "The Role has been saved"
+msgstr ""
+
+#: /controllers/roles_controller.php:109;188
+msgid "The Role could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/roles_controller.php:179
+msgid "Invalid Role"
+msgstr ""
+
+#: /controllers/roles_controller.php:258
+msgid "Invalid id for Role"
+msgstr ""
+
+#: /controllers/roles_controller.php:262
+msgid "Role deleted"
+msgstr ""
+
+#: /controllers/settings_controller.php:65
+msgid "The Global Settings has been saved"
+msgstr ""
+
+#: /controllers/settings_controller.php:67
+msgid "The Global Settings could not be saved. Configuration file mymeeting.php is not writable."
+msgstr ""
+
+#: /controllers/settings_controller.php:161
+msgid "Logo has been saved."
+msgstr ""
+
+#: /controllers/settings_controller.php:171
+msgid "Please correct errors below."
+msgstr ""
+
+#: /controllers/systemtodos_controller.php:95
+msgid "Invalid Systemtodo."
+msgstr ""
+
+#: /controllers/systemtodos_controller.php:129
+msgid "Invalid To-do."
+msgstr ""
+
+#: /controllers/systemtodos_controller.php:145
+msgid "Invalid To-do"
+msgstr ""
+
+#: /controllers/systemtodos_controller.php:173
+msgid "Invalid id for To-do"
+msgstr ""
+
+#: /controllers/systemtodos_controller.php:177
+msgid "To-do deleted"
+msgstr ""
+
+#: /controllers/templates_controller.php:122
+msgid "Invalid Template."
+msgstr ""
+
+#: /controllers/templates_controller.php:138;167
+msgid "The Template has been saved"
+msgstr ""
+
+#: /controllers/templates_controller.php:141;178
+msgid "The Template could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/templates_controller.php:162
+msgid "Invalid Template"
+msgstr ""
+
+#: /controllers/templates_controller.php:196
+msgid "Invalid id for Template"
+msgstr ""
+
+#: /controllers/templates_controller.php:200
+msgid "Template deleted"
+msgstr ""
+
+#: /controllers/titles_controller.php:89
+msgid "Invalid Title."
+msgstr ""
+
+#: /controllers/titles_controller.php:105;127
+msgid "The Title has been saved"
+msgstr ""
+
+#: /controllers/titles_controller.php:108;130
+msgid "The Title could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/titles_controller.php:122
+msgid "Invalid Title"
+msgstr ""
+
+#: /controllers/titles_controller.php:146
+msgid "Invalid id for Title"
+msgstr ""
+
+#: /controllers/titles_controller.php:150
+msgid "Title deleted"
+msgstr ""
+
+#: /controllers/users_controller.php:103
+msgid "Your old password is invalid."
+msgstr ""
+
+#: /controllers/users_controller.php:106;133
+msgid "Your password does not match."
+msgstr ""
+
+#: /controllers/users_controller.php:112;139
+msgid "Your password has been changed"
+msgstr ""
+
+#: /controllers/users_controller.php:124
+msgid "Password for %s has been reset"
+msgstr ""
+
+#: /controllers/users_controller.php:175;186
+#: /views/users/checkcaptcha.ctp:3;15
+#: /views/users/login.ctp:3;15
+msgid "Login"
+msgstr ""
+
+#: /controllers/users_controller.php:231
+msgid "Successfully logged out"
+msgstr ""
+
+#: /controllers/users_controller.php:322
+msgid "Invalid User."
+msgstr ""
+
+#: /controllers/users_controller.php:360;387
+msgid "Invalid User"
+msgstr ""
+
+#: /controllers/users_controller.php:392
+msgid "The profile has been saved"
+msgstr ""
+
+#: /controllers/users_controller.php:395
+msgid "The profile could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/users_controller.php:414
+msgid "Invalid id for User"
+msgstr ""
+
+#: /controllers/users_controller.php:418
+msgid "User deleted"
+msgstr ""
+
+#: /controllers/users_controller.php:444
+msgid "Your new password has been generated. Please check your email."
+msgstr ""
+
+#: /controllers/users_controller.php:447;473
+msgid "The email is not registered in the system."
+msgstr ""
+
+#: /controllers/users_controller.php:470
+msgid "Your username has been sent to your email."
+msgstr ""
+
+#: /controllers/users_groups_controller.php:63
+msgid "Invalid UsersGroup."
+msgstr ""
+
+#: /controllers/users_groups_controller.php:78;102
+msgid "The UsersGroup has been saved"
+msgstr ""
+
+#: /controllers/users_groups_controller.php:81;105
+msgid "The UsersGroup could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/users_groups_controller.php:97
+msgid "Invalid UsersGroup"
+msgstr ""
+
+#: /controllers/users_groups_controller.php:124
+msgid "Invalid id for UsersGroup"
+msgstr ""
+
+#: /controllers/users_groups_controller.php:128
+msgid "UsersGroup deleted"
+msgstr ""
+
+#: /controllers/userstatuses_controller.php:79
+msgid "Invalid Status."
+msgstr ""
+
+#: /controllers/userstatuses_controller.php:101;221
+msgid "The Status has been saved"
+msgstr ""
+
+#: /controllers/userstatuses_controller.php:109;233
+msgid "The Status could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/userstatuses_controller.php:187
+msgid "Invalid Status"
+msgstr ""
+
+#: /controllers/userstatuses_controller.php:255
+msgid "Invalid id for Status"
+msgstr ""
+
+#: /controllers/userstatuses_controller.php:259
+msgid "Status deleted"
+msgstr ""
+
+#: /controllers/wfmodels_controller.php:77
+msgid "Invalid Wfmodel."
+msgstr ""
+
+#: /controllers/wfmodels_controller.php:95;138
+msgid "The Wfmodel has been saved"
+msgstr ""
+
+#: /controllers/wfmodels_controller.php:103;141
+msgid "The Wfmodel could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/wfmodels_controller.php:122
+msgid "Invalid Wfmodel"
+msgstr ""
+
+#: /controllers/wfmodels_controller.php:164
+msgid "Invalid id for Wfmodel"
+msgstr ""
+
+#: /controllers/wfmodels_controller.php:168
+msgid "Wfmodel deleted"
+msgstr ""
+
+#: /controllers/wfstatuses_controller.php:64
+msgid "Invalid Wfstatus."
+msgstr ""
+
+#: /controllers/wfstatuses_controller.php:79;102
+msgid "The Wfstatus has been saved"
+msgstr ""
+
+#: /controllers/wfstatuses_controller.php:82;105
+msgid "The Wfstatus could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/wfstatuses_controller.php:97
+msgid "Invalid Wfstatus"
+msgstr ""
+
+#: /controllers/wfstatuses_controller.php:123
+msgid "Invalid id for Wfstatus"
+msgstr ""
+
+#: /controllers/wfstatuses_controller.php:127
+msgid "Wfstatus deleted"
+msgstr ""
+
+#: /controllers/workflows_controller.php:72
+msgid "Invalid Workflow."
+msgstr ""
+
+#: /controllers/workflows_controller.php:90;116
+msgid "The Workflow has been saved"
+msgstr ""
+
+#: /controllers/workflows_controller.php:93;119
+msgid "The Workflow could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/workflows_controller.php:111
+msgid "Invalid Workflow"
+msgstr ""
+
+#: /controllers/workflows_controller.php:140
+msgid "Invalid id for Workflow"
+msgstr ""
+
+#: /controllers/workflows_controller.php:144
+msgid "Workflow deleted"
+msgstr ""
+
+#: /controllers/components/auth.php:417
+msgid "Could not find $userModel. Please set AuthComponent::$userModel in beforeFilter()."
+msgstr ""
+
+#: /controllers/components/auth.php:427
+msgid "Login failed. Invalid username or password."
+msgstr ""
+
+#: /controllers/components/auth.php:428
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: /controllers/components/auth.php:510
+msgid "Could not find %s. Set AuthComponent::$object in beforeFilter() or pass a valid object"
+msgstr ""
+
+#: /controllers/components/auth.php:516
+msgid "%s::isAuthorized() is not defined."
+msgstr ""
+
+#: /controllers/components/auth.php:524
+msgid "Auth::isAuthorized() - $authorize is set to an incorrect value.  Allowed settings are: \"actions\", \"crud\", \"model\" or null."
+msgstr ""
+
+#: /controllers/components/auth.php:757
+msgid "Auth::getModel() - Model is not set or could not be found"
+msgstr ""
+
+#: /controllers/components/comment.php:83
+#: /views/helpers/comment.php:83
+msgid "on"
+msgstr ""
+
+#: /models/behaviors/bindable.php:464
+msgid "%s.%s is not a valid binding"
+msgstr ""
+
+#: /vendors/shells/createdb.php:9
+msgid "The username for the database is too long. Has to be less than 16 characters"
+msgstr ""
+
+#: /vendors/shells/createdb.php:12
+msgid "Please enter mysql root password to create database and user"
+msgstr ""
+
+#: /vendors/shells/createdb.php:15
+msgid "Created the %s database"
+msgstr ""
+
+#: /vendors/shells/createdb.php:17
+msgid "Granted access to %s database for %s at %s"
+msgstr ""
+
+#: /vendors/shells/createdb.php:19
+msgid "Updated %s password to %s"
+msgstr ""
+
+#: /vendors/shells/createdb.php:22
+msgid "Database is set. Please run the installation script again"
+msgstr ""
+
+#: /vendors/shells/createdb.php:28
+msgid "The database configuration is not set yet. Please run `cake install` to create it"
+msgstr ""
+
+#: /vendors/shells/fixup.php:46
+msgid "Welcome to the MyMeeting console"
+msgstr ""
+
+#: /vendors/shells/fixup.php:55
+msgid "Fixup options:"
+msgstr ""
+
+#: /vendors/shells/fixup.php:56
+msgid "defaultmessages - restore default messages for the whole system and for every committee"
+msgstr ""
+
+#: /vendors/shells/fixup.php:57
+msgid "messages - create default messages for the system and committee if the message does not yet exist"
+msgstr ""
+
+#: /vendors/shells/fixup.php:58
+msgid "defaultwfmodels - restore default permissions for all the committee for the whole system"
+msgstr ""
+
+#: /vendors/shells/fixup.php:59
+msgid "cleanminutes - remove any mymeeting tagging from the minutes"
+msgstr ""
+
+#: /vendors/shells/fixup.php:60
+msgid "database - update the database to the latest schema"
+msgstr ""
+
+#: /vendors/shells/fixup.php:61
+msgid "dumpdb - dump the database for backup"
+msgstr ""
+
+#: /vendors/shells/fixup.php:62
+msgid "resettree - build tree structure for the first time, this will bring all committees on top level"
+msgstr ""
+
+#: /vendors/shells/fixup.php:63
+msgid "fixpermission - create necessary files/folders and fix the permission"
+msgstr ""
+
+#: /vendors/shells/fixup.php:69
+msgid "Setting system message for"
+msgstr ""
+
+#: /vendors/shells/fixup.php:417
+msgid "Preparing the data..."
+msgstr ""
+
+#: /vendors/shells/fixup.php:418
+msgid "No committees found"
+msgstr ""
+
+#: /vendors/shells/fixup.php:430;444;460;466;472;478;484;490
+#: /vendors/shells/install.php:170;185;209;254;303;309;315;321;327;333
+msgid "..yes"
+msgstr ""
+
+#: /vendors/shells/fixup.php:431;445
+#: /vendors/shells/install.php:170;303;309;315;321;327;333
+msgid "..no"
+msgstr ""
+
+#: /vendors/shells/fixup.php:436
+msgid "Resetting committees to top level..."
+msgstr ""
+
+#: /vendors/shells/fixup.php:454
+msgid "Please make sure you're running this command as the owner of the files."
+msgstr ""
+
+#: /vendors/shells/fixup.php:455
+#: /vendors/shells/install.php:298
+msgid "Fixing permission..."
+msgstr ""
+
+#: /vendors/shells/fixup.php:460;466;472;478;484;490
+msgid "no"
+msgstr ""
+
+#: /vendors/shells/fixup.php:499
+#: /vendors/shells/install.php:342
+msgid "Renaming .htaccess..."
+msgstr ""
+
+#: /vendors/shells/fixup.php:500
+#: /vendors/shells/install.php:343
+msgid "currently at"
+msgstr ""
+
+#: /vendors/shells/fixup.php:502
+#: /vendors/shells/install.php:345
+msgid "renaming at"
+msgstr ""
+
+#: /vendors/shells/install.php:76
+msgid "This will install MyMeeting on your system. Would you like to continue?"
+msgstr ""
+
+#: /vendors/shells/install.php:79
+msgid "Installing..."
+msgstr ""
+
+#: /vendors/shells/install.php:83
+msgid "Quiting.."
+msgstr ""
+
+#: /vendors/shells/install.php:94
+msgid "Welcome to the MyMeeting installer"
+msgstr ""
+
+#: /vendors/shells/install.php:107
+msgid "Database is already set. Do you want to reconfigure it?"
+msgstr ""
+
+#: /vendors/shells/install.php:110;123
+msgid "New settings have been written. Please run the installation script again"
+msgstr ""
+
+#: /vendors/shells/install.php:115;133
+msgid "There is a problem connecting to the database. Please make sure that the database "
+msgstr ""
+
+#: /vendors/shells/install.php:117;135
+msgid "exists and that the mysql user"
+msgstr ""
+
+#: /vendors/shells/install.php:119;137
+msgid "has proper access to it. You can run `cake createdb` to do it for you and then run this script again."
+msgstr ""
+
+#: /vendors/shells/install.php:120
+msgid "Or do you want to create a new configuration?"
+msgstr ""
+
+#: /vendors/shells/install.php:156
+msgid "Installing default data..."
+msgstr ""
+
+#: /vendors/shells/install.php:170;170
+msgid "Creating default user admin with password 123456"
+msgstr ""
+
+#: /vendors/shells/install.php:185
+msgid "Creating default roles: admin, member"
+msgstr ""
+
+#: /vendors/shells/install.php:209
+msgid "Creating default titles"
+msgstr ""
+
+#: /vendors/shells/install.php:254
+msgid "Creating default message templates"
+msgstr ""
+
+#: /vendors/shells/install.php:256
+msgid "Installation completed! You can now login with username admin and password 123456"
+msgstr ""
+
+#: /vendors/shells/install.php:262
+msgid "Setting agency details..."
+msgstr ""
+
+#: /vendors/shells/install.php:263
+msgid "Agency name:"
+msgstr ""
+
+#: /vendors/shells/install.php:264
+msgid "Agency address:"
+msgstr ""
+
+#: /vendors/shells/install.php:265
+msgid "Agency slogan:"
+msgstr ""
+
+#: /vendors/shells/install.php:266
+msgid "Date format:"
+msgstr ""
+
+#: /vendors/shells/install.php:267
+msgid "Time format:"
+msgstr ""
+
+#: /vendors/shells/install.php:268
+msgid "Server Address (eg http://www.agensi.gov.my, http://www.agensi.gov.my/mymeeting):"
+msgstr ""
+
+#: /vendors/shells/install.php:269
+msgid "E-mail from:"
+msgstr ""
+
+#: /vendors/shells/install.php:270
+msgid "E-mail from name:"
+msgstr ""
+
+#: /vendors/shells/install.php:271
+msgid "E-mail host:"
+msgstr ""
+
+#: /vendors/shells/install.php:272
+msgid "E-mail port:"
+msgstr ""
+
+#: /vendors/shells/install.php:273
+msgid "Days to remind:"
+msgstr ""
+
+#: /vendors/shells/install.php:293
+msgid "Agency details set"
+msgstr ""
+
+#: /vendors/shells/schema.php:98
+msgid "Schema could not be found"
+msgstr ""
+
+#: /vendors/shells/schema.php:149;152
+msgid "Schema file: %s generated"
+msgstr ""
+
+#: /vendors/shells/schema.php:167
+msgid "Schema could not be loaded"
+msgstr ""
+
+#: /vendors/shells/schema.php:186
+msgid "SQL dump file created in %s"
+msgstr ""
+
+#: /vendors/shells/schema.php:189
+msgid "SQL dump could not be created"
+msgstr ""
+
+#: /vendors/shells/schema.php:218
+msgid "Performing a dry run."
+msgstr ""
+
+#: /vendors/shells/schema.php:229
+msgid "%s could not be loaded"
+msgstr ""
+
+#: /vendors/shells/schema.php:246
+msgid "command not found"
+msgstr ""
+
+#: /vendors/shells/schema.php:271;317
+msgid "Schema is up to date."
+msgstr ""
+
+#: /vendors/shells/schema.php:275
+msgid "The following tables will drop."
+msgstr ""
+
+#: /vendors/shells/schema.php:278
+msgid "Are you sure you want to drop the tables?"
+msgstr ""
+
+#: /vendors/shells/schema.php:283
+msgid "The following tables will create."
+msgstr ""
+
+#: /vendors/shells/schema.php:286
+msgid "Are you sure you want to create the tables?"
+msgstr ""
+
+#: /vendors/shells/schema.php:291
+msgid "End create."
+msgstr ""
+
+#: /vendors/shells/schema.php:321
+msgid "The following statements will run."
+msgstr ""
+
+#: /vendors/shells/schema.php:323
+msgid "Are you sure you want to alter the tables?"
+msgstr ""
+
+#: /vendors/shells/schema.php:325
+msgid "Updating Database..."
+msgstr ""
+
+#: /vendors/shells/schema.php:329
+msgid "End update."
+msgstr ""
+
+#: /vendors/shells/schema.php:338
+msgid "Sql could not be run"
+msgstr ""
+
+#: /vendors/shells/schema.php:348
+msgid "%s is up to date."
+msgstr ""
+
+#: /vendors/shells/schema.php:351
+msgid "Dry run for %s :"
+msgstr ""
+
+#: /vendors/shells/schema.php:366
+msgid "%s updated."
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:65
+msgid "Database Configuration:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:87;197
+msgid "Driver:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:103
+msgid "Database Host:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:108
+msgid "Port?"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:117;201
+msgid "User:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:123
+msgid "Password:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:126
+msgid "The password you supplied was empty. Use an empty password?"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:136
+msgid "Database Name:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:141
+msgid "Table Prefix?"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:194
+msgid "The following database configuration will be created:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:196
+msgid "Name:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:199
+msgid "Host:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:200
+msgid "Port:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:202
+msgid "Pass:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:203
+msgid "Database:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:204
+msgid "Table prefix:"
+msgstr ""
+
+#: /vendors/shells/tasks/db_config.php:208
+msgid "Look okay?"
+msgstr ""
+
+#: /views/announcements/add.ctp:5
+#: /views/announcements/edit.ctp:4
+#: /views/announcements/index.ctp:5
+#: /views/elements/announcement.ctp:3
+msgid "Announcements"
+msgstr ""
+
+#: /views/announcements/add.ctp:9
+msgid "Add Announcement"
+msgstr ""
+
+#: /views/announcements/add.ctp:16
+#: /views/announcements/edit.ctp:16
+#: /views/committees/add.ctp:31
+#: /views/committees/addsubcomm.ctp:34
+#: /views/committees/committeeto.ctp:29
+#: /views/committees/edit.ctp:41
+#: /views/committees/search.ctp:23
+#: /views/committeetodos/add.ctp:19
+#: /views/committeetodos/edit.ctp:16
+#: /views/decisions/add.ctp:104
+#: /views/decisions/edit.ctp:56
+#: /views/decisions_users/add.ctp:10
+#: /views/decisions_users/edit.ctp:11
+#: /views/groups/add.ctp:12
+#: /views/groups/edit.ctp:13
+#: /views/groupstatuses/add.ctp:41
+#: /views/hashes/confirm.ctp:84
+#: /views/helpers/comment.php:55
+#: /views/helpers/form.php:277;1101
+#: /views/items/add.ctp:26
+#: /views/items/add_dialog.ctp:32
+#: /views/items/edit.ctp:27
+#: /views/meeting_users/add.ctp:12
+#: /views/meeting_users/edit.ctp:13
+#: /views/meetings/add.ctp:23
+#: /views/meetings/addfollowup.ctp:28
+#: /views/meetings/attendance.ctp:132
+#: /views/meetings/edit.ctp:41
+#: /views/meetings/edit_template.ctp:29
+#: /views/meetings/editemails.ctp:19
+#: /views/meetings_users/add.ctp:12
+#: /views/meetings_users/edit.ctp:13
+#: /views/meetingtodos/add.ctp:24
+#: /views/meetingtodos/edit.ctp:17
+#: /views/meetingtodos/index.ctp:69
+#: /views/memberships/add.ctp:63
+#: /views/memberships/edit.ctp:14
+#: /views/memberships/editroles.ctp:19
+#: /views/notifications/add.ctp:12
+#: /views/notifications/edit.ctp:13
+#: /views/roles/add.ctp:26
+#: /views/roles/edit.ctp:27
+#: /views/settings/edit.ctp:37
+#: /views/settings/logo.ctp:20
+#: /views/systemtodos/add.ctp:15
+#: /views/systemtodos/edit.ctp:15
+#: /views/templates/add.ctp:22
+#: /views/templates/edit.ctp:27
+#: /views/titles/add.ctp:17
+#: /views/titles/edit.ctp:15
+#: /views/users/add.ctp:26
+#: /views/users/changepassword.ctp:24
+#: /views/users/edit.ctp:30
+#: /views/users/forcechangepassword.ctp:29
+#: /views/users/forgotpass.ctp:14
+#: /views/users/forgotuser.ctp:14
+#: /views/users/profile.ctp:31
+#: /views/users/viewprofile.ctp:14
+#: /views/users_groups/add.ctp:10
+#: /views/users_groups/edit.ctp:11
+#: /views/userstatuses/add.ctp:47
+#: /views/wfmodels/add.ctp:54
+#: /views/wfmodels/edit.ctp:93
+#: /views/workflows/add.ctp:10
+#: /views/workflows/edit.ctp:11
+msgid "Submit"
+msgstr ""
+
+#: /views/announcements/add.ctp:17
+#: /views/announcements/edit.ctp:17
+#: /views/committees/add.ctp:32
+#: /views/committees/addsubcomm.ctp:35
+#: /views/committees/committeeto.ctp:30
+#: /views/committees/edit.ctp:42
+#: /views/committeetodos/add.ctp:20
+#: /views/committeetodos/edit.ctp:17
+#: /views/decisions/add.ctp:105
+#: /views/decisions/edit.ctp:57
+#: /views/decisions/view.ctp:142;217
+#: /views/decisions_users/add.ctp:11
+#: /views/decisions_users/edit.ctp:12
+#: /views/elements/searchbox.ctp:84;90;96;101;115;125;130;135;145
+#: /views/groups/add.ctp:13
+#: /views/groups/edit.ctp:14
+#: /views/groupstatuses/add.ctp:42
+#: /views/hashes/confirm.ctp:85
+#: /views/items/add.ctp:27
+#: /views/items/add_dialog.ctp:33
+#: /views/items/edit.ctp:28
+#: /views/meeting_users/add.ctp:13
+#: /views/meeting_users/edit.ctp:14
+#: /views/meetings/add.ctp:24
+#: /views/meetings/addfollowup.ctp:29
+#: /views/meetings/attendance.ctp:133
+#: /views/meetings/edit.ctp:42
+#: /views/meetings/edit_template.ctp:30
+#: /views/meetings/editemails.ctp:20
+#: /views/meetings_users/add.ctp:13
+#: /views/meetings_users/edit.ctp:14
+#: /views/meetingtodos/add.ctp:25
+#: /views/meetingtodos/edit.ctp:18
+#: /views/meetingtodos/index.ctp:70
+#: /views/memberships/add.ctp:64
+#: /views/memberships/edit.ctp:15
+#: /views/memberships/editroles.ctp:20
+#: /views/notifications/add.ctp:13
+#: /views/notifications/edit.ctp:14
+#: /views/roles/add.ctp:27
+#: /views/roles/edit.ctp:28
+#: /views/settings/edit.ctp:38
+#: /views/settings/logo.ctp:21
+#: /views/systemtodos/add.ctp:16
+#: /views/systemtodos/edit.ctp:16
+#: /views/templates/add.ctp:23
+#: /views/templates/edit.ctp:28
+#: /views/titles/add.ctp:18
+#: /views/titles/edit.ctp:16
+#: /views/users/add.ctp:27
+#: /views/users/changepassword.ctp:25
+#: /views/users/edit.ctp:31
+#: /views/users/forcechangepassword.ctp:30
+#: /views/users/forgotpass.ctp:15
+#: /views/users/forgotuser.ctp:15
+#: /views/users/profile.ctp:32
+#: /views/users/viewprofile.ctp:15
+#: /views/users_groups/add.ctp:11
+#: /views/users_groups/edit.ctp:12
+#: /views/userstatuses/add.ctp:48
+#: /views/wfmodels/add.ctp:55
+#: /views/wfmodels/edit.ctp:94
+#: /views/workflows/add.ctp:11
+#: /views/workflows/edit.ctp:12
+msgid "Cancel"
+msgstr ""
+
+#: /views/announcements/edit.ctp:9
+msgid "Edit Announcement"
+msgstr ""
+
+#: /views/announcements/index.ctp:3
+msgid "Add new announcement"
+msgstr ""
+
+#: /views/announcements/index.ctp:10
+#: /views/committees/userroles.ctp:13
+#: /views/committeetodos/index.ctp:17
+#: /views/decisions_users/index.ctp:14
+#: /views/groups/index.ctp:10
+#: /views/groupstatuses/index.ctp:21
+#: /views/items/index.ctp:15
+#: /views/meeting_users/index.ctp:13
+#: /views/meetings/index.ctp:16
+#: /views/meetings/indexfollowup.ctp:14
+#: /views/meetings_users/index.ctp:18
+#: /views/meetingtodos/index.ctp:35
+#: /views/memberships/index.ctp:18
+#: /views/notifications/index.ctp:16
+#: /views/roles/index.ctp:13
+#: /views/roles/view.ctp:35
+#: /views/systemtodos/index.ctp:13
+#: /views/templates/index.ctp:14
+#: /views/titles/index.ctp:12
+#: /views/users/index.ctp:14
+#: /views/users_groups/index.ctp:14
+#: /views/userstatuses/index.ctp:20
+#: /views/wfmodels/index.ctp:20
+#: /views/wfstatuses/index.ctp:13
+#: /views/workflows/index.ctp:11
+msgid "Actions"
+msgstr ""
+
+#: /views/announcements/index.ctp:15
+#: /views/attachments/index.ctp:10
+#: /views/committeetodos/index.ctp:21
+#: /views/groups/index.ctp:14
+#: /views/groups/view.ctp:36
+#: /views/logs/index.ctp:19
+#: /views/logs/report.ctp:19;64;84
+#: /views/meetingtodos/index.ctp:37
+#: /views/memberships/index.ctp:23
+#: /views/roles/index.ctp:18
+#: /views/systemtodos/index.ctp:17
+#: /views/templates/index.ctp:19
+#: /views/titles/index.ctp:17
+#: /views/users/index.ctp:19
+msgid "No record found"
+msgstr ""
+
+#: /views/announcements/index.ctp:39
+#: /views/committees/userroles.ctp:42
+#: /views/committeetodos/index.ctp:51
+#: /views/decisions_users/index.ctp:44
+#: /views/groups/index.ctp:38
+#: /views/groupstatuses/index.ctp:72
+#: /views/items/index.ctp:49
+#: /views/logs/index.ctp:54
+#: /views/meeting_users/index.ctp:55
+#: /views/meetings/index.ctp:92
+#: /views/meetings/indexfollowup.ctp:69
+#: /views/meetings_users/index.ctp:60
+#: /views/memberships/addressbook.ctp:47
+#: /views/memberships/index.ctp:67
+#: /views/notifications/index.ctp:52
+#: /views/roles/index.ctp:47
+#: /views/systemtodos/index.ctp:54
+#: /views/templates/index.ctp:83
+#: /views/titles/index.ctp:48
+#: /views/users/addressbook.ctp:49
+#: /views/users/alert.ctp:40
+#: /views/users/index.ctp:61;65
+#: /views/users_groups/index.ctp:44
+#: /views/userstatuses/index.ctp:68
+#: /views/wfmodels/index.ctp:68
+#: /views/wfstatuses/index.ctp:49
+#: /views/workflows/index.ctp:42
+msgid "previous"
+msgstr ""
+
+#: /views/announcements/index.ctp:41
+#: /views/committees/userroles.ctp:44
+#: /views/committeetodos/index.ctp:53
+#: /views/decisions_users/index.ctp:46
+#: /views/elements/calendar.ctp:15
+#: /views/groups/index.ctp:40
+#: /views/groupstatuses/index.ctp:74
+#: /views/items/index.ctp:51
+#: /views/logs/index.ctp:56
+#: /views/meeting_users/index.ctp:57
+#: /views/meetings/index.ctp:94
+#: /views/meetings/indexfollowup.ctp:71
+#: /views/meetings_users/index.ctp:62
+#: /views/memberships/addressbook.ctp:49
+#: /views/memberships/index.ctp:69
+#: /views/notifications/index.ctp:54
+#: /views/roles/index.ctp:49
+#: /views/systemtodos/index.ctp:56
+#: /views/templates/index.ctp:85
+#: /views/titles/index.ctp:50
+#: /views/users/addressbook.ctp:51
+#: /views/users/alert.ctp:42
+#: /views/users/index.ctp:63;67
+#: /views/users_groups/index.ctp:46
+#: /views/userstatuses/index.ctp:70
+#: /views/wfmodels/index.ctp:70
+#: /views/wfstatuses/index.ctp:51
+#: /views/workflows/index.ctp:44
+msgid "next"
+msgstr ""
+
+#: /views/announcements/view.ctp:2;4
+#: /views/users/alert.ctp:25
+#: /views/wfmodels/add.ctp:35
+msgid "Announcement"
+msgstr ""
+
+#: /views/attachments/index.ctp:2
+msgid "Files Archive"
+msgstr ""
+
+#: /views/attachments/index.ctp:5
+msgid "Meeting Files"
+msgstr ""
+
+#: /views/attachments/index.ctp:7
+#: /views/committees/addsubcomm.ctp:28
+#: /views/committees/search.ctp:34;83
+#: /views/decisions/edit.ctp:46
+#: /views/decisions/view.ctp:26
+#: /views/elements/decision_list.ctp:38
+#: /views/meeting_users/view.ctp:9
+#: /views/meetings/summary.ctp:2
+#: /views/meetings/view.ctp:25
+#: /views/meetings_users/view.ctp:9
+#: /views/meetingtodos/add.ctp:12
+#: /views/notifications/view.ctp:9
+#: /views/wfmodels/add.ctp:26
+#: /views/wfmodels/edit.ctp:54
+msgid "Meeting"
+msgstr ""
+
+#: /views/attachments/index.ctp:7
+#: /views/decisions/add.ctp:56
+#: /views/decisions/view.ctp:37
+#: /views/hashes/confirm.ctp:8
+#: /views/meetings/attendance.ctp:8
+#: /views/meetings/summary.ctp:6
+#: /views/meetings/view.ctp:36
+msgid "Meeting Date"
+msgstr ""
+
+#: /views/attachments/index.ctp:7;31;52;73
+msgid "File"
+msgstr ""
+
+#: /views/attachments/index.ctp:7;31;52;73
+#: /views/elements/decision_list.ctp:74
+#: /views/groupstatuses/view.ctp:49
+#: /views/meeting_users/view.ctp:34
+#: /views/meetings_users/view.ctp:34
+#: /views/userstatuses/view.ctp:44
+msgid "Updated"
+msgstr ""
+
+#: /views/attachments/index.ctp:29
+msgid "Decision Files"
+msgstr ""
+
+#: /views/attachments/index.ctp:31
+#: /views/committees/search.ctp:36;85
+#: /views/decisions/verifyminutes.ctp:42
+#: /views/decisions/view.ctp:26;44
+#: /views/decisions_users/view.ctp:9
+#: /views/groupstatuses/view.ctp:9
+#: /views/reports/meeting.ctp:9
+#: /views/reports/project.ctp:8
+#: /views/userstatuses/view.ctp:9
+#: /views/wfmodels/add.ctp:31
+#: /views/wfmodels/edit.ctp:55
+msgid "Decision"
+msgstr ""
+
+#: /views/attachments/index.ctp:31
+msgid "Decision Date"
+msgstr ""
+
+#: /views/attachments/index.ctp:50
+msgid "User Status Files"
+msgstr ""
+
+#: /views/attachments/index.ctp:52;73
+#: /views/decisions/view.ctp:105
+#: /views/elements/decision_list.ctp:75
+#: /views/groupstatuses/add.ctp:3
+#: /views/groupstatuses/view_history.ctp:13
+#: /views/reports/meeting.ctp:10
+#: /views/reports/project.ctp:9
+#: /views/userstatuses/add.ctp:3
+#: /views/userstatuses/view_history.ctp:13
+#: /views/wfmodels/edit.ctp:56
+msgid "Status"
+msgstr ""
+
+#: /views/attachments/index.ctp:52;73
+msgid "Status Date"
+msgstr ""
+
+#: /views/attachments/index.ctp:71
+msgid "Group Status Files"
+msgstr ""
+
+#: /views/committees/add.ctp:2;7
+msgid "Add Committee"
+msgstr ""
+
+#: /views/committees/add.ctp:9
+#: /views/committees/addsubcomm.ctp:11
+#: /views/committees/edit.ctp:10
+#: /views/elements/form_instructions.ctp:4
+msgid "Note"
+msgstr ""
+
+#: /views/committees/add.ctp:10
+#: /views/committees/addsubcomm.ctp:12
+#: /views/committees/edit.ctp:11
+msgid "%xxxx refers to meeting number"
+msgstr ""
+
+#: /views/committees/add.ctp:10;11
+#: /views/committees/addsubcomm.ctp:12;13
+#: /views/committees/edit.ctp:11;12;33
+msgid "Meeting Num Template"
+msgstr ""
+
+#: /views/committees/add.ctp:11
+#: /views/committees/addsubcomm.ctp:13
+#: /views/committees/edit.ctp:12
+msgid "%yyyy refers to year"
+msgstr ""
+
+#: /views/committees/add.ctp:12
+#: /views/committees/addsubcomm.ctp:14
+#: /views/committees/edit.ctp:13
+msgid "%committeeshort refers to committee's short name"
+msgstr ""
+
+#: /views/committees/add.ctp:12;13
+#: /views/committees/addsubcomm.ctp:14;15
+#: /views/committees/edit.ctp:13;14;34
+msgid "Meeting Title Template"
+msgstr ""
+
+#: /views/committees/add.ctp:13
+#: /views/committees/addsubcomm.ctp:15
+#: /views/committees/edit.ctp:14
+msgid "%committeelong refers to committee's long name"
+msgstr ""
+
+#: /views/committees/add.ctp:16;18;24
+#: /views/committees/addsubcomm.ctp:19;21;27
+#: /views/committees/edit.ctp:25;27;33
+#: /views/items/add.ctp:16;18
+#: /views/items/edit.ctp:17;19
+#: /views/meetings/add.ctp:9;11
+#: /views/meetings/edit.ctp:21
+#: /views/roles/add.ctp:19
+#: /views/roles/edit.ctp:19
+#: /views/systemtodos/add.ctp:9
+#: /views/systemtodos/edit.ctp:9
+#: /views/titles/add.ctp:9;12
+msgid "This field cannot be left blank"
+msgstr ""
+
+#: /views/committees/add.ctp:19
+#: /views/committees/addsubcomm.ctp:22
+#: /views/committees/edit.ctp:28
+#: /views/titles/add.ctp:10
+msgid "The short name already taken"
+msgstr ""
+
+#: /views/committees/add.ctp:22
+#: /views/committees/addsubcomm.ctp:25
+#: /views/committees/edit.ctp:31
+#: /views/items/add.ctp:19
+#: /views/items/edit.ctp:20
+#: /views/users/forcechangepassword.ctp:15;23
+msgid "Alphabets and numbers only"
+msgstr ""
+
+#: /views/committees/addsubcomm.ctp:2;9
+msgid "Add Sub-committee"
+msgstr ""
+
+#: /views/committees/addsubcomm.ctp:4
+#: /views/decisions/add.ctp:54;66
+#: /views/decisions/view.ctp:33
+#: /views/elements/searchbox.ctp:78
+#: /views/hashes/confirm.ctp:5
+#: /views/items/view.ctp:21
+#: /views/logs/report.ctp:75
+#: /views/meetings/attendance.ctp:5
+#: /views/meetings/summary.ctp:8
+#: /views/meetings/view.ctp:33
+#: /views/memberships/view.ctp:26
+#: /views/users/alert.ctp:24
+#: /views/wfmodels/add.ctp:6;25
+#: /views/wfmodels/edit.ctp:31
+#: /views/wfmodels/view.ctp:19
+#: /views/workflows/view.ctp:9
+msgid "Committee"
+msgstr ""
+
+#: /views/committees/addsubcomm.ctp:27
+#: /views/committees/search.ctp:33;82
+#: /views/committeetodos/index.ctp:13
+#: /views/groups/index.ctp:8
+#: /views/groups/view.ctp:12
+#: /views/items/index.ctp:12
+#: /views/logs/index.ctp:10
+#: /views/logs/report.ctp:10
+#: /views/meetings/attendance.ctp:28
+#: /views/meetings/index.ctp:11
+#: /views/meetings/indexfollowup.ctp:9
+#: /views/meetingtodos/index.ctp:35
+#: /views/memberships/index.ctp:11
+#: /views/memberships/view.ctp:25
+#: /views/roles/index.ctp:11
+#: /views/systemtodos/index.ctp:10
+#: /views/templates/index.ctp:9
+#: /views/titles/index.ctp:9
+#: /views/users/index.ctp:11
+#: /views/wfmodels/index.ctp:17
+msgid "No"
+msgstr ""
+
+#: /views/committees/addsubcomm.ctp:27
+msgid "Year"
+msgstr ""
+
+#: /views/committees/alert.ctp:3
+msgid "Your upcoming meetings"
+msgstr ""
+
+#: /views/committees/alert.ctp:8
+msgid "Important Alerts"
+msgstr ""
+
+#: /views/committees/committeeto.ctp:1
+msgid "Current Committees Todo"
+msgstr ""
+
+#: /views/committees/committeeto.ctp:7
+msgid "List Todo"
+msgstr ""
+
+#: /views/committees/committeeto.ctp:8
+#: /views/reports/meeting.ctp:3
+#: /views/reports/project.ctp:3
+msgid ""
+msgstr ""
+
+#: /views/committees/committeeto.ctp:35
+msgid "Add Meeting todos"
+msgstr ""
+
+#: /views/committees/edit.ctp:5;8
+msgid "Edit Committee"
+msgstr ""
+
+#: /views/committees/edit.ctp:22
+msgid "Top level"
+msgstr ""
+
+#: /views/committees/edit.ctp:23
+msgid "Parent"
+msgstr ""
+
+#: /views/committees/edit.ctp:35
+msgid "Item name"
+msgstr ""
+
+#: /views/committees/edit.ctp:36
+msgid "Minute Template"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:3
+msgid "My committees"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:4
+msgid "The following is a list of committees you're involved in. To call for a new meeting, update current status or add new committee member, please click on the appropriate committee name to continue:"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:21
+msgid "Create: Click here to create a sub-committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:21
+msgid "Click here to add a sub-committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:24
+msgid "Edit: Click here to edit this committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:24
+msgid "Click here to edit this committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:27
+msgid "Delete: Delete this committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:27
+msgid "Click here to delete this committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:27
+msgid "Are you sure you want to delete commitee called %s?"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:30
+msgid "Permissions: Click here to navigate to permission management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:30
+msgid "Click here to navigate to workflow management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:33
+msgid "Announcements: Click here to navigate to committee announcements"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:33
+msgid "Click here to navigate to committee announcements"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:36
+msgid "Groups: Click here to navigate to committee groups management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:36
+msgid "Click here to navigate to committee groups management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:39
+msgid "Users: Click here to navigate to committee users management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:39
+msgid "Click here to navigate to committee users management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:42
+msgid "To-dos: Click here to navigate to committee to-dos management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:42
+msgid "Click here to navigate to committee to-dos management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:45
+msgid "Messages: Click here to navigate to committee messages management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:45
+msgid "Click here to navigate to committee messages management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:50
+msgid " You are not registered under any committee yet"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:62
+msgid "Other tasks"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:63
+#: /views/elements/rightside.ctp:3
+msgid "You have access to these:"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:67
+#: /views/elements/rightside.ctp:7
+msgid "Add committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:68
+msgid "Add a committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:70
+#: /views/elements/rightside.ctp:8
+#: /views/roles/index.ctp:5
+msgid "Roles"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:71
+msgid "Manage roles and privileges"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:73
+#: /views/elements/rightside.ctp:11
+#: /views/titles/index.ctp:3
+msgid "Titles"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:74
+msgid "Manage all titles (Y.Bhg Dato', Tuan, Puan etc)"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:76
+#: /views/elements/rightside.ctp:12
+msgid "Users"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:77
+msgid "Manage users & committees"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:81
+#: /views/elements/rightside.ctp:15
+msgid "To-dos"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:82
+msgid "Default checklist prior to a meeting"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:84
+#: /views/elements/rightside.ctp:16
+#: /views/templates/index.ctp:4
+msgid "Messages"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:85
+msgid "Manage the email templates"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:87
+#: /views/elements/rightside.ctp:20
+msgid "Global settings"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:88
+msgid "Manage global settings"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:90
+#: /views/elements/rightside.ctp:21
+#: /views/logs/index.ctp:4
+msgid "Logs"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:91
+msgid "View Logs"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:95
+#: /views/elements/rightside.ctp:24
+#: /views/logs/report.ctp:2
+msgid "Statistics"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:96
+msgid "Various reports"
+msgstr ""
+
+#: /views/committees/search.ctp:4
+msgid "Search committee"
+msgstr ""
+
+#: /views/committees/search.ctp:10
+msgid "Please enter your criteria below:"
+msgstr ""
+
+#: /views/committees/search.ctp:15
+msgid "Action Status"
+msgstr ""
+
+#: /views/committees/search.ctp:17
+msgid "Taken, on time"
+msgstr ""
+
+#: /views/committees/search.ctp:18
+msgid "Taken, late"
+msgstr ""
+
+#: /views/committees/search.ctp:19
+msgid "Not taken, before due date"
+msgstr ""
+
+#: /views/committees/search.ctp:20
+msgid "Not taken, overdue"
+msgstr ""
+
+#: /views/committees/search.ctp:21
+#: /views/elements/searchbox.ctp:22;30;37;52;60;68;82;113;143
+msgid "--please select--"
+msgstr ""
+
+#: /views/committees/search.ctp:29
+msgid "Individual Implementors"
+msgstr ""
+
+#: /views/committees/search.ctp:35;84
+msgid "Project/Item"
+msgstr ""
+
+#: /views/committees/search.ctp:37;86
+msgid "Implementors & Status"
+msgstr ""
+
+#: /views/committees/search.ctp:41;90
+#: /views/meetings/attendance.ctp:47
+msgid "No records found"
+msgstr ""
+
+#: /views/committees/search.ctp:63;68;112;117
+msgid "No status"
+msgstr ""
+
+#: /views/committees/search.ctp:78
+msgid "Group Implementors"
+msgstr ""
+
+#: /views/committees/userroles.ctp:3
+msgid "Committee Users"
+msgstr ""
+
+#: /views/committees/userroles.ctp:6
+#: /views/decisions_users/index.ctp:6
+#: /views/groupstatuses/index.ctp:6
+#: /views/meetings_users/index.ctp:6
+#: /views/memberships/addressbook.ctp:6
+#: /views/notifications/index.ctp:6
+#: /views/users/addressbook.ctp:5
+#: /views/users/alert.ctp:8
+#: /views/users_groups/index.ctp:6
+#: /views/userstatuses/index.ctp:6
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: /views/committees/userroles.ctp:33
+msgid "Edit Roles"
+msgstr ""
+
+#: /views/committeetodos/add.ctp:2
+msgid "Add new committee's To-do"
+msgstr ""
+
+#: /views/committeetodos/add.ctp:6
+msgid "Add To-do"
+msgstr ""
+
+#: /views/committeetodos/edit.ctp:2
+msgid "Edit committee's To-do"
+msgstr ""
+
+#: /views/committeetodos/edit.ctp:6
+msgid "Edit To-do"
+msgstr ""
+
+#: /views/committeetodos/index.ctp:4
+msgid "Add new To-do for"
+msgstr ""
+
+#: /views/committeetodos/index.ctp:7
+msgid "Committee's To-do's"
+msgstr ""
+
+#: /views/committeetodos/index.ctp:16
+#: /views/logs/report.ctp:58
+msgid "Assigned to"
+msgstr ""
+
+#: /views/committeetodos/summary.ctp:2
+msgid "CommitteeTodos"
+msgstr ""
+
+#: /views/committeetodos/view.ctp:2
+msgid "View committee's To-do"
+msgstr ""
+
+#: /views/committeetodos/view.ctp:5
+#: /views/meetingtodos/index.ctp:35
+msgid "Task"
+msgstr ""
+
+#: /views/committeetodos/view.ctp:8
+#: /views/elements/searchbox.ctp:109
+#: /views/meetingtodos/view.ctp:8
+#: /views/systemtodos/view.ctp:5
+msgid "Priority"
+msgstr ""
+
+#: /views/committeetodos/view.ctp:13
+#: /views/groups/view.ctp:43
+#: /views/meetingtodos/view.ctp:26
+msgid "Back"
+msgstr ""
+
+#: /views/decisions/add.ctp:2
+#: /views/decisions/view.ctp:10
+#: /views/groupstatuses/add.ctp:5
+#: /views/userstatuses/add.ctp:5
+#: /views/wfmodels/add.ctp:34
+#: /views/wfmodels/edit.ctp:53
+msgid "Project"
+msgstr ""
+
+#: /views/decisions/add.ctp:37;77
+msgid "Add Decision"
+msgstr ""
+
+#: /views/decisions/add.ctp:41
+msgid " for Meeting: "
+msgstr ""
+
+#: /views/decisions/add.ctp:45
+msgid " for %s: "
+msgstr ""
+
+#: /views/decisions/add.ctp:55
+#: /views/decisions/view.ctp:35
+#: /views/hashes/confirm.ctp:7
+#: /views/meetings/attendance.ctp:7
+#: /views/meetings/view.ctp:35
+msgid "Meeting No"
+msgstr ""
+
+#: /views/decisions/add.ctp:58
+#: /views/decisions/view.ctp:36
+#: /views/hashes/confirm.ctp:10
+#: /views/meetings/attendance.ctp:10
+#: /views/meetings/minutes.ctp:8
+#: /views/meetings/summary.ctp:7
+#: /views/meetings/view.ctp:38
+#: /views/meetingtodos/index.ctp:22
+msgid "Venue"
+msgstr ""
+
+#: /views/decisions/add.ctp:67
+#: /views/items/view.ctp:22
+msgid "%s Name"
+msgstr ""
+
+#: /views/decisions/add.ctp:68
+#: /views/items/view.ctp:23
+msgid "%s Short Name"
+msgstr ""
+
+#: /views/decisions/add.ctp:69
+#: /views/decisions/view.ctp:48
+#: /views/elements/decision_list.ctp:43
+#: /views/groupstatuses/add.ctp:9
+#: /views/groupstatuses/view.ctp:24
+#: /views/items/view.ctp:24
+#: /views/templates/view.ctp:5
+#: /views/userstatuses/add.ctp:10
+#: /views/userstatuses/view.ctp:19
+msgid "Description"
+msgstr ""
+
+#: /views/decisions/add.ctp:89
+#: /views/items/add.ctp:6;10
+msgid "Add"
+msgstr ""
+
+#: /views/decisions/addminutes.ctp:4
+msgid "Legend:"
+msgstr ""
+
+#: /views/decisions/addminutes.ctp:6
+msgid "### :- Every decision is separated by 3 hashes"
+msgstr ""
+
+#: /views/decisions/addminutes.ctp:7
+msgid "[[ project/item ]] :- The short name or name of the project or item the decision is related to"
+msgstr ""
+
+#: /views/decisions/addminutes.ctp:8
+msgid "{{ user }} :- The user or users(separated by comma) which have to take action on the decision"
+msgstr ""
+
+#: /views/decisions/addminutes.ctp:9
+msgid "{{ g: groupname }} :- The group or groups(separated by comma) which have to take action on the decision"
+msgstr ""
+
+#: /views/decisions/addminutes.ctp:10
+msgid " (( dateline )) :- The dateline for the decision"
+msgstr ""
+
+#: /views/decisions/edit.ctp:40
+msgid "Edit Decision"
+msgstr ""
+
+#: /views/decisions/verifyminutes.ctp:72
+#: /views/decisions_users/view.ctp:14
+#: /views/groupstatuses/view.ctp:14
+#: /views/logs/report.ctp:11
+#: /views/meeting_users/view.ctp:14
+#: /views/meetings_users/view.ctp:14
+#: /views/meetingtodos/view.ctp:9
+#: /views/users_groups/view.ctp:9
+#: /views/userstatuses/view.ctp:14
+#: /views/wfmodels/add.ctp:30
+msgid "User"
+msgstr ""
+
+#: /views/decisions/verifyminutes.ctp:90
+#: /views/groupstatuses/view.ctp:19
+#: /views/users_groups/view.ctp:14
+#: /views/wfmodels/add.ctp:29
+msgid "Group"
+msgstr ""
+
+#: /views/decisions/view.ctp:9
+msgid "Decisions"
+msgstr ""
+
+#: /views/decisions/view.ctp:14
+msgid "Add new User status"
+msgstr ""
+
+#: /views/decisions/view.ctp:18
+msgid "Add new %s user status "
+msgstr ""
+
+#: /views/decisions/view.ctp:22
+msgid "Add new %s group status "
+msgstr ""
+
+#: /views/decisions/view.ctp:34
+#: /views/hashes/confirm.ctp:6
+#: /views/meetings/attendance.ctp:6
+#: /views/meetings/summary.ctp:4
+#: /views/meetings/view.ctp:34
+msgid "Meeting Title"
+msgstr ""
+
+#: /views/decisions/view.ctp:47
+#: /views/elements/decision_list.ctp:42
+#: /views/groupstatuses/add.ctp:8
+#: /views/userstatuses/add.ctp:9
+msgid "Deadline"
+msgstr ""
+
+#: /views/decisions/view.ctp:55
+#: /views/elements/decision_list.ctp:54
+#: /views/elements/searchbox.ctp:32;62
+#: /views/elements/upcoming.ctp:53;92
+#: /views/elements/usergrouplist.ctp:41
+#: /views/groupstatuses/add.ctp:16
+#: /views/reports/meeting.ctp:32
+#: /views/reports/project.ctp:31
+#: /views/userstatuses/add.ctp:17
+msgid "Individual Implementor"
+msgstr ""
+
+#: /views/decisions/view.ctp:60
+#: /views/elements/decision_list.ctp:61
+#: /views/elements/searchbox.ctp:25;54
+#: /views/elements/upcoming.ctp:64;107
+#: /views/elements/usergrouplist.ctp:47
+#: /views/groupstatuses/add.ctp:21
+#: /views/reports/meeting.ctp:70
+#: /views/reports/project.ctp:69
+#: /views/userstatuses/add.ctp:22
+msgid "Group Implementor"
+msgstr ""
+
+#: /views/decisions/view.ctp:72
+msgid "Files for this decision"
+msgstr ""
+
+#: /views/decisions/view.ctp:87
+msgid "Comments for this decision"
+msgstr ""
+
+#: /views/decisions/view.ctp:100
+msgid "List of status"
+msgstr ""
+
+#: /views/decisions/view.ctp:104
+#: /views/groupstatuses/view_history.ctp:12
+#: /views/userstatuses/view_history.ctp:12
+msgid "Implementor"
+msgstr ""
+
+#: /views/decisions/view.ctp:106
+#: /views/groupstatuses/view.ctp:29
+#: /views/groupstatuses/view_history.ctp:14
+#: /views/userstatuses/view.ctp:24
+#: /views/userstatuses/view_history.ctp:14
+msgid "Action Date"
+msgstr ""
+
+#: /views/decisions/view.ctp:107
+#: /views/elements/decision_list.ctp:67
+#: /views/groupstatuses/view_history.ctp:15
+#: /views/userstatuses/view_history.ctp:15
+msgid "Comments"
+msgstr ""
+
+#: /views/decisions/view.ctp:108
+msgid "History"
+msgstr ""
+
+#: /views/decisions/view.ctp:111
+msgid "Decision has not assigned to anyone"
+msgstr ""
+
+#: /views/decisions/view.ctp:133;208
+#: /views/elements/decision_list.ctp:47
+#: /views/groupstatuses/view_history.ctp:29
+#: /views/userstatuses/view_history.ctp:29
+msgid "Additional Files"
+msgstr ""
+
+#: /views/decisions/view.ctp:141;216
+msgid "Leave comment"
+msgstr ""
+
+#: /views/decisions/view.ctp:161;236
+#: /views/decisions_users/index.ctp:35
+#: /views/groupstatuses/index.ctp:63
+#: /views/meeting_users/index.ctp:46
+#: /views/meetings_users/index.ctp:51
+#: /views/notifications/index.ctp:43
+#: /views/roles/view.ctp:51
+#: /views/templates/index.ctp:59;59
+#: /views/users_groups/index.ctp:35
+#: /views/userstatuses/index.ctp:59
+#: /views/wfmodels/edit.ctp:73
+#: /views/wfmodels/index.ctp:25
+#: /views/wfstatuses/index.ctp:40
+#: /views/workflows/index.ctp:32
+msgid "View"
+msgstr ""
+
+#: /views/decisions/view.ctp:163;238
+msgid "View history"
+msgstr ""
+
+#: /views/decisions/view.ctp:178;253
+msgid "Has not submitted status yet"
+msgstr ""
+
+#: /views/decisions_users/add.ctp:4
+msgid "Add DecisionsUser"
+msgstr ""
+
+#: /views/decisions_users/edit.ctp:4
+#: /views/decisions_users/view.ctp:23
+msgid "Edit DecisionsUser"
+msgstr ""
+
+#: /views/decisions_users/index.ctp:2
+msgid "DecisionsUsers"
+msgstr ""
+
+#: /views/decisions_users/index.ctp:36
+#: /views/groupstatuses/index.ctp:64
+#: /views/helpers/form.php:547
+#: /views/items/edit.ctp:6;10
+#: /views/meeting_users/index.ctp:47
+#: /views/meetings_users/index.ctp:52
+#: /views/notifications/index.ctp:44
+#: /views/roles/view.ctp:52
+#: /views/templates/index.ctp:71;71
+#: /views/users_groups/index.ctp:36
+#: /views/userstatuses/index.ctp:60
+#: /views/wfmodels/edit.ctp:73
+#: /views/wfmodels/index.ctp:27
+#: /views/wfstatuses/index.ctp:41
+#: /views/workflows/index.ctp:33
+msgid "Edit"
+msgstr ""
+
+#: /views/decisions_users/index.ctp:37
+#: /views/groupstatuses/edit.ctp:20
+#: /views/groupstatuses/index.ctp:65
+#: /views/meeting_users/index.ctp:48
+#: /views/meetings_users/index.ctp:53
+#: /views/notifications/index.ctp:45
+#: /views/roles/view.ctp:53
+#: /views/settings/edit.ctp:43
+#: /views/users_groups/edit.ctp:17
+#: /views/users_groups/index.ctp:37
+#: /views/userstatuses/edit.ctp:19
+#: /views/userstatuses/index.ctp:61
+#: /views/wfmodels/edit.ctp:73
+#: /views/wfmodels/index.ctp:28
+#: /views/wfstatuses/index.ctp:42
+#: /views/workflows/index.ctp:34
+msgid "Delete"
+msgstr ""
+
+#: /views/decisions_users/index.ctp:37
+#: /views/decisions_users/view.ctp:24
+#: /views/elements/decision_list.ctp:27
+#: /views/groupstatuses/edit.ctp:20
+#: /views/groupstatuses/index.ctp:65
+#: /views/groupstatuses/view.ctp:59
+#: /views/meeting_users/index.ctp:48
+#: /views/meetings_users/index.ctp:53
+#: /views/notifications/index.ctp:45
+#: /views/roles/index.ctp:39
+#: /views/roles/view.ctp:19;53
+#: /views/settings/edit.ctp:43
+#: /views/systemtodos/index.ctp:47
+#: /views/titles/index.ctp:40
+#: /views/users_groups/edit.ctp:17
+#: /views/users_groups/index.ctp:37
+#: /views/users_groups/view.ctp:24
+#: /views/userstatuses/edit.ctp:19
+#: /views/userstatuses/index.ctp:61
+#: /views/userstatuses/view.ctp:54
+#: /views/wfmodels/view.ctp:29
+#: /views/wfstatuses/index.ctp:42
+#: /views/wfstatuses/view.ctp:34
+#: /views/workflows/index.ctp:34
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: /views/decisions_users/view.ctp:2
+msgid "DecisionsUser"
+msgstr ""
+
+#: /views/decisions_users/view.ctp:4
+#: /views/groupstatuses/view.ctp:4
+#: /views/meeting_users/view.ctp:4
+#: /views/meetings_users/view.ctp:4
+#: /views/notifications/view.ctp:4
+#: /views/roles/view.ctp:4;31
+#: /views/users_groups/view.ctp:4
+#: /views/userstatuses/view.ctp:4
+#: /views/wfmodels/view.ctp:4
+#: /views/wfstatuses/view.ctp:4
+#: /views/workflows/view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: /views/decisions_users/view.ctp:24
+msgid "Delete DecisionsUser"
+msgstr ""
+
+#: /views/decisions_users/view.ctp:25
+msgid "List DecisionsUsers"
+msgstr ""
+
+#: /views/decisions_users/view.ctp:26
+msgid "New DecisionsUser"
+msgstr ""
+
+#: /views/decisions_users/view.ctp:27
+#: /views/groupstatuses/edit.ctp:22
+#: /views/groupstatuses/index.ctp:79
+#: /views/groupstatuses/view.ctp:62
+#: /views/userstatuses/edit.ctp:21
+#: /views/userstatuses/index.ctp:75
+#: /views/userstatuses/view.ctp:57
+msgid "List Decisions"
+msgstr ""
+
+#: /views/decisions_users/view.ctp:28
+#: /views/groupstatuses/edit.ctp:23
+#: /views/groupstatuses/index.ctp:80
+#: /views/groupstatuses/view.ctp:63
+#: /views/userstatuses/edit.ctp:22
+#: /views/userstatuses/index.ctp:76
+#: /views/userstatuses/view.ctp:58
+msgid "New Decision"
+msgstr ""
+
+#: /views/decisions_users/view.ctp:29
+#: /views/groupstatuses/edit.ctp:24
+#: /views/groupstatuses/index.ctp:81
+#: /views/groupstatuses/view.ctp:64
+#: /views/users_groups/add.ctp:17
+#: /views/users_groups/edit.ctp:19
+#: /views/users_groups/index.ctp:51
+#: /views/users_groups/view.ctp:27
+#: /views/userstatuses/edit.ctp:23
+#: /views/userstatuses/index.ctp:77
+#: /views/userstatuses/view.ctp:59
+msgid "List Users"
+msgstr ""
+
+#: /views/decisions_users/view.ctp:30
+#: /views/groupstatuses/edit.ctp:25
+#: /views/groupstatuses/index.ctp:82
+#: /views/groupstatuses/view.ctp:65
+#: /views/users_groups/add.ctp:18
+#: /views/users_groups/edit.ctp:20
+#: /views/users_groups/index.ctp:52
+#: /views/users_groups/view.ctp:28
+#: /views/userstatuses/edit.ctp:24
+#: /views/userstatuses/index.ctp:78
+#: /views/userstatuses/view.ctp:60
+msgid "New User"
+msgstr ""
+
+#: /views/elements/adminmenu.ctp:5
+msgid "Search"
+msgstr ""
+
+#: /views/elements/announcement.ctp:10
+msgid "No announcements currently"
+msgstr ""
+
+#: /views/elements/calendar.ctp:13
+msgid "prev"
+msgstr ""
+
+#: /views/elements/calendar.ctp:17
+msgid "You're currently viewing month: "
+msgstr ""
+
+#: /views/elements/calendar.ctp:22
+msgid "Monday"
+msgstr ""
+
+#: /views/elements/calendar.ctp:22
+msgid "Tuesday"
+msgstr ""
+
+#: /views/elements/calendar.ctp:22
+msgid "Wednesday"
+msgstr ""
+
+#: /views/elements/calendar.ctp:22
+msgid "Thursday"
+msgstr ""
+
+#: /views/elements/calendar.ctp:22
+msgid "Friday"
+msgstr ""
+
+#: /views/elements/calendar.ctp:22
+msgid "Saturday"
+msgstr ""
+
+#: /views/elements/calendar.ctp:22
+msgid "Sunday"
+msgstr ""
+
+#: /views/elements/crud.ctp:4;4
+msgid "View item"
+msgstr ""
+
+#: /views/elements/crud.ctp:14;14
+msgid "Edit item"
+msgstr ""
+
+#: /views/elements/crud.ctp:24;24
+msgid "Delete item"
+msgstr ""
+
+#: /views/elements/crud.ctp:24
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+#: /views/elements/decision_list.ctp:10
+msgid "List of decisions"
+msgstr ""
+
+#: /views/elements/decision_list.ctp:74
+msgid "No update"
+msgstr ""
+
+#: /views/elements/decision_list.ctp:87
+msgid "No decisions found"
+msgstr ""
+
+#: /views/elements/form_instructions.ctp:5
+msgid "Please fill all <span class=\"required\">required</span> fields."
+msgstr ""
+
+#: /views/elements/form_instructions.ctp:7
+msgid "Please select your filter criteria/s"
+msgstr ""
+
+#: /views/elements/personal_links.ctp:4
+msgid "My Committees"
+msgstr ""
+
+#: /views/elements/personal_links.ctp:5
+msgid "Calendar"
+msgstr ""
+
+#: /views/elements/personal_links.ctp:6
+msgid "Logout"
+msgstr ""
+
+#: /views/elements/searchbox.ctp:7
+msgid "Filters"
+msgstr ""
+
+#: /views/elements/searchbox.ctp:46
+#: /views/meetings/summary.ctp:5
+msgid "Meeting Num"
+msgstr ""
+
+#: /views/elements/searchbox.ctp:74
+#: /views/users/checkcaptcha.ctp:5
+#: /views/users/login.ctp:5
+msgid "Username"
+msgstr ""
+
+#: /views/elements/searchbox.ctp:84;90;96;101;115;125;130;135;145
+msgid "Submit Criteria/s"
+msgstr ""
+
+#: /views/elements/searchbox.ctp:122
+msgid "Message title"
+msgstr ""
+
+#: /views/elements/searchbox.ctp:124
+msgid "Message"
+msgstr ""
+
+#: /views/elements/searchbox.ctp:139
+msgid "Report"
+msgstr ""
+
+#: /views/elements/searchbox.ctp:158
+msgid "No. of records:"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:7
+msgid "Upcoming meetings"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:9
+msgid "Upcoming deadlines"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:11
+msgid "Decisions without any status"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:19
+msgid "No upcoming meeting found"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:26
+msgid "Meeting Number :"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:27
+msgid "Meeting Title :"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:28
+msgid "Meeting Date :"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:29
+msgid "Meeting Venue :"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:37
+msgid "No upcoming deadline found"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:41;81
+msgid "Project:"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:42;82
+msgid "Meeting:"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:44;83
+msgid "Decision:"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:48;87
+msgid "Decision deadline :"
+msgstr ""
+
+#: /views/elements/upcoming.ctp:76
+msgid "No decision need updating"
+msgstr ""
+
+#: /views/elements/usergrouplist.ctp:42
+#: /views/elements/userlist.ctp:47;60
+msgid "Select by group"
+msgstr ""
+
+#: /views/elements/userlist.ctp:66
+msgid "Members"
+msgstr ""
+
+#: /views/elements/users_per_committee.ctp:2
+msgid "Select members to invite"
+msgstr ""
+
+#: /views/elements/users_per_committee.ctp:9
+msgid "List of members for committee:"
+msgstr ""
+
+#: /views/elements/users_per_committee.ctp:10
+msgid "Please select the members you would like to invite to this meeting."
+msgstr ""
+
+#: /views/elements/users_per_committee.ctp:56
+msgid "Set templates"
+msgstr ""
+
+#: /views/elements/users_per_committee.ctp:64
+msgid "Available tokens"
+msgstr ""
+
+#: /views/errors/missing_controller.ctp:3
+msgid "Missing Controller"
+msgstr ""
+
+#: /views/errors/missing_controller.ctp:6
+msgid "MyMeeting has encountered a problem accessing the page right now."
+msgstr ""
+
+#: /views/errors/missing_controller.ctp:7
+#: /views/errors/missing_view.ctp:7
+msgid "Go to MyCommittees"
+msgstr ""
+
+#: /views/errors/missing_controller.ctp:8
+#: /views/errors/missing_view.ctp:8
+msgid "and start again."
+msgstr ""
+
+#: /views/errors/missing_view.ctp:3
+msgid "Missing View"
+msgstr ""
+
+#: /views/errors/missing_view.ctp:6
+msgid "The page you're looking for doesn't exist."
+msgstr ""
+
+#: /views/groups/add.ctp:2
+#: /views/groups/edit.ctp:2
+#: /views/groups/index.ctp:3
+msgid "Groups"
+msgstr ""
+
+#: /views/groups/add.ctp:5
+msgid "Add Group"
+msgstr ""
+
+#: /views/groups/edit.ctp:5
+msgid "Edit Group"
+msgstr ""
+
+#: /views/groups/index.ctp:2
+msgid "Add new group"
+msgstr ""
+
+#: /views/groups/view.ctp:2
+msgid "View Group"
+msgstr ""
+
+#: /views/groups/view.ctp:4;13
+#: /views/meetings/attendance.ctp:29
+#: /views/memberships/view.ctp:7
+#: /views/roles/view.ctp:9
+#: /views/systemtodos/view.ctp:4
+#: /views/users/view.ctp:5
+#: /views/workflows/view.ctp:14
+msgid "Name"
+msgstr ""
+
+#: /views/groups/view.ctp:8
+msgid "Group Membership"
+msgstr ""
+
+#: /views/groups/view.ctp:14
+msgid "Job Title"
+msgstr ""
+
+#: /views/groups/view.ctp:15
+#: /views/memberships/view.ctp:8
+#: /views/users/forgotpass.ctp:10
+#: /views/users/forgotuser.ctp:10
+msgid "Email"
+msgstr ""
+
+#: /views/groups/view.ctp:16
+#: /views/memberships/view.ctp:13
+#: /views/users/view.ctp:11
+msgid "Telephone"
+msgstr ""
+
+#: /views/groupstatuses/add.ctp:29
+msgid "Add Groupstatus"
+msgstr ""
+
+#: /views/groupstatuses/edit.ctp:4
+#: /views/groupstatuses/view.ctp:58
+msgid "Edit GroupStatus"
+msgstr ""
+
+#: /views/groupstatuses/edit.ctp:21
+#: /views/groupstatuses/view.ctp:60
+msgid "List GroupStatuses"
+msgstr ""
+
+#: /views/groupstatuses/edit.ctp:26
+#: /views/groupstatuses/index.ctp:83
+#: /views/groupstatuses/view.ctp:66
+#: /views/users_groups/add.ctp:19
+#: /views/users_groups/edit.ctp:21
+#: /views/users_groups/index.ctp:53
+#: /views/users_groups/view.ctp:29
+msgid "List Groups"
+msgstr ""
+
+#: /views/groupstatuses/edit.ctp:27
+#: /views/groupstatuses/index.ctp:84
+#: /views/groupstatuses/view.ctp:67
+#: /views/users_groups/add.ctp:20
+#: /views/users_groups/edit.ctp:22
+#: /views/users_groups/index.ctp:54
+#: /views/users_groups/view.ctp:30
+msgid "New Group"
+msgstr ""
+
+#: /views/groupstatuses/index.ctp:2
+msgid "GroupStatuses"
+msgstr ""
+
+#: /views/groupstatuses/index.ctp:78
+#: /views/groupstatuses/view.ctp:61
+msgid "New GroupStatus"
+msgstr ""
+
+#: /views/groupstatuses/view.ctp:2
+msgid "GroupStatus"
+msgstr ""
+
+#: /views/groupstatuses/view.ctp:34
+#: /views/userstatuses/view.ctp:29
+msgid "Deleted"
+msgstr ""
+
+#: /views/groupstatuses/view.ctp:39
+#: /views/userstatuses/view.ctp:34
+msgid "Deleted Date"
+msgstr ""
+
+#: /views/groupstatuses/view.ctp:44
+#: /views/meeting_users/view.ctp:29
+#: /views/meetings_users/view.ctp:29
+#: /views/userstatuses/view.ctp:39
+msgid "Created"
+msgstr ""
+
+#: /views/groupstatuses/view.ctp:59
+msgid "Delete GroupStatus"
+msgstr ""
+
+#: /views/groupstatuses/view_history.ctp:9
+#: /views/userstatuses/view_history.ctp:9
+msgid "Latest update is at the top"
+msgstr ""
+
+#: /views/groupstatuses/view_history.ctp:40
+#: /views/hashes/confirm.ctp:82
+#: /views/userstatuses/view_history.ctp:40
+msgid "OK"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:2
+msgid "Confirm attendance"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:16
+msgid "Confirmation to attend the above meeting"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:19
+msgid "Attendance for:"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:28
+msgid "You can no longer confirm attendance. It is past due date:"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:31
+msgid "Please confirm attendance before this due date:"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:37
+msgid "You have confirmed to attend the meeting on"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:43
+msgid "You have confirmed NOT to attend the meeting on"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:48
+msgid "You have appointed no one as your representative."
+msgstr ""
+
+#: /views/hashes/confirm.ctp:50
+msgid "You have appointed"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:50
+msgid "as your representative."
+msgstr ""
+
+#: /views/hashes/confirm.ctp:56
+msgid "You have not confirmed the attendance yet."
+msgstr ""
+
+#: /views/hashes/confirm.ctp:62
+msgid "Yes, I will attend"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:62
+msgid "No, I will not attend (please give your reason below)"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:63
+msgid "No, I will not attend but will send a representative on behalf<br/>(please give your excuse & your representative below)"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:64
+msgid "Please select appropriately"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:72
+#: /views/meeting_users/view.ctp:24
+#: /views/meetings_users/view.ctp:24
+msgid "Excuse"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:74
+#: /views/meetings/attendance.ctp:33
+msgid "Representative"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:77
+msgid "This meeting does not allow you to send representatives"
+msgstr ""
+
+#: /views/hashes/hash.ctp:5
+msgid "Please contact the secretariat to confirm your attendance."
+msgstr ""
+
+#: /views/helpers/comment.php:39
+msgid "Leave a comment"
+msgstr ""
+
+#: /views/helpers/form.php:458
+msgid "Error in field %s"
+msgstr ""
+
+#: /views/helpers/form.php:545
+msgid "New"
+msgstr ""
+
+#: /views/helpers/form.php:1779
+msgid "January"
+msgstr ""
+
+#: /views/helpers/form.php:1780
+msgid "February"
+msgstr ""
+
+#: /views/helpers/form.php:1781
+msgid "March"
+msgstr ""
+
+#: /views/helpers/form.php:1782
+msgid "April"
+msgstr ""
+
+#: /views/helpers/form.php:1783
+msgid "May"
+msgstr ""
+
+#: /views/helpers/form.php:1784
+msgid "June"
+msgstr ""
+
+#: /views/helpers/form.php:1785
+msgid "July"
+msgstr ""
+
+#: /views/helpers/form.php:1786
+msgid "August"
+msgstr ""
+
+#: /views/helpers/form.php:1787
+msgid "September"
+msgstr ""
+
+#: /views/helpers/form.php:1788
+msgid "October"
+msgstr ""
+
+#: /views/helpers/form.php:1789
+msgid "November"
+msgstr ""
+
+#: /views/helpers/form.php:1790
+msgid "December"
+msgstr ""
+
+#: /views/items/add.ctp:12
+#: /views/items/edit.ctp:12
+msgid "Short name must be unique within this committee."
+msgstr ""
+
+#: /views/items/add.ctp:20
+#: /views/items/edit.ctp:21
+msgid "This name already taken in this committee"
+msgstr ""
+
+#: /views/items/add_dialog.ctp:16;20
+msgid "Add %s"
+msgstr ""
+
+#: /views/items/index.ctp:6
+msgid "Add new %s"
+msgstr ""
+
+#: /views/items/view.ctp:6
+#: /views/meetings/view.ctp:6
+msgid "Add new decision"
+msgstr ""
+
+#: /views/items/view.ctp:12
+#: /views/meetings/view.ctp:18
+msgid "View Report"
+msgstr ""
+
+#: /views/layouts/default.ctp:86
+msgid "Powered by MyMeeting"
+msgstr ""
+
+#: /views/layouts/popup.ctp:31
+msgid "MyMeeting"
+msgstr ""
+
+#: /views/logs/index.ctp:2
+msgid "Delete logs - 6 months ago"
+msgstr ""
+
+#: /views/logs/index.ctp:2
+msgid "Logs older than 6 months old will be deleted."
+msgstr ""
+
+#: /views/logs/index.ctp:3
+msgid "Delete logs - 1 year ago"
+msgstr ""
+
+#: /views/logs/index.ctp:3
+msgid "Logs older than 1 year old will be deleted."
+msgstr ""
+
+#: /views/logs/report.ctp:12
+#: /views/memberships/view.ctp:9
+#: /views/users/add.ctp:14
+#: /views/users/edit.ctp:15
+#: /views/users/profile.ctp:14
+#: /views/users/view.ctp:7
+msgid "Post"
+msgstr ""
+
+#: /views/logs/report.ctp:13
+msgid "No. of logins"
+msgstr ""
+
+#: /views/logs/report.ctp:14
+msgid "No. of status update"
+msgstr ""
+
+#: /views/logs/report.ctp:15
+msgid "No. of comments"
+msgstr ""
+
+#: /views/logs/report.ctp:55
+#: /views/meetingtodos/index.ctp:14
+msgid "Meeting title"
+msgstr ""
+
+#: /views/logs/report.ctp:56
+msgid "Total meetings"
+msgstr ""
+
+#: /views/logs/report.ctp:57
+msgid "Total decisions"
+msgstr ""
+
+#: /views/logs/report.ctp:59
+msgid "Total status update"
+msgstr ""
+
+#: /views/logs/report.ctp:60
+msgid "Update from"
+msgstr ""
+
+#: /views/logs/report.ctp:106;116
+msgid "Individual:"
+msgstr ""
+
+#: /views/logs/report.ctp:108;118
+msgid "Group:"
+msgstr ""
+
+#: /views/logs/report.ctp:134
+msgid "Please select type of report above to view"
+msgstr ""
+
+#: /views/meeting_users/add.ctp:4
+msgid "Add MeetingUser"
+msgstr ""
+
+#: /views/meeting_users/edit.ctp:4
+msgid "Edit MeetingUser"
+msgstr ""
+
+#: /views/meeting_users/index.ctp:2
+msgid "New MeetingUser"
+msgstr ""
+
+#: /views/meeting_users/index.ctp:3
+msgid "MeetingUsers"
+msgstr ""
+
+#: /views/meeting_users/view.ctp:2
+msgid "MeetingUser"
+msgstr ""
+
+#: /views/meeting_users/view.ctp:19
+#: /views/meetings/attendance.ctp:40
+#: /views/meetings_users/view.ctp:19
+msgid "Attended"
+msgstr ""
+
+#: /views/meetings/add.ctp:2;5
+#: /views/meetings/addfollowup.ctp:5
+msgid "Add Meeting"
+msgstr ""
+
+#: /views/meetings/add.ctp:13
+#: /views/meetings/edit.ctp:23
+msgid "Allow representatives"
+msgstr ""
+
+#: /views/meetings/add.ctp:14
+#: /views/meetings/edit.ctp:25
+msgid "Agenda Files"
+msgstr ""
+
+#: /views/meetings/add.ctp:15
+#: /views/meetings/edit.ctp:26
+msgid "Minutes Files"
+msgstr ""
+
+#: /views/meetings/add.ctp:16
+#: /views/meetings/edit.ctp:27
+msgid "Presentation Files"
+msgstr ""
+
+#: /views/meetings/addfollowup.ctp:2
+msgid "Add Follow-Up Meeting"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:1;31
+#: /views/meetings/index.ctp:73
+#: /views/meetings/indexfollowup.ctp:53
+#: /views/meetings/view.ctp:3
+#: /views/wfmodels/add.ctp:37
+msgid "Attendance"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:16
+msgid "Take Attendance"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:20
+msgid "List of members invited for this meeting. Members who have confirmed their attendance will be shown below."
+msgstr ""
+
+#: /views/meetings/attendance.ctp:21
+msgid "You can also update their attendance on their behalf here."
+msgstr ""
+
+#: /views/meetings/attendance.ctp:23
+msgid "This meeting does not allow members to send representatives"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:30
+msgid "Confirmed Attendance"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:32
+msgid "Reason"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:38
+msgid "Will attend"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:39
+msgid "Confirmed on"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:41
+msgid "Date updated"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:71;81;99;109
+msgid "Y"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:71;81;99;109
+msgid "N"
+msgstr ""
+
+#: /views/meetings/cancel.ctp:2
+msgid "Edit message"
+msgstr ""
+
+#: /views/meetings/cancel.ctp:4
+msgid "Cancel meeting"
+msgstr ""
+
+#: /views/meetings/cancel.ctp:13
+msgid "Send cancelation"
+msgstr ""
+
+#: /views/meetings/cancel.ctp:15
+msgid "Do not send cancelation"
+msgstr ""
+
+#: /views/meetings/edit.ctp:10;13
+msgid "Edit Meeting"
+msgstr ""
+
+#: /views/meetings/edit.ctp:30
+msgid "Select Members"
+msgstr ""
+
+#: /views/meetings/edit_template.ctp:3;16
+msgid "Edit "
+msgstr ""
+
+#: /views/meetings/edit_template.ctp:5
+#: /views/meetings/editemails.ctp:9
+msgid "Invitation"
+msgstr ""
+
+#: /views/meetings/edit_template.ctp:9
+msgid "Cancelation"
+msgstr ""
+
+#: /views/meetings/edit_template.ctp:23
+msgid "It is recommended to send the invitations 10 days before the meeting date."
+msgstr ""
+
+#: /views/meetings/editemails.ctp:3;6
+msgid "Edit Emails"
+msgstr ""
+
+#: /views/meetings/editemails.ctp:11
+msgid "Change"
+msgstr ""
+
+#: /views/meetings/editemails.ctp:13
+msgid "Uninvite"
+msgstr ""
+
+#: /views/meetings/editminutes.ctp:2;4
+msgid "Edit Minutes"
+msgstr ""
+
+#: /views/meetings/index.ctp:3
+msgid "Add new Meeting"
+msgstr ""
+
+#: /views/meetings/index.ctp:6
+msgid "Meetings"
+msgstr ""
+
+#: /views/meetings/index.ctp:69
+#: /views/meetings/indexfollowup.ctp:50
+#: /views/meetings/view.ctp:4
+#: /views/meetingtodos/view.ctp:7
+msgid "Todo"
+msgstr ""
+
+#: /views/meetings/index.ctp:77
+#: /views/meetings/indexfollowup.ctp:58
+msgid "Summary"
+msgstr ""
+
+#: /views/meetings/index.ctp:80
+#: /views/meetings/indexfollowup.ctp:55
+msgid "Minutes"
+msgstr ""
+
+#: /views/meetings/indexfollowup.ctp:3
+msgid "Add follow-up meeting"
+msgstr ""
+
+#: /views/meetings/indexfollowup.ctp:5
+msgid "Follow-up Meetings for :"
+msgstr ""
+
+#: /views/meetings/invite.ctp:3
+msgid "Edit message/Schedule invitation"
+msgstr ""
+
+#: /views/meetings/invite.ctp:5;7
+msgid "Invitation to meeting"
+msgstr ""
+
+#: /views/meetings/invite.ctp:9
+msgid "Note:<br/>1. Below is the message that is going to be sent to all invitees.<br/>2. %name will be replaced with invitee's name."
+msgstr ""
+
+#: /views/meetings/invite.ctp:21
+msgid "Send invitation on %s"
+msgstr ""
+
+#: /views/meetings/invite.ctp:24
+msgid "Send invitation now"
+msgstr ""
+
+#: /views/meetings/invite.ctp:27
+msgid "Do not send invitation"
+msgstr ""
+
+#: /views/meetings/minutes.ctp:4
+msgid " Meeting Minutes"
+msgstr ""
+
+#: /views/meetings/minutes.ctp:6
+msgid "Date"
+msgstr ""
+
+#: /views/meetings/minutes.ctp:7
+msgid "Time"
+msgstr ""
+
+#: /views/meetings/minutes.ctp:10
+msgid "Present"
+msgstr ""
+
+#: /views/meetings/minutes.ctp:21
+msgid "No one has attended this meeting"
+msgstr ""
+
+#: /views/meetings/minutes.ctp:25
+msgid "Absent with apologies"
+msgstr ""
+
+#: /views/meetings/previewemails.ctp:2
+msgid "Inviation Email Preview"
+msgstr ""
+
+#: /views/meetings/previewemails.ctp:9
+msgid "Change Email Preview"
+msgstr ""
+
+#: /views/meetings/previewemails.ctp:16
+msgid "Uninvite Email Preview"
+msgstr ""
+
+#: /views/meetings/previewemails.ctp:23
+msgid "Edit emails"
+msgstr ""
+
+#: /views/meetings/previewemails.ctp:25
+msgid "Send emails on %s"
+msgstr ""
+
+#: /views/meetings/previewemails.ctp:28
+msgid "Send emails now"
+msgstr ""
+
+#: /views/meetings/previewemails.ctp:31
+msgid "Do not send emails"
+msgstr ""
+
+#: /views/meetings/summary.ctp:9
+msgid "Meeting Invitees"
+msgstr ""
+
+#: /views/meetings/summary.ctp:21
+msgid "No one has been invited for this meeting"
+msgstr ""
+
+#: /views/meetings/view.ctp:9
+msgid "Add minutes"
+msgstr ""
+
+#: /views/meetings/view.ctp:12
+msgid "Edit minutes"
+msgstr ""
+
+#: /views/meetings/view.ctp:15
+msgid "Announce Decisions"
+msgstr ""
+
+#: /views/meetings/view.ctp:15
+msgid "Are you sure you want to announce all of the decisions?"
+msgstr ""
+
+#: /views/meetings/view.ctp:17
+msgid "View Minutes"
+msgstr ""
+
+#: /views/meetings/view.ctp:48
+msgid "Files for this meeting"
+msgstr ""
+
+#: /views/meetings/view.ctp:66
+msgid "Comments for this meeting"
+msgstr ""
+
+#: /views/meetings_users/add.ctp:4
+msgid "Add MeetingsUser"
+msgstr ""
+
+#: /views/meetings_users/edit.ctp:4
+msgid "Edit MeetingsUser"
+msgstr ""
+
+#: /views/meetings_users/index.ctp:2
+msgid "MeetingsUsers"
+msgstr ""
+
+#: /views/meetings_users/view.ctp:2
+msgid "MeetingsUser"
+msgstr ""
+
+#: /views/meetingtodos/add.ctp:3
+#: /views/meetingtodos/edit.ctp:3
+msgid "Meeting's To-do"
+msgstr ""
+
+#: /views/meetingtodos/add.ctp:6
+msgid "Add Meetingtodo"
+msgstr ""
+
+#: /views/meetingtodos/edit.ctp:5
+msgid "Edit Meetingtodo"
+msgstr ""
+
+#: /views/meetingtodos/index.ctp:2
+msgid "Meetingtodos"
+msgstr ""
+
+#: /views/meetingtodos/index.ctp:7
+msgid "Add new Meeting Todo"
+msgstr ""
+
+#: /views/meetingtodos/index.ctp:10
+msgid "Meeting's To-do List"
+msgstr ""
+
+#: /views/meetingtodos/index.ctp:15
+msgid "Meeting no"
+msgstr ""
+
+#: /views/meetingtodos/index.ctp:16
+msgid "Meeting date"
+msgstr ""
+
+#: /views/meetingtodos/index.ctp:26
+#: /views/meetingtodos/view.ctp:4
+msgid "To-do list"
+msgstr ""
+
+#: /views/meetingtodos/index.ctp:32
+msgid "This is the todo list for this meeting."
+msgstr ""
+
+#: /views/meetingtodos/index.ctp:35
+#: /views/meetingtodos/view.ctp:10
+msgid "Done"
+msgstr ""
+
+#: /views/meetingtodos/index.ctp:35
+msgid "Done by"
+msgstr ""
+
+#: /views/meetingtodos/index.ctp:35
+msgid "Date done"
+msgstr ""
+
+#: /views/meetingtodos/index.ctp:59
+#: /views/meetingtodos/view.ctp:10
+msgid "Not done"
+msgstr ""
+
+#: /views/meetingtodos/view.ctp:2
+msgid "Meetingtodo"
+msgstr ""
+
+#: /views/meetingtodos/view.ctp:10
+msgid "Yes"
+msgstr ""
+
+#: /views/meetingtodos/view.ctp:11
+msgid "Date Done"
+msgstr ""
+
+#: /views/memberships/add.ctp:49;52
+msgid "Add Committee Member"
+msgstr ""
+
+#: /views/memberships/add.ctp:57
+msgid "Existing email will automatically fill up all fields below."
+msgstr ""
+
+#: /views/memberships/addressbook.ctp:3
+#: /views/memberships/index.ctp:5
+#: /views/users/addressbook.ctp:2
+msgid "Address Book"
+msgstr ""
+
+#: /views/memberships/edit.ctp:2;5
+msgid "Edit Committee Member"
+msgstr ""
+
+#: /views/memberships/editroles.ctp:2
+msgid "User Role Per Committee"
+msgstr ""
+
+#: /views/memberships/editroles.ctp:6
+msgid "Edit User role per committee"
+msgstr ""
+
+#: /views/memberships/index.ctp:3
+msgid "Add new member"
+msgstr ""
+
+#: /views/memberships/view.ctp:3
+msgid "View member"
+msgstr ""
+
+#: /views/memberships/view.ctp:10
+#: /views/users/add.ctp:15
+#: /views/users/edit.ctp:16
+#: /views/users/profile.ctp:15
+#: /views/users/view.ctp:8
+msgid "Section/Division"
+msgstr ""
+
+#: /views/memberships/view.ctp:11
+#: /views/users/view.ctp:9
+msgid "Grade"
+msgstr ""
+
+#: /views/memberships/view.ctp:12
+#: /views/users/view.ctp:10
+msgid "Address"
+msgstr ""
+
+#: /views/memberships/view.ctp:14
+#: /views/users/view.ctp:12
+msgid "Mobile"
+msgstr ""
+
+#: /views/memberships/view.ctp:15
+#: /views/users/view.ctp:13
+msgid "Fax"
+msgstr ""
+
+#: /views/memberships/view.ctp:20
+#: /views/users/view.ctp:17
+msgid "Committees"
+msgstr ""
+
+#: /views/memberships/view.ctp:22
+msgid "This member is involved in the following committees:"
+msgstr ""
+
+#: /views/memberships/view.ctp:27
+#: /views/roles/view.ctp:2
+msgid "Role"
+msgstr ""
+
+#: /views/notifications/add.ctp:4
+msgid "Add Notification"
+msgstr ""
+
+#: /views/notifications/edit.ctp:4
+msgid "Edit Notification"
+msgstr ""
+
+#: /views/notifications/index.ctp:2
+msgid "Notifications"
+msgstr ""
+
+#: /views/notifications/view.ctp:2;14
+msgid "Notification"
+msgstr ""
+
+#: /views/notifications/view.ctp:19
+msgid "Notification Date"
+msgstr ""
+
+#: /views/notifications/view.ctp:24
+msgid "Notification Sent"
+msgstr ""
+
+#: /views/pages/home.ctp:12
+msgid "Your tmp directory is writable."
+msgstr ""
+
+#: /views/pages/home.ctp:16
+msgid "Your tmp directory is NOT writable."
+msgstr ""
+
+#: /views/pages/home.ctp:26
+msgid "The %s is being used for caching. To change the config edit APP/config/core.php "
+msgstr ""
+
+#: /views/pages/home.ctp:30
+msgid "Your cache is NOT working. Please check the settings in APP/config/core.php"
+msgstr ""
+
+#: /views/pages/home.ctp:40
+msgid "Your database configuration file is present."
+msgstr ""
+
+#: /views/pages/home.ctp:45
+msgid "Your database configuration file is NOT present."
+msgstr ""
+
+#: /views/pages/home.ctp:47
+msgid "Rename config/database.php.default to config/database.php"
+msgstr ""
+
+#: /views/pages/home.ctp:62
+msgid "Cake is able to connect to the database."
+msgstr ""
+
+#: /views/pages/home.ctp:66
+msgid "Cake is NOT able to connect to the database."
+msgstr ""
+
+#: /views/pages/home.ctp:72
+msgid "Editing this Page"
+msgstr ""
+
+#: /views/pages/home.ctp:75
+msgid "To change the content of this page, edit: %s\n\t\tTo change its layout, edit: %s\n\t\tYou can also add some CSS styles for your pages at: %s"
+msgstr ""
+
+#: /views/reports/meeting.ctp:2
+msgid "Report for Meeting"
+msgstr ""
+
+#: /views/reports/meeting.ctp:4
+msgid ", "
+msgstr ""
+
+#: /views/reports/meeting.ctp:24
+#: /views/reports/project.ctp:23
+msgid "Deadline : %s"
+msgstr ""
+
+#: /views/reports/meeting.ctp:42;81
+#: /views/reports/project.ctp:41;80
+msgid "Status : "
+msgstr ""
+
+#: /views/reports/meeting.ctp:45;84
+#: /views/reports/project.ctp:44;83
+msgid "Files Uploaded : "
+msgstr ""
+
+#: /views/reports/meeting.ctp:59;97
+#: /views/reports/project.ctp:58;96
+msgid "No status update yet"
+msgstr ""
+
+#: /views/reports/project.ctp:2
+msgid "Report for Project"
+msgstr ""
+
+#: /views/roles/add.ctp:9;14
+msgid "Add Role"
+msgstr ""
+
+#: /views/roles/add.ctp:17
+msgid "Please fill in the field and select tasks for the role. "
+msgstr ""
+
+#: /views/roles/add.ctp:20
+#: /views/roles/edit.ctp:20
+msgid "The name already taken"
+msgstr ""
+
+#: /views/roles/edit.ctp:8;12
+#: /views/roles/view.ctp:18
+msgid "Edit Role"
+msgstr ""
+
+#: /views/roles/edit.ctp:15
+msgid "Please fill in the field and select tasks for the role."
+msgstr ""
+
+#: /views/roles/index.ctp:3
+msgid "Add new role"
+msgstr ""
+
+#: /views/roles/view.ctp:19
+msgid "Delete Role"
+msgstr ""
+
+#: /views/roles/view.ctp:20
+msgid "List Roles"
+msgstr ""
+
+#: /views/roles/view.ctp:21
+msgid "New Role"
+msgstr ""
+
+#: /views/roles/view.ctp:22
+msgid "List Committees Users"
+msgstr ""
+
+#: /views/roles/view.ctp:23
+msgid "New Committees User"
+msgstr ""
+
+#: /views/roles/view.ctp:27
+msgid "Related Committees Users"
+msgstr ""
+
+#: /views/roles/view.ctp:32
+msgid "User Id"
+msgstr ""
+
+#: /views/roles/view.ctp:33
+msgid "Committee Id"
+msgstr ""
+
+#: /views/roles/view.ctp:34
+msgid "Role Id"
+msgstr ""
+
+#: /views/settings/edit.ctp:2
+msgid "Reload settings"
+msgstr ""
+
+#: /views/settings/edit.ctp:3
+#: /views/settings/logo.ctp:3;6
+msgid "Change logo"
+msgstr ""
+
+#: /views/settings/edit.ctp:6;9
+msgid "Edit Global Settings"
+msgstr ""
+
+#: /views/settings/edit.ctp:23
+msgid "Agency Address"
+msgstr ""
+
+#: /views/settings/edit.ctp:24
+msgid "Agency Name"
+msgstr ""
+
+#: /views/settings/edit.ctp:25
+msgid "Agency Slogan"
+msgstr ""
+
+#: /views/settings/edit.ctp:26
+msgid "Date Format"
+msgstr ""
+
+#: /views/settings/edit.ctp:27
+msgid "Time Format"
+msgstr ""
+
+#: /views/settings/edit.ctp:28
+msgid "Email From"
+msgstr ""
+
+#: /views/settings/edit.ctp:29
+msgid "Email From Name"
+msgstr ""
+
+#: /views/settings/edit.ctp:30
+msgid "Email Host"
+msgstr ""
+
+#: /views/settings/edit.ctp:31
+msgid "Email Port"
+msgstr ""
+
+#: /views/settings/edit.ctp:32
+msgid "Days To Remind"
+msgstr ""
+
+#: /views/settings/edit.ctp:33
+msgid "Server Url"
+msgstr ""
+
+#: /views/settings/edit.ctp:44
+msgid "List Settings"
+msgstr ""
+
+#: /views/settings/logo.ctp:10
+msgid "Current logo"
+msgstr ""
+
+#: /views/settings/logo.ctp:12
+msgid "Logo to upload"
+msgstr ""
+
+#: /views/settings/logo.ctp:14
+msgid "Suitable logo size to upload is 155x80 px"
+msgstr ""
+
+#: /views/systemtodos/add.ctp:2;5
+msgid "Add System-wide To-do"
+msgstr ""
+
+#: /views/systemtodos/edit.ctp:2;5
+msgid "Edit System-wide To-do"
+msgstr ""
+
+#: /views/systemtodos/index.ctp:2
+msgid "Add new system-wide to-do"
+msgstr ""
+
+#: /views/systemtodos/index.ctp:4
+msgid "To-do's"
+msgstr ""
+
+#: /views/systemtodos/summary.ctp:1
+msgid "list Todo"
+msgstr ""
+
+#: /views/systemtodos/view.ctp:2
+msgid "Systemtodos"
+msgstr ""
+
+#: /views/templates/add.ctp:3;7
+msgid "Add Template"
+msgstr ""
+
+#: /views/templates/edit.ctp:3;14
+msgid "Edit System-wide Message"
+msgstr ""
+
+#: /views/templates/edit.ctp:17
+msgid "Editing this message will not affect messages that has been created in committee and meeting level."
+msgstr ""
+
+#: /views/templates/index.ctp:10
+msgid "Type"
+msgstr ""
+
+#: /views/templates/index.ctp:11
+msgid "Message Title"
+msgstr ""
+
+#: /views/templates/view.ctp:2
+msgid "Message Template"
+msgstr ""
+
+#: /views/templates/view.ctp:4
+#: /views/titles/edit.ctp:2
+#: /views/titles/view.ctp:2
+msgid "Title"
+msgstr ""
+
+#: /views/templates/view.ctp:8
+msgid "Message template"
+msgstr ""
+
+#: /views/titles/add.ctp:2;5
+msgid "Add Title"
+msgstr ""
+
+#: /views/titles/edit.ctp:5
+msgid "Edit Title"
+msgstr ""
+
+#: /views/titles/index.ctp:2
+msgid "Add Titles"
+msgstr ""
+
+#: /views/titles/view.ctp:6
+msgid "Short Name"
+msgstr ""
+
+#: /views/titles/view.ctp:7
+msgid "Long Name"
+msgstr ""
+
+#: /views/users/add.ctp:3;6
+msgid "Add User"
+msgstr ""
+
+#: /views/users/alert.ctp:3
+msgid "Alerts"
+msgstr ""
+
+#: /views/users/changepassword.ctp:1;5
+msgid "Change password"
+msgstr ""
+
+#: /views/users/changepassword.ctp:8
+msgid "Old Password"
+msgstr ""
+
+#: /views/users/changepassword.ctp:13
+#: /views/users/forcechangepassword.ctp:13
+msgid "New Password"
+msgstr ""
+
+#: /views/users/changepassword.ctp:18
+#: /views/users/forcechangepassword.ctp:21
+msgid "Confirm Password"
+msgstr ""
+
+#: /views/users/checkcaptcha.ctp:6
+#: /views/users/login.ctp:6
+msgid "Password"
+msgstr ""
+
+#: /views/users/checkcaptcha.ctp:9
+#: /views/users/login.ctp:9
+msgid "You have exceeded more than allowed login attempts.Please fill in the numbers and alphabets you see below."
+msgstr ""
+
+#: /views/users/checkcaptcha.ctp:13
+#: /views/users/login.ctp:13
+msgid "Code"
+msgstr ""
+
+#: /views/users/checkcaptcha.ctp:19
+#: /views/users/forgotpass.ctp:3
+#: /views/users/login.ctp:19
+msgid "Forgot your password?"
+msgstr ""
+
+#: /views/users/checkcaptcha.ctp:21
+#: /views/users/forgotuser.ctp:3
+#: /views/users/login.ctp:21
+msgid "Forgot your username?"
+msgstr ""
+
+#: /views/users/edit.ctp:3
+#: /views/users/profile.ctp:3;8
+#: /views/users/viewprofile.ctp:3
+msgid "Edit Profile"
+msgstr ""
+
+#: /views/users/edit.ctp:7
+#: /views/users/index.ctp:51;51
+msgid "Edit User"
+msgstr ""
+
+#: /views/users/edit.ctp:22
+#: /views/users/profile.ctp:23
+msgid "Please supply valid fax number eg: 03-6667777"
+msgstr ""
+
+#: /views/users/forcechangepassword.ctp:1;3
+#: /views/users/profile.ctp:2
+msgid "Change Password"
+msgstr ""
+
+#: /views/users/forcechangepassword.ctp:8
+msgid "Please reset your password."
+msgstr ""
+
+#: /views/users/forcechangepassword.ctp:9
+msgid "Password can not be the same as your username."
+msgstr ""
+
+#: /views/users/forcechangepassword.ctp:16;24
+msgid "Minimum length is 4"
+msgstr ""
+
+#: /views/users/forgotpass.ctp:6
+msgid "Password reset"
+msgstr ""
+
+#: /views/users/forgotpass.ctp:8
+msgid "Please fill in your email address to reset your password"
+msgstr ""
+
+#: /views/users/forgotuser.ctp:6
+msgid "Username retrieval"
+msgstr ""
+
+#: /views/users/forgotuser.ctp:8
+msgid "Please fill in your email address to retrieve your username"
+msgstr ""
+
+#: /views/users/index.ctp:3
+msgid "Add new user"
+msgstr ""
+
+#: /views/users/index.ctp:4
+msgid "All Users"
+msgstr ""
+
+#: /views/users/index.ctp:50;50
+#: /views/users/view.ctp:3
+msgid "View User"
+msgstr ""
+
+#: /views/users/index.ctp:52;52
+msgid "Delete User"
+msgstr ""
+
+#: /views/users/index.ctp:52
+msgid "Are you sure you want to delete %s?"
+msgstr ""
+
+#: /views/users/index.ctp:53;53
+msgid "Reset Password"
+msgstr ""
+
+#: /views/users/index.ctp:53
+msgid "Are you sure you want to reset password for %s?"
+msgstr ""
+
+#: /views/users/index.ctp:53
+msgid "Password will be reset to the username."
+msgstr ""
+
+#: /views/users/profile.ctp:10
+msgid "Changes here will take effect after you login next time."
+msgstr ""
+
+#: /views/users/profile.ctp:18
+msgid "Invalid email format"
+msgstr ""
+
+#: /views/users/profile.ctp:26
+msgid "Please supply valid mobile number eg: 013-1234521312"
+msgstr ""
+
+#: /views/users/view.ctp:6
+msgid "E-mail"
+msgstr ""
+
+#: /views/users_groups/add.ctp:4
+msgid "Add UsersGroup"
+msgstr ""
+
+#: /views/users_groups/add.ctp:16
+#: /views/users_groups/edit.ctp:18
+#: /views/users_groups/view.ctp:25
+msgid "List UsersGroups"
+msgstr ""
+
+#: /views/users_groups/edit.ctp:4
+#: /views/users_groups/view.ctp:23
+msgid "Edit UsersGroup"
+msgstr ""
+
+#: /views/users_groups/index.ctp:2
+msgid "UsersGroups"
+msgstr ""
+
+#: /views/users_groups/index.ctp:50
+#: /views/users_groups/view.ctp:26
+msgid "New UsersGroup"
+msgstr ""
+
+#: /views/users_groups/view.ctp:2
+msgid "UsersGroup"
+msgstr ""
+
+#: /views/users_groups/view.ctp:24
+msgid "Delete UsersGroup"
+msgstr ""
+
+#: /views/userstatuses/add.ctp:29
+msgid "Add User Status"
+msgstr ""
+
+#: /views/userstatuses/edit.ctp:4
+#: /views/userstatuses/view.ctp:53
+msgid "Edit UserStatus"
+msgstr ""
+
+#: /views/userstatuses/edit.ctp:20
+#: /views/userstatuses/view.ctp:55
+msgid "List UserStatuses"
+msgstr ""
+
+#: /views/userstatuses/index.ctp:2
+msgid "UserStatuses"
+msgstr ""
+
+#: /views/userstatuses/index.ctp:74
+#: /views/userstatuses/view.ctp:56
+msgid "New UserStatus"
+msgstr ""
+
+#: /views/userstatuses/view.ctp:2
+msgid "UserStatus"
+msgstr ""
+
+#: /views/userstatuses/view.ctp:54
+msgid "Delete UserStatus"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:2
+msgid "Add permission"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:13
+#: /views/wfmodels/index.ctp:11
+msgid "Add new model permission"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:15
+#: /views/wfmodels/edit.ctp:41
+msgid "Each permission is separated by a comma (,). To negate a permission prefix it with a !. The list of possible permission is:"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:17
+#: /views/wfmodels/edit.ctp:43
+msgid "all"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:18
+#: /views/wfmodels/edit.ctp:44
+msgid "owner"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:19
+#: /views/wfmodels/edit.ctp:45
+msgid "invited"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:20
+#: /views/wfmodels/edit.ctp:46
+msgid "attended"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:21
+#: /views/wfmodels/edit.ctp:47
+msgid "role:&lt;user role&gt;"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:22
+#: /views/wfmodels/edit.ctp:48
+msgid "group:&lt;user group&gt;"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:27
+msgid "Committe Todo"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:28
+msgid "Meeting Todo"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:32
+msgid "User Status"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:33
+msgid "Group Status"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:36
+msgid "Template"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:38
+#: /views/wfmodels/view.ctp:14
+#: /views/wfstatuses/view.ctp:19
+#: /views/workflows/view.ctp:2
+msgid "Workflow"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:39
+msgid "Model Workflow"
+msgstr ""
+
+#: /views/wfmodels/edit.ctp:27
+msgid "Edit model permission"
+msgstr ""
+
+#: /views/wfmodels/edit.ctp:32
+#: /views/wfmodels/view.ctp:9
+#: /views/wfstatuses/view.ctp:9
+msgid "Model"
+msgstr ""
+
+#: /views/wfmodels/edit.ctp:39
+msgid "Edit permission"
+msgstr ""
+
+#: /views/wfmodels/edit.ctp:68
+msgid "Levels"
+msgstr ""
+
+#: /views/wfmodels/edit.ctp:72
+msgid "Add new level"
+msgstr ""
+
+#: /views/wfmodels/edit.ctp:73
+#: /views/wfstatuses/view.ctp:24
+msgid "Level"
+msgstr ""
+
+#: /views/wfmodels/edit.ctp:73
+msgid "Approve"
+msgstr ""
+
+#: /views/wfmodels/edit.ctp:73
+msgid "Disapprove"
+msgstr ""
+
+#: /views/wfmodels/index.ctp:2
+msgid "Userstatus"
+msgstr ""
+
+#: /views/wfmodels/index.ctp:3
+msgid "Groupstatus"
+msgstr ""
+
+#: /views/wfmodels/index.ctp:4
+msgid "Membership"
+msgstr ""
+
+#: /views/wfmodels/index.ctp:5
+msgid "Item"
+msgstr ""
+
+#: /views/wfmodels/index.ctp:6
+msgid "Committeetodo"
+msgstr ""
+
+#: /views/wfmodels/index.ctp:14
+msgid "Permissions"
+msgstr ""
+
+#: /views/wfmodels/index.ctp:19
+msgid "Permission"
+msgstr ""
+
+#: /views/wfmodels/index.ctp:26
+msgid "Create"
+msgstr ""
+
+#: /views/wfmodels/view.ctp:2
+msgid "Wfmodel"
+msgstr ""
+
+#: /views/wfmodels/view.ctp:28
+msgid "Edit Wfmodel"
+msgstr ""
+
+#: /views/wfmodels/view.ctp:29
+msgid "Delete Wfmodel"
+msgstr ""
+
+#: /views/wfmodels/view.ctp:30
+msgid "List Wfmodels"
+msgstr ""
+
+#: /views/wfmodels/view.ctp:31
+msgid "New Wfmodel"
+msgstr ""
+
+#: /views/wfmodels/view.ctp:32
+#: /views/wfstatuses/view.ctp:37
+msgid "List Workflows"
+msgstr ""
+
+#: /views/wfmodels/view.ctp:33
+#: /views/wfstatuses/view.ctp:38
+msgid "New Workflow"
+msgstr ""
+
+#: /views/wfmodels/view.ctp:34
+msgid "List Committees"
+msgstr ""
+
+#: /views/wfmodels/view.ctp:35
+msgid "New Committee"
+msgstr ""
+
+#: /views/wfstatuses/add.ctp:4
+msgid "Add Wfstatus"
+msgstr ""
+
+#: /views/wfstatuses/edit.ctp:4
+#: /views/wfstatuses/view.ctp:33
+msgid "Edit Wfstatus"
+msgstr ""
+
+#: /views/wfstatuses/index.ctp:3
+msgid "Add new workflow status"
+msgstr ""
+
+#: /views/wfstatuses/index.ctp:5
+msgid "Wfstatuses"
+msgstr ""
+
+#: /views/wfstatuses/view.ctp:2
+msgid "Wfstatus"
+msgstr ""
+
+#: /views/wfstatuses/view.ctp:14
+msgid "Foreign Key"
+msgstr ""
+
+#: /views/wfstatuses/view.ctp:34
+msgid "Delete Wfstatus"
+msgstr ""
+
+#: /views/wfstatuses/view.ctp:35
+msgid "List Wfstatuses"
+msgstr ""
+
+#: /views/wfstatuses/view.ctp:36
+msgid "New Wfstatus"
+msgstr ""
+
+#: /views/workflows/add.ctp:4
+msgid "Add Workflow"
+msgstr ""
+
+#: /views/workflows/edit.ctp:4
+msgid "Edit Workflow"
+msgstr ""
+
+#: /views/workflows/index.ctp:3
+msgid "Add new workflow"
+msgstr ""
+
+#: /views/workflows/index.ctp:5
+msgid "Workflows"
+msgstr ""
+
+#: /views/workflows/index.ctp:35
+msgid "Rules"
+msgstr ""
+
+#: /webroot/test.php:101
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

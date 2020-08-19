@@ -1,0 +1,4924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-02-04 14:14+0730\n"
+"Last-Translator: nuhaa <nuhaa@oscc.org.my>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /controllers/agencies_controller.php:14
+msgid "Invalid Agency."
+msgstr "Agensi tidak wujud."
+
+#: /controllers/agencies_controller.php:24;39
+msgid "The Agency has been saved"
+msgstr "Agensi telah disimpan"
+
+#: /controllers/agencies_controller.php:27;42
+msgid "The Agency could not be saved. Please, try again."
+msgstr "Agensi tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/agencies_controller.php:34
+msgid "Invalid Agency"
+msgstr "Agensi tidak wujud"
+
+#: /controllers/agencies_controller.php:52
+msgid "Invalid id for Agency"
+msgstr "Id agensi tidak wujud"
+
+#: /controllers/agencies_controller.php:56
+msgid "Agency deleted"
+msgstr "Agensi telah dihapuskan"
+
+#: /controllers/announcements_controller.php:22
+msgid "Invalid Announcement."
+msgstr "Pengumuman tidak sah."
+
+#: /controllers/announcements_controller.php:32;50
+msgid "The Announcement has been saved"
+msgstr "Pengumuman telah disimpan"
+
+#: /controllers/announcements_controller.php:35;53
+msgid "The Announcement could not be saved. Please, try again."
+msgstr "Pengumuman tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/announcements_controller.php:45
+msgid "Invalid Announcement"
+msgstr "Pengumuman tidak wujud"
+
+#: /controllers/announcements_controller.php:66
+msgid "Invalid id for Announcement"
+msgstr "Id pengumuman tidak wujud"
+
+#: /controllers/announcements_controller.php:70
+msgid "Announcement deleted"
+msgstr "Pengumuman telah dihapuskan"
+
+#: /controllers/committees_controller.php:17;129
+msgid "Invalid id for Committee"
+msgstr "Id Jawatankuasa tidak wujud"
+
+#: /controllers/committees_controller.php:29
+msgid "No user for this Commitee"
+msgstr "Tiada ahli untuk jawatankuasa ini"
+
+#: /controllers/committees_controller.php:72;107
+#: /controllers/meetings_controller.php:288;302
+msgid "Invalid Committee"
+msgstr "Jawatankuasa tidak wujud"
+
+#: /controllers/committees_controller.php:83
+msgid "Invalid Committee."
+msgstr "Jawatankuasa tidak wujud."
+
+#: /controllers/committees_controller.php:93;112
+msgid "The Committee has been saved"
+msgstr "Jawatankuasa telah disimpan"
+
+#: /controllers/committees_controller.php:96;115
+msgid "The Committee could not be saved. Please, try again."
+msgstr "Jawatankuasa tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/committees_controller.php:133
+msgid "Committee deleted"
+msgstr "Jawatankuasa telah dihapuskan"
+
+#: /controllers/committees_todos_controller.php:14
+msgid "Invalid CommitteesTodo."
+msgstr "Semakan Jawatankuasa tidak wujud"
+
+#: /controllers/committees_todos_controller.php:24;41
+msgid "The CommitteesTodo has been saved"
+msgstr "Semakan jawatankuasa telah disimpan"
+
+#: /controllers/committees_todos_controller.php:27;44
+msgid "The CommitteesTodo could not be saved. Please, try again."
+msgstr "Semakan jawatankuasa tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/committees_todos_controller.php:36
+msgid "Invalid CommitteesTodo"
+msgstr "Semakan jawatankuasa tidak wujud"
+
+#: /controllers/committees_todos_controller.php:56
+msgid "Invalid id for CommitteesTodo"
+msgstr "Id semakan jawatankuasa tidak wujud"
+
+#: /controllers/committees_todos_controller.php:60
+msgid "CommitteesTodo deleted"
+msgstr "Semakan Jawatankuasa telah dihapuskan"
+
+#: /controllers/committees_users_controller.php:14;96
+msgid "Invalid CommitteesUser"
+msgstr "Ahli jawatankuasa tidak wujud"
+
+#: /controllers/committees_users_controller.php:19
+msgid "The changes on user role has been saved"
+msgstr "Perubahan pada peranan ahli telah disimpan"
+
+#: /controllers/committees_users_controller.php:22;85;104
+msgid "The CommitteesUser could not be saved. Please, try again."
+msgstr "Ahli jawatankuasa tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/committees_users_controller.php:72
+msgid "Invalid CommitteesUser."
+msgstr "Ahli Jawatankuasa tidak wujud"
+
+#: /controllers/committees_users_controller.php:82;101
+msgid "The CommitteesUser has been saved"
+msgstr "Ahli Jawatankuasa telah disimpan"
+
+#: /controllers/committees_users_controller.php:118
+msgid "Invalid id for CommitteesUser"
+msgstr "Id ahli jawatankuasa tidak wujud"
+
+#: /controllers/committees_users_controller.php:122
+msgid "CommitteesUser deleted"
+msgstr "Ahli jawatankuasa telah dihapuskan"
+
+#: /controllers/decisions_controller.php:14
+msgid "Invalid Decision."
+msgstr "Keputusan tidak sah."
+
+#: /controllers/decisions_controller.php:27;61
+msgid "The Decision has been saved"
+msgstr "Keputusan telah disimpan"
+
+#: /controllers/decisions_controller.php:35;69
+msgid "The Decision could not be saved. Please, try again."
+msgstr "Keputusan tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/decisions_controller.php:56
+msgid "Invalid Decision"
+msgstr "Keputusan tidak wujud"
+
+#: /controllers/decisions_controller.php:83
+msgid "Invalid id for Decision"
+msgstr "Id keputusan tidak wujud"
+
+#: /controllers/decisions_controller.php:87
+msgid "Decision deleted"
+msgstr "Keputusan telah dihapuskan"
+
+#: /controllers/decisions_users_controller.php:14
+msgid "Invalid DecisionsUser."
+msgstr "Keputusan ahli tidak wujud"
+
+#: /controllers/decisions_users_controller.php:24;42
+msgid "The DecisionsUser has been saved"
+msgstr "Keputusan ahli telah disimpan"
+
+#: /controllers/decisions_users_controller.php:27;45
+msgid "The DecisionsUser could not be saved. Please, try again."
+msgstr "Keputusan ahli tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/decisions_users_controller.php:37
+msgid "Invalid DecisionsUser"
+msgstr "Keputusan ahli tidak wujud"
+
+#: /controllers/decisions_users_controller.php:58
+msgid "Invalid id for DecisionsUser"
+msgstr "Id keputusan ahli tidak wujud"
+
+#: /controllers/decisions_users_controller.php:62
+msgid "DecisionsUser deleted"
+msgstr "Keputusan ahli telah dihapuskan"
+
+#: /controllers/file_categories_controller.php:14
+msgid "Invalid FileCategory."
+msgstr "Kategori fail tidak wujud"
+
+#: /controllers/file_categories_controller.php:24;39
+msgid "The FileCategory has been saved"
+msgstr "Kategori fail telah disimpan"
+
+#: /controllers/file_categories_controller.php:27;42
+msgid "The FileCategory could not be saved. Please, try again."
+msgstr "Kategori fail tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/file_categories_controller.php:34
+msgid "Invalid FileCategory"
+msgstr "Kategori fail tidak wujud"
+
+#: /controllers/file_categories_controller.php:52
+msgid "Invalid id for FileCategory"
+msgstr "Id katefori fail tidak wujud"
+
+#: /controllers/file_categories_controller.php:56
+msgid "FileCategory deleted"
+msgstr "Kategori fail telah dihapuskan"
+
+#: /controllers/groups_controller.php:14
+msgid "Invalid Group."
+msgstr "Kumpulan tidak wujud"
+
+#: /controllers/groups_controller.php:24;41
+msgid "The Group has been saved"
+msgstr "Kumpulan telah disimpan"
+
+#: /controllers/groups_controller.php:27;44
+msgid "The Group could not be saved. Please, try again."
+msgstr "Kumpulan tidak dapat disimpan. Sila cuba sekali lagi"
+
+#: /controllers/groups_controller.php:36
+msgid "Invalid Group"
+msgstr "Kumpulan tidak wujud"
+
+#: /controllers/groups_controller.php:56
+msgid "Invalid id for Group"
+msgstr "Id kumpulan tidak wujud"
+
+#: /controllers/groups_controller.php:60
+msgid "Group deleted"
+msgstr "Kumpulan telah dihapuskan"
+
+#: /controllers/items_controller.php:19
+msgid "Invalid Item."
+msgstr "Perkara tidak wujud"
+
+#: /controllers/items_controller.php:31;49
+msgid "The Item has been saved"
+msgstr "Perkara telah disimpan"
+
+#: /controllers/items_controller.php:34;52
+msgid "The Item could not be saved. Please, try again."
+msgstr "Perkara tidak dapat disimpan. Sila cuba sekali lagi"
+
+#: /controllers/items_controller.php:44
+msgid "Invalid Item"
+msgstr "Perkara tidak wujud"
+
+#: /controllers/items_controller.php:65
+msgid "Invalid id for Item"
+msgstr "Id perkara tidak wujud"
+
+#: /controllers/items_controller.php:69
+msgid "Item deleted"
+msgstr "Perkara telah dihapuskan"
+
+#: /controllers/meeting_users_controller.php:14;75
+msgid "Invalid MeetingUser."
+msgstr "Ahli mesyuarat tidak wujud"
+
+#: /controllers/meeting_users_controller.php:24;42;85;103
+msgid "The MeetingUser has been saved"
+msgstr "Ahli mesyuarat telah disimpan"
+
+#: /controllers/meeting_users_controller.php:27;45;88;106
+msgid "The MeetingUser could not be saved. Please, try again."
+msgstr "Ahli mesyuarat tidak dapat disimpan. Sila cuba sekali lagi"
+
+#: /controllers/meeting_users_controller.php:37;98
+msgid "Invalid MeetingUser"
+msgstr "Ahli mesyuarat tidak wujud"
+
+#: /controllers/meeting_users_controller.php:58;119
+msgid "Invalid id for MeetingUser"
+msgstr "Id ahli mesyuarat tidak wujud"
+
+#: /controllers/meeting_users_controller.php:62;123
+msgid "MeetingUser deleted"
+msgstr "Ahli mesyuarat telah dihapuskan"
+
+#: /controllers/meetings_controller.php:25;231
+msgid "Invalid Meeting."
+msgstr "Mesyuarat tidak wujud"
+
+#: /controllers/meetings_controller.php:40;250
+msgid "The Meeting has been saved"
+msgstr "Mesyuarat telah disimpan"
+
+#: /controllers/meetings_controller.php:43
+msgid "The Users could not be saved. Please, try again."
+msgstr "Ahli tidak dapat disimpan. Sila cuba sekali lagi"
+
+#: /controllers/meetings_controller.php:46
+#: /controllers/templates_controller.php:27;42
+msgid "The Template could not be saved. Please, try again."
+msgstr "Templat tidak dapat disimpan. Sila cuba sekali lagi"
+
+#: /controllers/meetings_controller.php:51
+msgid "The invitation emails could not be sent. Please, try again."
+msgstr "Emel jemputan tidak dapat dihantar. Sila cuba sekali lagi."
+
+#: /controllers/meetings_controller.php:54
+msgid "The invitation emails could not be saved. Please, try again."
+msgstr "Emel jemputan tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/meetings_controller.php:59;259
+msgid "The Meeting could not be saved. Please, try again."
+msgstr "Meeting tidak dapat disimpan. Sila cuba sekali lagi"
+
+#: /controllers/meetings_controller.php:245;284;331
+msgid "Invalid Meeting"
+msgstr "Mesyuarat tidak wujud"
+
+#: /controllers/meetings_controller.php:272
+msgid "Invalid id for Meeting"
+msgstr "Id mesyuarat tidak wujud"
+
+#: /controllers/meetings_controller.php:277
+msgid "Meeting deleted"
+msgstr "Mesyuarat telah dihapuskan"
+
+#: /controllers/meetings_controller.php:322
+msgid "The Todos could not be saved. Please, try again."
+msgstr "Semakan tidak dapat disimpan. Sila cuba sekali lagi"
+
+#: /controllers/meetings_tags_controller.php:14
+msgid "Invalid MeetingsTag."
+msgstr "Tag mesyuarat tidak wujud"
+
+#: /controllers/meetings_tags_controller.php:24;42
+msgid "The MeetingsTag has been saved"
+msgstr "Tag mesyuarat telah disimpan"
+
+#: /controllers/meetings_tags_controller.php:27;45
+msgid "The MeetingsTag could not be saved. Please, try again."
+msgstr "Tag mesyuarat tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/meetings_tags_controller.php:37
+msgid "Invalid MeetingsTag"
+msgstr "Id tag mesyuarat tidak wujud"
+
+#: /controllers/meetings_tags_controller.php:58
+msgid "Invalid id for MeetingsTag"
+msgstr "Id tag mesyuarat tidak wujud"
+
+#: /controllers/meetings_tags_controller.php:62
+msgid "MeetingsTag deleted"
+msgstr "Tag mesyuarat telah dihapuskan"
+
+#: /controllers/meetings_todos_controller.php:14
+msgid "Invalid MeetingsTodo."
+msgstr "Semakan mesyuarat tidak wujud"
+
+#: /controllers/meetings_todos_controller.php:24;42
+msgid "The MeetingsTodo has been saved"
+msgstr "Semakan mesyuarat telah disimpan"
+
+#: /controllers/meetings_todos_controller.php:27;45
+msgid "The MeetingsTodo could not be saved. Please, try again."
+msgstr "Semakan mesyuarat tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/meetings_todos_controller.php:37
+msgid "Invalid MeetingsTodo"
+msgstr "Semakan mesyuarat tidak wujud"
+
+#: /controllers/meetings_todos_controller.php:58
+msgid "Invalid id for MeetingsTodo"
+msgstr "Id semakan mesyuarat tidak wujud"
+
+#: /controllers/meetings_todos_controller.php:62
+msgid "MeetingsTodo deleted"
+msgstr "Semakan mesyuarat telah dihapuskan"
+
+#: /controllers/meetings_users_controller.php:14
+msgid "Invalid MeetingsUser."
+msgstr "Ahli mesyuarat tidak wujud"
+
+#: /controllers/meetings_users_controller.php:44
+msgid "The attendance has been saved"
+msgstr "Kehadiran telah disimpan"
+
+#: /controllers/meetings_users_controller.php:66
+msgid "Invalid MeetingsUser"
+msgstr "Ahli mesyuarat tidak wujud"
+
+#: /controllers/meetings_users_controller.php:71
+msgid "The MeetingsUser has been saved"
+msgstr "Ahli mesyuarat telah disimpan"
+
+#: /controllers/meetings_users_controller.php:74
+msgid "The MeetingsUser could not be saved. Please, try again."
+msgstr "Ahli mesyuarat tidak dapat disimpan. Sila cuba sekali lagi"
+
+#: /controllers/meetings_users_controller.php:87
+msgid "Invalid id for MeetingsUser"
+msgstr "Id ahli mesyuarat tidak wujud"
+
+#: /controllers/meetings_users_controller.php:91
+msgid "MeetingsUser deleted"
+msgstr "Ahli mesyuarat telah dihapuskan"
+
+#: /controllers/notifications_controller.php:14
+msgid "Invalid Notification."
+msgstr "Pemberitahuan tidak wujud"
+
+#: /controllers/notifications_controller.php:24;41
+msgid "The Notification has been saved"
+msgstr "Pemberitahuan telah disimpan"
+
+#: /controllers/notifications_controller.php:27;44
+msgid "The Notification could not be saved. Please, try again."
+msgstr "Pemberitahuan tidak dapat disimpan"
+
+#: /controllers/notifications_controller.php:36
+msgid "Invalid Notification"
+msgstr "Pemberitahuan tidak wujud"
+
+#: /controllers/notifications_controller.php:56
+msgid "Invalid id for Notification"
+msgstr "Id pemberitahuan tidak wujud"
+
+#: /controllers/notifications_controller.php:60
+msgid "Notification deleted"
+msgstr "Pemberitahuan telah dihapuskan"
+
+#: /controllers/roles_controller.php:16
+msgid "Invalid Role."
+msgstr "Peranan tidak wujud"
+
+#: /controllers/roles_controller.php:27;92
+msgid "The Role has been saved"
+msgstr "Peranan telah disimpan"
+
+#: /controllers/roles_controller.php:30;95
+msgid "The Role could not be saved. Please, try again."
+msgstr "Peranan tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/roles_controller.php:86
+msgid "Invalid Role"
+msgstr "Peranan tidak wujud"
+
+#: /controllers/roles_controller.php:151
+msgid "Invalid id for Role"
+msgstr "Id peranan tidak wujud"
+
+#: /controllers/roles_controller.php:155
+msgid "Role deleted"
+msgstr "Peranan telah dihapuskan"
+
+#: /controllers/settings_controller.php:17
+msgid "Invalid Setting."
+msgstr "Penyelarasan tidak wujud"
+
+#: /controllers/settings_controller.php:27;42
+msgid "The Setting has been saved"
+msgstr "Penyelarasan telah disimpan"
+
+#: /controllers/settings_controller.php:30;45
+msgid "The Setting could not be saved. Please, try again."
+msgstr "Penyelarasan tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/settings_controller.php:37
+msgid "Invalid Setting"
+msgstr "Penyelarasan tidak wujud"
+
+#: /controllers/settings_controller.php:55
+msgid "Invalid id for Setting"
+msgstr "Id penyelarasan tidak wujud"
+
+#: /controllers/settings_controller.php:59
+msgid "Setting deleted"
+msgstr "Penyelarasan telah dihapuskan"
+
+#: /controllers/statuses_controller.php:14
+msgid "Invalid Status."
+msgstr "Status tidak wujud"
+
+#: /controllers/statuses_controller.php:25;48
+msgid "The Status has been saved"
+msgstr "Status telah disimpan"
+
+#: /controllers/statuses_controller.php:33;56
+msgid "The Status could not be saved. Please, try again."
+msgstr "Status tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/statuses_controller.php:43
+msgid "Invalid Status"
+msgstr "Status tidak wujud"
+
+#: /controllers/statuses_controller.php:71
+msgid "Invalid id for Status"
+msgstr "Id status tidak wujud"
+
+#: /controllers/statuses_controller.php:75
+msgid "Status deleted"
+msgstr "Status telah dihapuskan"
+
+#: /controllers/tags_controller.php:14
+msgid "Invalid Tag."
+msgstr "Tag tidak wujud"
+
+#: /controllers/tags_controller.php:24;41
+msgid "The Tag has been saved"
+msgstr "Tag telah disimpan"
+
+#: /controllers/tags_controller.php:27;44
+msgid "The Tag could not be saved. Please, try again."
+msgstr "Tag tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/tags_controller.php:36
+msgid "Invalid Tag"
+msgstr "Tag tidak wujud"
+
+#: /controllers/tags_controller.php:56
+msgid "Invalid id for Tag"
+msgstr "Id tag tidak wujud"
+
+#: /controllers/tags_controller.php:60
+msgid "Tag deleted"
+msgstr "Tag telah dihapuskan"
+
+#: /controllers/templates_controller.php:14
+msgid "Invalid Template."
+msgstr "Templat tidak wujud"
+
+#: /controllers/templates_controller.php:24;39
+msgid "The Template has been saved"
+msgstr "Templat telah disimpan"
+
+#: /controllers/templates_controller.php:34
+msgid "Invalid Template"
+msgstr "Templat tidak wujud"
+
+#: /controllers/templates_controller.php:53
+msgid "Invalid id for Template"
+msgstr "Id templat tidak wujud"
+
+#: /controllers/templates_controller.php:57
+msgid "Template deleted"
+msgstr "Templat telah dihapuskan"
+
+#: /controllers/titles_controller.php:14
+msgid "Invalid Title."
+msgstr "Gelaran tidak wujud"
+
+#: /controllers/titles_controller.php:24;39
+msgid "The Title has been saved"
+msgstr "Gelaran telah disimpan"
+
+#: /controllers/titles_controller.php:27;42
+msgid "The Title could not be saved. Please, try again."
+msgstr "Gelaran tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/titles_controller.php:34
+msgid "Invalid Title"
+msgstr "Gelaran tidak wujud"
+
+#: /controllers/titles_controller.php:52
+msgid "Invalid id for Title"
+msgstr "Id gelaran tidak wujud"
+
+#: /controllers/titles_controller.php:56
+msgid "Title deleted"
+msgstr "Gelaran telah dihapuskan"
+
+#: /controllers/todos_controller.php:14;34
+msgid "Invalid Todo."
+msgstr "Senarai semak tidak wujud"
+
+#: /controllers/todos_controller.php:24;48
+msgid "The Todo has been saved"
+msgstr "Senarai semak telah disimpan"
+
+#: /controllers/todos_controller.php:27;51
+msgid "The Todo could not be saved. Please, try again."
+msgstr "Senarai semak tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/todos_controller.php:43
+msgid "Invalid Todo"
+msgstr "Senarai semak tidak wujud"
+
+#: /controllers/todos_controller.php:61
+msgid "Invalid id for Todo"
+msgstr "Id senarai semak tidak wujud"
+
+#: /controllers/todos_controller.php:65
+msgid "Todo deleted"
+msgstr "Senarai semak telah dihapuskan"
+
+#: /controllers/users_controller.php:31
+msgid "Your old password is invalid."
+msgstr "Kata laluan lama tidak wujud"
+
+#: /controllers/users_controller.php:34
+msgid "Your password does not match."
+msgstr "Kata laluan tidak sama"
+
+#: /controllers/users_controller.php:40
+msgid "Your password has been updated. Please login again"
+msgstr "Kata laluan anda telah dikemaskini. Sila log masuk sekali lagi"
+
+#: /controllers/users_controller.php:65
+msgid "Login successful"
+msgstr "Berjaya log masuk"
+
+#: /controllers/users_controller.php:69
+msgid "Wrong username or password. Please try again"
+msgstr "Nama ahli atau kata kaluan tidak tepat. Sila cuba sekali lagi"
+
+#: /controllers/users_controller.php:87
+msgid "Invalid User."
+msgstr "Ahli tidak wujud"
+
+#: /controllers/users_controller.php:97;117
+msgid "The User has been saved"
+msgstr "Profail ahli telah di rekod"
+
+#: /controllers/users_controller.php:100;120
+msgid "The User could not be saved. Please, try again."
+msgstr "Profail ahli tidak dapat di rekod. Sila cuba sekali lagi"
+
+#: /controllers/users_controller.php:112
+msgid "Invalid User"
+msgstr "Ahli tidak wujud"
+
+#: /controllers/users_controller.php:135
+msgid "Invalid id for User"
+msgstr "Id ahli tidak wujud"
+
+#: /controllers/users_controller.php:139
+msgid "User deleted"
+msgstr "Ahli telah dihapuskan"
+
+#: /controllers/users_groups_controller.php:14
+msgid "Invalid UsersGroup."
+msgstr "Ahli kumpulan tidak wujud"
+
+#: /controllers/users_groups_controller.php:24;42
+msgid "The UsersGroup has been saved"
+msgstr "Ahli kumpulan telah disimpan"
+
+#: /controllers/users_groups_controller.php:27;45
+msgid "The UsersGroup could not be saved. Please, try again."
+msgstr "Ahli kumpulan tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/users_groups_controller.php:37
+msgid "Invalid UsersGroup"
+msgstr "Ahli kumpulan tidak wujud"
+
+#: /controllers/users_groups_controller.php:58
+msgid "Invalid id for UsersGroup"
+msgstr "Id ahli kumpulan tidak wujud"
+
+#: /controllers/users_groups_controller.php:62
+msgid "UsersGroup deleted"
+msgstr "Kumpulan ahli telah dihapuskan"
+
+#: /controllers/components/comment.php:34
+#: /views/helpers/comment.php:42
+msgid "on"
+msgstr "on"
+
+#: /views/agencies/add.ctp:4
+msgid "Add Agency"
+msgstr "Tambah agensi"
+
+#: /views/agencies/edit.ctp:4
+msgid "Edit Agency"
+msgstr "Kemaskini agensi"
+
+#: /views/agencies/index.ctp:2
+msgid "New Agency"
+msgstr "Agensi baru"
+
+#: /views/agencies/index.ctp:3
+msgid "Agencies"
+msgstr "Agensi"
+
+#: /views/agencies/index.ctp:12
+#: /views/agencies/view.ctp:49
+#: /views/announcements/index.ctp:14
+#: /views/comments/index.ctp:16
+#: /views/comments/view.ctp:45;89;127
+#: /views/comments_decisions/index.ctp:14
+#: /views/comments_statuses/index.ctp:14
+#: /views/committees/index.ctp:8
+#: /views/committees/userroles.ctp:13
+#: /views/committees_todos/index.ctp:16
+#: /views/committees_users/index.ctp:15
+#: /views/decisions/index.ctp:11
+#: /views/decisions_users/index.ctp:14
+#: /views/file_categories/index.ctp:13
+#: /views/file_categories/view.ctp:38
+#: /views/groups/index.ctp:9
+#: /views/groups/view.ctp:33
+#: /views/items/index.ctp:10
+#: /views/meeting_users/index.ctp:13
+#: /views/meetings/index.ctp:11
+#: /views/meetings_tags/index.ctp:14
+#: /views/meetings_todos/index.ctp:19
+#: /views/meetings_users/index.ctp:18
+#: /views/notifications/index.ctp:16
+#: /views/projects/index.ctp:15
+#: /views/roles/index.ctp:16
+#: /views/roles/view.ctp:35
+#: /views/statuses/index.ctp:19
+#: /views/statuses/view.ctp:75;119
+#: /views/tags/index.ctp:13
+#: /views/tags/view.ctp:42
+#: /views/templates/index.ctp:17
+#: /views/titles/index.ctp:15
+#: /views/todos/index.ctp:17
+#: /views/uploads/index.ctp:18
+#: /views/uploads/view.ctp:67;115;166
+#: /views/uploads_comments/index.ctp:14
+#: /views/uploads_meetings/index.ctp:14
+#: /views/uploads_statuses/index.ctp:14
+#: /views/users/index.ctp:11
+#: /views/users_groups/index.ctp:14
+msgid "Actions"
+msgstr "Tindakan"
+
+#: /views/agencies/index.ctp:47
+#: /views/announcements/index.ctp:46
+#: /views/comments/index.ctp:48
+#: /views/comments_decisions/index.ctp:44
+#: /views/comments_statuses/index.ctp:44
+#: /views/committees/index.ctp:41
+#: /views/committees/userroles.ctp:42
+#: /views/committees_todos/index.ctp:49
+#: /views/committees_users/addressbook.ctp:47
+#: /views/committees_users/index.ctp:50
+#: /views/decisions/index.ctp:51
+#: /views/decisions_users/index.ctp:44
+#: /views/file_categories/index.ctp:40
+#: /views/groups/index.ctp:39
+#: /views/items/index.ctp:43
+#: /views/meeting_users/index.ctp:55
+#: /views/meetings/index.ctp:71
+#: /views/meetings_tags/index.ctp:44
+#: /views/meetings_todos/index.ctp:61
+#: /views/meetings_users/index.ctp:60
+#: /views/notifications/index.ctp:52
+#: /views/projects/index.ctp:63
+#: /views/roles/index.ctp:45
+#: /views/statuses/index.ctp:64
+#: /views/tags/index.ctp:40
+#: /views/templates/index.ctp:54
+#: /views/titles/index.ctp:43
+#: /views/todos/index.ctp:47
+#: /views/uploads/index.ctp:60
+#: /views/uploads_comments/index.ctp:44
+#: /views/uploads_meetings/index.ctp:44
+#: /views/uploads_statuses/index.ctp:44
+#: /views/users/addressbook.ctp:49
+#: /views/users/alert.ctp:40
+#: /views/users/index.ctp:44
+#: /views/users_groups/index.ctp:44
+msgid "previous"
+msgstr "Sebelumnya"
+
+#: /views/agencies/index.ctp:49
+#: /views/announcements/index.ctp:48
+#: /views/comments/index.ctp:50
+#: /views/comments_decisions/index.ctp:46
+#: /views/comments_statuses/index.ctp:46
+#: /views/committees/index.ctp:43
+#: /views/committees/userroles.ctp:44
+#: /views/committees_todos/index.ctp:51
+#: /views/committees_users/addressbook.ctp:49
+#: /views/committees_users/index.ctp:52
+#: /views/decisions/index.ctp:53
+#: /views/decisions_users/index.ctp:46
+#: /views/file_categories/index.ctp:42
+#: /views/groups/index.ctp:41
+#: /views/items/index.ctp:45
+#: /views/meeting_users/index.ctp:57
+#: /views/meetings/index.ctp:73
+#: /views/meetings_tags/index.ctp:46
+#: /views/meetings_todos/index.ctp:63
+#: /views/meetings_users/index.ctp:62
+#: /views/notifications/index.ctp:54
+#: /views/projects/index.ctp:65
+#: /views/roles/index.ctp:47
+#: /views/statuses/index.ctp:66
+#: /views/tags/index.ctp:42
+#: /views/templates/index.ctp:56
+#: /views/titles/index.ctp:45
+#: /views/todos/index.ctp:49
+#: /views/uploads/index.ctp:62
+#: /views/uploads_comments/index.ctp:46
+#: /views/uploads_meetings/index.ctp:46
+#: /views/uploads_statuses/index.ctp:46
+#: /views/users/addressbook.ctp:51
+#: /views/users/alert.ctp:42
+#: /views/users/index.ctp:46
+#: /views/users_groups/index.ctp:46
+msgid "next"
+msgstr "Seterusnya"
+
+#: /views/agencies/view.ctp:2
+#: /views/meetings/attendance.ctp:25
+#: /views/projects/view.ctp:19
+msgid "Agency"
+msgstr "Agensi"
+
+#: /views/agencies/view.ctp:4;41
+#: /views/comments/view.ctp:4;37;81;120
+#: /views/comments_decisions/view.ctp:4
+#: /views/comments_statuses/view.ctp:4
+#: /views/committees_todos/view.ctp:4
+#: /views/committees_users/view.ctp:4
+#: /views/decisions_users/view.ctp:4
+#: /views/file_categories/view.ctp:4;31
+#: /views/groups/view.ctp:4;26
+#: /views/meeting_users/view.ctp:4
+#: /views/meetings_tags/view.ctp:4
+#: /views/meetings_todos/view.ctp:4
+#: /views/meetings_users/view.ctp:4
+#: /views/notifications/view.ctp:4
+#: /views/projects/view.ctp:4
+#: /views/roles/view.ctp:4;31
+#: /views/settings/view.ctp:4
+#: /views/statuses/view.ctp:4;70;112
+#: /views/tags/view.ctp:4;31
+#: /views/uploads/view.ctp:4;62;104;158
+#: /views/uploads_comments/view.ctp:4
+#: /views/uploads_meetings/view.ctp:4
+#: /views/uploads_statuses/view.ctp:4
+#: /views/users_groups/view.ctp:4
+msgid "Id"
+msgstr "Id"
+
+#: /views/agencies/view.ctp:9;45
+#: /views/comments/view.ctp:121
+#: /views/committees/view.ctp:4
+#: /views/committees_todos/view.ctp:14
+#: /views/file_categories/view.ctp:9;32
+#: /views/groups/view.ctp:9;30
+#: /views/items/view.ctp:4
+#: /views/meetings/attendance.ctp:23
+#: /views/meetings_todos/view.ctp:14
+#: /views/projects/view.ctp:9
+#: /views/roles/view.ctp:9
+#: /views/statuses/view.ctp:113
+#: /views/tags/view.ctp:9
+#: /views/todos/view.ctp:4
+#: /views/uploads/view.ctp:9
+#: /views/users/view.ctp:5
+msgid "Name"
+msgstr "Nama"
+
+#: /views/agencies/view.ctp:14
+#: /views/items/view.ctp:5
+#: /views/projects/view.ctp:14
+#: /views/titles/view.ctp:6
+msgid "Short Name"
+msgstr "Nama ringkas"
+
+#: /views/agencies/view.ctp:19;48
+#: /views/comments/view.ctp:42;86;124
+#: /views/file_categories/view.ctp:35
+#: /views/groups/view.ctp:14;32
+#: /views/projects/view.ctp:34
+#: /views/statuses/view.ctp:29;116
+#: /views/tags/view.ctp:39
+#: /views/uploads/view.ctp:24;112;163
+msgid "Active"
+msgstr "Aktif"
+
+#: /views/agencies/view.ctp:24
+#: /views/comments/view.ctp:19;43;87;125
+#: /views/file_categories/view.ctp:36
+#: /views/meeting_users/view.ctp:29
+#: /views/meetings_users/view.ctp:29
+#: /views/projects/view.ctp:39
+#: /views/statuses/view.ctp:34;73;117
+#: /views/tags/view.ctp:40
+#: /views/uploads/view.ctp:29;65;113;164
+msgid "Created"
+msgstr "Wujud"
+
+#: /views/agencies/view.ctp:29
+#: /views/comments/view.ctp:24;44;88;126
+#: /views/file_categories/view.ctp:37
+#: /views/meeting_users/view.ctp:34
+#: /views/meetings_users/view.ctp:34
+#: /views/projects/view.ctp:44
+#: /views/statuses/view.ctp:39;74;118
+#: /views/tags/view.ctp:41
+#: /views/uploads/view.ctp:34;66;114;165
+msgid "Updated"
+msgstr "Dikemaskini"
+
+#: /views/agencies/view.ctp:37
+#: /views/groups/view.ctp:22
+msgid "Related Users"
+msgstr "Ahli berkaitan"
+
+#: /views/agencies/view.ctp:42
+#: /views/groups/view.ctp:27
+msgid "Username"
+msgstr "Kata nama"
+
+#: /views/agencies/view.ctp:43
+#: /views/groups/view.ctp:28
+msgid "Password"
+msgstr "Kata laluan"
+
+#: /views/agencies/view.ctp:44
+#: /views/templates/view.ctp:5
+#: /views/titles/view.ctp:2
+msgid "Title"
+msgstr "Gelaran"
+
+#: /views/agencies/view.ctp:46
+#: /views/groups/view.ctp:31
+msgid "Email"
+msgstr "Emel"
+
+#: /views/agencies/view.ctp:47
+msgid "Agency Id"
+msgstr "Id Agensi"
+
+#: /views/announcements/add.ctp:7
+msgid "Add Announcement"
+msgstr "Tambah pengumuman"
+
+#: /views/announcements/edit.ctp:5
+msgid "Edit Announcement"
+msgstr "Kemaskini pengumuman"
+
+#: /views/announcements/index.ctp:2
+msgid "Add new Announcement"
+msgstr "Tambah pengumuman baru"
+
+#: /views/announcements/index.ctp:3
+#: /views/roles/add.ctp:32;35
+#: /views/roles/edit.ctp:30;33
+msgid "Announcements"
+msgstr "Pengumuman"
+
+#: /views/announcements/index.ctp:7
+#: /views/comments/index.ctp:6
+#: /views/comments_decisions/index.ctp:6
+#: /views/comments_statuses/index.ctp:6
+#: /views/committees/userroles.ctp:6
+#: /views/committees_todos/index.ctp:7
+#: /views/committees_users/addressbook.ctp:6
+#: /views/committees_users/index.ctp:6
+#: /views/decisions_users/index.ctp:6
+#: /views/file_categories/index.ctp:6
+#: /views/meetings_tags/index.ctp:6
+#: /views/meetings_todos/index.ctp:7
+#: /views/meetings_users/index.ctp:6
+#: /views/notifications/index.ctp:6
+#: /views/statuses/index.ctp:6
+#: /views/tags/index.ctp:6
+#: /views/templates/index.ctp:8
+#: /views/titles/index.ctp:6
+#: /views/todos/index.ctp:9
+#: /views/uploads/index.ctp:6
+#: /views/uploads_comments/index.ctp:6
+#: /views/uploads_meetings/index.ctp:6
+#: /views/uploads_statuses/index.ctp:6
+#: /views/users/addressbook.ctp:5
+#: /views/users/alert.ctp:8
+#: /views/users_groups/index.ctp:6
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr "Muka surat %page% / %pages%, menunjukkan %current% rekod daripada %count%, bermula dari rekod %start% hingga rekod %end%"
+
+#: /views/announcements/index.ctp:37
+#: /views/comments_decisions/index.ctp:35
+#: /views/comments_statuses/index.ctp:35
+#: /views/committees/index.ctp:26
+#: /views/committees_todos/index.ctp:40
+#: /views/committees_users/index.ctp:39
+#: /views/decisions/index.ctp:38
+#: /views/decisions_users/index.ctp:35
+#: /views/file_categories/index.ctp:31
+#: /views/file_categories/view.ctp:57
+#: /views/groups/index.ctp:30
+#: /views/groups/view.ctp:52
+#: /views/items/index.ctp:34
+#: /views/meeting_users/index.ctp:46
+#: /views/meetings/index.ctp:38
+#: /views/meetings_tags/index.ctp:35
+#: /views/meetings_todos/index.ctp:52
+#: /views/meetings_users/index.ctp:51
+#: /views/notifications/index.ctp:43
+#: /views/projects/index.ctp:54
+#: /views/roles/add.ctp:25
+#: /views/roles/edit.ctp:23
+#: /views/roles/index.ctp:35
+#: /views/roles/view.ctp:51
+#: /views/statuses/index.ctp:55
+#: /views/statuses/view.ctp:92;138
+#: /views/tags/index.ctp:31
+#: /views/tags/view.ctp:65
+#: /views/templates/index.ctp:45
+#: /views/titles/index.ctp:34
+#: /views/todos/index.ctp:38
+#: /views/uploads/index.ctp:51
+#: /views/uploads/view.ctp:84;138;186
+#: /views/uploads_comments/index.ctp:35
+#: /views/uploads_meetings/index.ctp:35
+#: /views/uploads_statuses/index.ctp:35
+#: /views/users/index.ctp:35
+#: /views/users_groups/index.ctp:35
+msgid "View"
+msgstr "Lihat"
+
+#: /views/announcements/index.ctp:38
+#: /views/comments_decisions/index.ctp:36
+#: /views/comments_statuses/index.ctp:36
+#: /views/committees/index.ctp:27
+#: /views/committees_todos/index.ctp:41
+#: /views/committees_users/index.ctp:40
+#: /views/decisions/index.ctp:41
+#: /views/decisions_users/index.ctp:36
+#: /views/file_categories/index.ctp:32
+#: /views/file_categories/view.ctp:58
+#: /views/groups/index.ctp:31
+#: /views/groups/view.ctp:53
+#: /views/items/index.ctp:35
+#: /views/meeting_users/index.ctp:47
+#: /views/meetings/index.ctp:41
+#: /views/meetings_tags/index.ctp:36
+#: /views/meetings_todos/index.ctp:53
+#: /views/meetings_users/index.ctp:52
+#: /views/notifications/index.ctp:44
+#: /views/projects/index.ctp:55
+#: /views/roles/index.ctp:36
+#: /views/roles/view.ctp:52
+#: /views/statuses/index.ctp:56
+#: /views/statuses/view.ctp:93;139
+#: /views/tags/index.ctp:32
+#: /views/tags/view.ctp:66
+#: /views/templates/index.ctp:46
+#: /views/titles/index.ctp:35
+#: /views/todos/index.ctp:39
+#: /views/uploads/index.ctp:52
+#: /views/uploads/view.ctp:85;139;187
+#: /views/uploads_comments/index.ctp:36
+#: /views/uploads_meetings/index.ctp:36
+#: /views/uploads_statuses/index.ctp:36
+#: /views/users/index.ctp:36
+#: /views/users_groups/index.ctp:36
+msgid "Edit"
+msgstr "Kemaskini"
+
+#: /views/announcements/index.ctp:39
+#: /views/comments_decisions/index.ctp:37
+#: /views/comments_statuses/index.ctp:37
+#: /views/committees/index.ctp:29
+#: /views/committees_todos/index.ctp:42
+#: /views/committees_users/index.ctp:42
+#: /views/decisions/index.ctp:44
+#: /views/decisions_users/index.ctp:37
+#: /views/file_categories/index.ctp:33
+#: /views/file_categories/view.ctp:59
+#: /views/groups/index.ctp:32
+#: /views/groups/view.ctp:54
+#: /views/items/index.ctp:36
+#: /views/meeting_users/index.ctp:48
+#: /views/meetings/index.ctp:44
+#: /views/meetings_tags/index.ctp:37
+#: /views/meetings_todos/index.ctp:54
+#: /views/meetings_users/index.ctp:53
+#: /views/notifications/index.ctp:45
+#: /views/projects/index.ctp:56
+#: /views/roles/add.ctp:27
+#: /views/roles/edit.ctp:25
+#: /views/roles/index.ctp:37
+#: /views/roles/view.ctp:53
+#: /views/settings/edit.ctp:18
+#: /views/statuses/index.ctp:57
+#: /views/statuses/view.ctp:94;140
+#: /views/tags/index.ctp:33
+#: /views/tags/view.ctp:67
+#: /views/titles/index.ctp:36
+#: /views/todos/index.ctp:40
+#: /views/uploads/index.ctp:53
+#: /views/uploads/view.ctp:86;140;188
+#: /views/uploads_comments/index.ctp:37
+#: /views/uploads_meetings/index.ctp:37
+#: /views/uploads_statuses/index.ctp:37
+#: /views/users/index.ctp:37
+#: /views/users_groups/edit.ctp:17
+#: /views/users_groups/index.ctp:37
+msgid "Delete"
+msgstr "Hapus"
+
+#: /views/announcements/index.ctp:39
+#: /views/comments_decisions/index.ctp:37
+#: /views/comments_statuses/index.ctp:37
+#: /views/committees/index.ctp:29
+#: /views/committees_todos/index.ctp:42
+#: /views/committees_users/index.ctp:42
+#: /views/decisions/index.ctp:44
+#: /views/decisions_users/index.ctp:37
+#: /views/decisions_users/view.ctp:24
+#: /views/file_categories/index.ctp:33
+#: /views/file_categories/view.ctp:19;59
+#: /views/groups/index.ctp:32
+#: /views/groups/view.ctp:54
+#: /views/items/index.ctp:36
+#: /views/meeting_users/index.ctp:48
+#: /views/meetings/index.ctp:44
+#: /views/meetings_tags/index.ctp:37
+#: /views/meetings_todos/index.ctp:54
+#: /views/meetings_users/index.ctp:53
+#: /views/notifications/index.ctp:45
+#: /views/projects/index.ctp:56
+#: /views/roles/index.ctp:37
+#: /views/roles/view.ctp:19;53
+#: /views/settings/edit.ctp:18
+#: /views/settings/view.ctp:29
+#: /views/statuses/index.ctp:57
+#: /views/statuses/view.ctp:52;94;140
+#: /views/tags/index.ctp:33
+#: /views/tags/view.ctp:19;67
+#: /views/titles/index.ctp:36
+#: /views/todos/index.ctp:40
+#: /views/uploads/index.ctp:53
+#: /views/uploads/view.ctp:44;86;140;188
+#: /views/uploads_comments/index.ctp:37
+#: /views/uploads_meetings/index.ctp:37
+#: /views/uploads_statuses/index.ctp:37
+#: /views/users/index.ctp:37
+#: /views/users_groups/edit.ctp:17
+#: /views/users_groups/index.ctp:37
+#: /views/users_groups/view.ctp:24
+msgid "Are you sure you want to delete # %s?"
+msgstr "Adakah anda pasti untuk menghapuskan # %s?"
+
+#: /views/announcements/view.ctp:2;5
+#: /views/users/alert.ctp:25
+msgid "Announcement"
+msgstr "Pengumuman"
+
+#: /views/announcements/view.ctp:4
+msgid "Commttee"
+msgstr "Jawatankuasa"
+
+#: /views/comments/add.ctp:8
+msgid "Add Comment"
+msgstr "Tambah komen"
+
+#: /views/comments/edit.ctp:20
+msgid "Edit Comment"
+msgstr "Kemaskini komen"
+
+#: /views/comments/index.ctp:2
+#: /views/roles/add.ctp:98;126;154;189;217;245
+#: /views/roles/edit.ctp:96;124;152;187;215;243
+msgid "Comments"
+msgstr "Komen"
+
+#: /views/comments/view.ctp:2
+#: /views/comments_decisions/view.ctp:9
+#: /views/comments_statuses/view.ctp:9
+#: /views/decisions/view.ctp:21
+#: /views/uploads_comments/view.ctp:14
+msgid "Comment"
+msgstr "Komen"
+
+#: /views/comments/view.ctp:9;40;84
+#: /views/decisions/view.ctp:7;20
+#: /views/items/view.ctp:6;16
+#: /views/meetings/view.ctp:44
+#: /views/statuses/view.ctp:19;71
+#: /views/uploads/view.ctp:63;161
+msgid "Description"
+msgstr "Penerangan"
+
+#: /views/comments/view.ctp:14
+#: /views/committees_users/view.ctp:9
+#: /views/decisions_users/view.ctp:14
+#: /views/meeting_users/view.ctp:14
+#: /views/meetings_todos/view.ctp:24
+#: /views/meetings_users/view.ctp:14
+#: /views/statuses/view.ctp:14
+#: /views/users/view.ctp:3
+#: /views/users_groups/view.ctp:9
+msgid "User"
+msgstr "Ahli"
+
+#: /views/comments/view.ctp:33
+msgid "Related Decisions"
+msgstr "Keputusan berkaitan"
+
+#: /views/comments/view.ctp:38
+msgid "Meeting Id"
+msgstr "Id mesyuarat"
+
+#: /views/comments/view.ctp:39
+msgid "Item Id"
+msgstr "Id Perkara"
+
+#: /views/comments/view.ctp:41
+#: /views/decisions/view.ctp:6
+#: /views/items/view.ctp:15
+#: /views/meetings/view.ctp:43
+msgid "Deadline"
+msgstr "Tarikh akhir"
+
+#: /views/comments/view.ctp:72
+#: /views/decisions_users/view.ctp:28
+#: /views/statuses/view.ctp:56
+msgid "New Decision"
+msgstr "Keputusan baru"
+
+#: /views/comments/view.ctp:77
+#: /views/uploads/view.ctp:154
+msgid "Related Statuses"
+msgstr "Status berkaitan"
+
+#: /views/comments/view.ctp:82
+#: /views/uploads/view.ctp:159
+msgid "Decision Id"
+msgstr "Id keputusan"
+
+#: /views/comments/view.ctp:83
+#: /views/roles/view.ctp:32
+#: /views/statuses/view.ctp:72
+#: /views/uploads/view.ctp:64;160
+msgid "User Id"
+msgstr "Id ahli"
+
+#: /views/comments/view.ctp:85
+#: /views/decisions/view.ctp:19
+#: /views/statuses/view.ctp:24
+#: /views/uploads/view.ctp:162
+msgid "Action Date"
+msgstr "Tarikh"
+
+#: /views/comments/view.ctp:116
+#: /views/file_categories/view.ctp:27
+#: /views/statuses/view.ctp:108
+msgid "Related Uploads"
+msgstr "Muat naik berkaitan"
+
+#: /views/comments/view.ctp:122
+#: /views/file_categories/view.ctp:33
+#: /views/statuses/view.ctp:114
+msgid "File Category Id"
+msgstr "Id kategori fail"
+
+#: /views/comments/view.ctp:123
+#: /views/file_categories/view.ctp:34
+#: /views/statuses/view.ctp:115
+#: /views/uploads/view.ctp:19
+msgid "File Path"
+msgstr "Lokasi fail"
+
+#: /views/comments/view.ctp:153
+#: /views/file_categories/view.ctp:23;68
+#: /views/statuses/view.ctp:62;149
+#: /views/uploads/view.ctp:46
+msgid "New Upload"
+msgstr "Muat naik baru"
+
+#: /views/comments_decisions/add.ctp:4
+msgid "Add CommentsDecision"
+msgstr "Tambah komen keputusan"
+
+#: /views/comments_decisions/edit.ctp:4
+msgid "Edit CommentsDecision"
+msgstr "Kemaskini komen keputusan"
+
+#: /views/comments_decisions/index.ctp:2
+msgid "CommentsDecisions"
+msgstr "Komen keputusan"
+
+#: /views/comments_decisions/view.ctp:2
+msgid "CommentsDecision"
+msgstr "Komen Keputusan"
+
+#: /views/comments_decisions/view.ctp:14
+#: /views/decisions/view.ctp:2
+#: /views/decisions_users/view.ctp:9
+#: /views/statuses/view.ctp:9
+msgid "Decision"
+msgstr "Keputusan"
+
+#: /views/comments_statuses/add.ctp:4
+msgid "Add CommentsStatus"
+msgstr "Tambah komen untuk status"
+
+#: /views/comments_statuses/edit.ctp:4
+msgid "Edit CommentsStatus"
+msgstr "Kemaskini komen untuk status"
+
+#: /views/comments_statuses/index.ctp:2
+msgid "CommentsStatuses"
+msgstr "Komen untuk status"
+
+#: /views/comments_statuses/view.ctp:2
+msgid "CommentsStatus"
+msgstr "Komen untuk status"
+
+#: /views/comments_statuses/view.ctp:14
+#: /views/roles/add.ctp:140;231
+#: /views/roles/edit.ctp:138;229
+#: /views/statuses/view.ctp:2
+#: /views/uploads_statuses/view.ctp:14
+msgid "Status"
+msgstr "Status"
+
+#: /views/committees/add.ctp:4
+msgid "Add Committee"
+msgstr "Tambah jawatankuasa"
+
+#: /views/committees/committeeto.ctp:1
+msgid "Current Committees Todo"
+msgstr "Senarai semak jawatankuasa terkini"
+
+#: /views/committees/committeeto.ctp:7
+#: /views/meetings/meetingtodo.ctp:7
+msgid "List Todo"
+msgstr "Senarai semak"
+
+#: /views/committees/committeeto.ctp:35
+#: /views/meetings/meetingtodo.ctp:31
+msgid "New Meeting todos"
+msgstr "Senarai semak baru mesyuarat"
+
+#: /views/committees/edit.ctp:4
+msgid "Edit Committee"
+msgstr "Kemaskini jawatankuasa"
+
+#: /views/committees/index.ctp:2
+msgid "Add new committee"
+msgstr "Tambah jawatankuasa baru"
+
+#: /views/committees/index.ctp:3
+msgid "Committees"
+msgstr "Jawatankuasa"
+
+#: /views/committees/index.ctp:31
+#: /views/committees/userroles.ctp:3
+msgid "Committee Users"
+msgstr "Ahli jawatankuasa"
+
+#: /views/committees/index.ctp:33
+#: /views/meetings_todos/view.ctp:2
+msgid "MeetingsTodo"
+msgstr "Senarai semak mesyuarat"
+
+#: /views/committees/index.ctp:47
+msgid "Committee todos"
+msgstr "Senarai semak jawatankuasa"
+
+#: /views/committees/userroles.ctp:33
+msgid "Edit Roles"
+msgstr "Kemaskini peranan"
+
+#: /views/committees/view.ctp:2
+#: /views/committees_todos/view.ctp:9
+#: /views/committees_users/view.ctp:14
+#: /views/users/alert.ctp:24
+msgid "Committee"
+msgstr "Jawatankuasa"
+
+#: /views/committees_todos/add.ctp:4
+msgid "Add CommitteesTodo"
+msgstr "Tambah senarai semak jawatankuasa"
+
+#: /views/committees_todos/edit.ctp:4
+msgid "Edit CommitteesTodo"
+msgstr "Kemaskini senarai semak jawatankuasa"
+
+#: /views/committees_todos/index.ctp:2
+msgid "Add new committeetodos"
+msgstr "Tambah senarai semak jawatankuasa baru"
+
+#: /views/committees_todos/index.ctp:3
+msgid "CommitteesTodos"
+msgstr "Senarai semak jawatankuasa"
+
+#: /views/committees_todos/index.ctp:55
+msgid "List todos"
+msgstr "Senarai semak"
+
+#: /views/committees_todos/summary.ctp:2
+msgid "CommitteeTodos"
+msgstr "Senarai semak jawatankuasa"
+
+#: /views/committees_todos/view.ctp:2
+msgid "CommitteesTodo"
+msgstr "Senarai semak jawatankuasa"
+
+#: /views/committees_todos/view.ctp:19
+#: /views/meetings_todos/view.ctp:19
+#: /views/todos/view.ctp:5
+msgid "Priority"
+msgstr "Keutamaan"
+
+#: /views/committees_users/add.ctp:4
+msgid "Add CommitteesUser"
+msgstr "Tambah ahli jawatankuasa"
+
+#: /views/committees_users/addressbook.ctp:3
+#: /views/users/addressbook.ctp:2
+msgid "Address Book"
+msgstr "Buku alamat"
+
+#: /views/committees_users/edit.ctp:4
+msgid "Edit CommitteesUser"
+msgstr "Kemaskini ahli jawankuasa"
+
+#: /views/committees_users/editroles.ctp:2
+msgid "User Role Per Committee"
+msgstr "Peranan ahli jawatankuasa"
+
+#: /views/committees_users/editroles.ctp:6
+msgid "Edit User role per committee"
+msgstr "Kemaskini peranan ahli"
+
+#: /views/committees_users/index.ctp:2
+msgid "CommitteesUsers"
+msgstr "Ahli jawatankuasa"
+
+#: /views/committees_users/view.ctp:2
+msgid "CommitteesUser"
+msgstr "Ahli jawatankuasa"
+
+#: /views/committees_users/view.ctp:19
+#: /views/roles/view.ctp:2
+msgid "Role"
+msgstr "Peranan"
+
+#: /views/decisions/add.ctp:4
+msgid "Add Decision"
+msgstr "Tambah keputusan"
+
+#: /views/decisions/edit.ctp:4
+msgid "Edit Decision"
+msgstr "Kemaskini keputusan"
+
+#: /views/decisions/index.ctp:2
+#: /views/meetings/view.ctp:1
+msgid "Add new decision"
+msgstr "Tambah keputusan baru"
+
+#: /views/decisions/index.ctp:3
+#: /views/roles/add.ctp:112;203
+#: /views/roles/edit.ctp:110;201
+msgid "Decisions"
+msgstr "Keputusan"
+
+#: /views/decisions/view.ctp:4
+#: /views/items/view.ctp:14
+#: /views/meeting_users/view.ctp:9
+#: /views/meetings/summary.ctp:2
+#: /views/meetings/view.ctp:4
+#: /views/meetings_tags/view.ctp:9
+#: /views/meetings_todos/view.ctp:9
+#: /views/meetings_users/view.ctp:9
+#: /views/notifications/view.ctp:9
+#: /views/uploads_meetings/view.ctp:14
+msgid "Meeting"
+msgstr "Mesyuarat"
+
+#: /views/decisions/view.ctp:5
+#: /views/items/view.ctp:2
+#: /views/meetings/view.ctp:42
+#: /views/projects/view.ctp:2
+msgid "Project"
+msgstr "Projek"
+
+#: /views/decisions/view.ctp:8
+#: /views/items/view.ctp:17
+#: /views/meetings/view.ctp:45
+msgid "Implementor"
+msgstr "Pelaksana"
+
+#: /views/decisions/view.ctp:15
+msgid "List of status"
+msgstr "Senarai status"
+
+#: /views/decisions/view.ctp:32
+msgid "New status"
+msgstr "Status baru"
+
+#: /views/decisions_users/add.ctp:4
+msgid "Add DecisionsUser"
+msgstr "Tambah keputusan ahli"
+
+#: /views/decisions_users/edit.ctp:4
+#: /views/decisions_users/view.ctp:23
+msgid "Edit DecisionsUser"
+msgstr "Kemaskini keputusan ahli"
+
+#: /views/decisions_users/index.ctp:2
+msgid "DecisionsUsers"
+msgstr "Keputusan ahli"
+
+#: /views/decisions_users/view.ctp:2
+msgid "DecisionsUser"
+msgstr "Keputusan ahli"
+
+#: /views/decisions_users/view.ctp:24
+msgid "Delete DecisionsUser"
+msgstr "Hapus keputusan ahli"
+
+#: /views/decisions_users/view.ctp:25
+msgid "List DecisionsUsers"
+msgstr "Senarai keputusan ahli"
+
+#: /views/decisions_users/view.ctp:26
+msgid "New DecisionsUser"
+msgstr "Keputusan baru ahli"
+
+#: /views/decisions_users/view.ctp:27
+#: /views/statuses/view.ctp:55
+msgid "List Decisions"
+msgstr "Senarai keputusan"
+
+#: /views/decisions_users/view.ctp:29
+#: /views/statuses/view.ctp:57
+#: /views/users_groups/add.ctp:17
+#: /views/users_groups/edit.ctp:19
+#: /views/users_groups/index.ctp:51
+#: /views/users_groups/view.ctp:27
+msgid "List Users"
+msgstr "Senarai ahli"
+
+#: /views/decisions_users/view.ctp:30
+#: /views/statuses/view.ctp:58
+#: /views/users_groups/add.ctp:18
+#: /views/users_groups/edit.ctp:20
+#: /views/users_groups/index.ctp:52
+#: /views/users_groups/view.ctp:28
+msgid "New User"
+msgstr "Ahli baru"
+
+#: /views/elements/adminmenu.ctp:21
+msgid "Logout"
+msgstr "Log keluar"
+
+#: /views/elements/committee_list.ctp:16
+msgid "All"
+msgstr "Semua"
+
+#: /views/elements/topmenu.ctp:1
+msgid "Hi"
+msgstr "Selamat datang"
+
+#: /views/elements/topmenu.ctp:2
+msgid "You are here:"
+msgstr "Anda berada di sini:"
+
+#: /views/elements/users_per_committee.ctp:2
+msgid "Select members to invite"
+msgstr "Sila pilih ahli untuk dijemput"
+
+#: /views/elements/users_per_committee.ctp:44
+msgid "Set template"
+msgstr "Set templat"
+
+#: /views/file_categories/add.ctp:4
+msgid "Add FileCategory"
+msgstr "Tambah kategori fail"
+
+#: /views/file_categories/edit.ctp:4
+#: /views/file_categories/view.ctp:18
+msgid "Edit FileCategory"
+msgstr "Kemaskini kategori fail"
+
+#: /views/file_categories/index.ctp:2
+msgid "FileCategories"
+msgstr "Kategori fail"
+
+#: /views/file_categories/view.ctp:2
+msgid "FileCategory"
+msgstr "Kategori fail"
+
+#: /views/file_categories/view.ctp:19
+msgid "Delete FileCategory"
+msgstr "Hapus kategori fail"
+
+#: /views/file_categories/view.ctp:20
+msgid "List FileCategories"
+msgstr "Senarai kategori fail"
+
+#: /views/file_categories/view.ctp:21
+msgid "New FileCategory"
+msgstr "Kategori fail baru"
+
+#: /views/file_categories/view.ctp:22
+#: /views/statuses/view.ctp:61
+#: /views/uploads/view.ctp:45
+msgid "List Uploads"
+msgstr "Senarai muat naik"
+
+#: /views/groups/add.ctp:4
+msgid "Add Group"
+msgstr "Tambah kumpulan"
+
+#: /views/groups/edit.ctp:4
+msgid "Edit Group"
+msgstr "Kemaskini kumpulan"
+
+#: /views/groups/index.ctp:2
+msgid "Add new group"
+msgstr "Tambah kumpulan baru"
+
+#: /views/groups/index.ctp:3
+msgid "Groups"
+msgstr "Kumpulan"
+
+#: /views/groups/view.ctp:2
+#: /views/settings/view.ctp:19
+#: /views/users_groups/view.ctp:14
+msgid "Group"
+msgstr "Kumpulan"
+
+#: /views/groups/view.ctp:29
+msgid "Job Title"
+msgstr "Nama jawatan"
+
+#: /views/items/add.ctp:4
+msgid "Add Item"
+msgstr "Tambah perkara"
+
+#: /views/items/edit.ctp:4
+msgid "Edit Item"
+msgstr "Kemaskini perkara"
+
+#: /views/items/index.ctp:2
+msgid "Add new project"
+msgstr "Tambah projek baru"
+
+#: /views/items/index.ctp:3
+#: /views/projects/index.ctp:3
+msgid "Projects"
+msgstr "Projek"
+
+#: /views/items/view.ctp:10
+msgid "List of decision"
+msgstr "Senarai keputusan"
+
+#: /views/items/view.ctp:18
+msgid "View decision"
+msgstr "Lihat keputusan"
+
+#: /views/items/view.ctp:31
+msgid "New decision"
+msgstr "Keputusan baru"
+
+#: /views/meeting_users/add.ctp:4
+msgid "Add MeetingUser"
+msgstr "Tambah ahli mesyuarat"
+
+#: /views/meeting_users/edit.ctp:4
+msgid "Edit MeetingUser"
+msgstr "Kemaskini ahli mesyuarat"
+
+#: /views/meeting_users/index.ctp:2
+msgid "New MeetingUser"
+msgstr "Ahli mesyuarat baru"
+
+#: /views/meeting_users/index.ctp:3
+msgid "MeetingUsers"
+msgstr "Ahli-ahli mesyuarat"
+
+#: /views/meeting_users/view.ctp:2
+msgid "MeetingUser"
+msgstr "Ahli mesyuarat"
+
+#: /views/meeting_users/view.ctp:19
+#: /views/meetings_users/view.ctp:19
+msgid "Attended"
+msgstr "Telah hadir"
+
+#: /views/meeting_users/view.ctp:24
+#: /views/meetings_users/view.ctp:24
+msgid "Excuse"
+msgstr "Alasan"
+
+#: /views/meetings/add.ctp:12;16
+msgid "Add Meeting"
+msgstr "Tambah mesyuarat"
+
+#: /views/meetings/attendance.ctp:1;26
+#: /views/meetings/index.ctp:62
+msgid "Attendance"
+msgstr "Kehadiran"
+
+#: /views/meetings/attendance.ctp:5
+msgid "Meeting no"
+msgstr "Bil mesyuarat"
+
+#: /views/meetings/attendance.ctp:6
+msgid "Meeting date"
+msgstr "Tarikh mesyuarat"
+
+#: /views/meetings/attendance.ctp:7
+#: /views/meetings/view.ctp:8
+#: /views/tags/view.ctp:35
+#: /views/uploads/view.ctp:108
+msgid "Venue"
+msgstr "Tempat"
+
+#: /views/meetings/attendance.ctp:14
+msgid "Take Attendance"
+msgstr "Ambil kehadiran"
+
+#: /views/meetings/attendance.ctp:18
+msgid "List of members invited for this meeting. Please select the members who attended the meeting."
+msgstr "Senarai ahli yang dijemput untuk mesyuarat ini. Sila pilih ahli yang telah hadir ke mesyuarat."
+
+#: /views/meetings/attendance.ctp:24
+msgid "Post"
+msgstr "Jawatan"
+
+#: /views/meetings/attendance.ctp:30
+#: /views/meetings/meetingtodo.ctp:14
+msgid "No records found"
+msgstr "Tiada rekod ditemui"
+
+#: /views/meetings/edit.ctp:4
+msgid "Edit Meeting"
+msgstr "Kemaskini mesyuarat"
+
+#: /views/meetings/index.ctp:2
+msgid "Add new meeting"
+msgstr "Tambah mesyuarat baru"
+
+#: /views/meetings/index.ctp:3
+#: /views/roles/add.ctp:84;175
+#: /views/roles/edit.ctp:82;173
+msgid "Meetings"
+msgstr "Mesyuarat"
+
+#: /views/meetings/index.ctp:51
+msgid "Invited"
+msgstr "Dijemput"
+
+#: /views/meetings/index.ctp:59
+msgid "MeetingTodo"
+msgstr "Semakan mesyuarat"
+
+#: /views/meetings/index.ctp:64
+msgid "Summary"
+msgstr "Rumusan"
+
+#: /views/meetings/invite.ctp:1
+msgid "Invite to Meeting"
+msgstr "Jemput ke mesyuarat"
+
+#: /views/meetings/meetingtodo.ctp:1
+msgid "Current Meetings Todo"
+msgstr "Semakan mesyuarat terkini"
+
+#: /views/meetings/view.ctp:6
+#: /views/tags/view.ctp:33
+#: /views/uploads/view.ctp:106
+msgid "Meeting Num"
+msgstr "Bil Mesyuarat"
+
+#: /views/meetings/view.ctp:7
+#: /views/tags/view.ctp:34
+#: /views/uploads/view.ctp:107
+msgid "Meeting Date"
+msgstr "Tarikh meeting"
+
+#: /views/meetings/view.ctp:14
+msgid "Files for this meeting"
+msgstr "Fail untuk mesyuarat ini"
+
+#: /views/meetings/view.ctp:28
+msgid "Comments for this meeting"
+msgstr "Komen untuk mesyuarat ini"
+
+#: /views/meetings/view.ctp:35
+msgid "List of decisions"
+msgstr "Senarai keputusan"
+
+#: /views/meetings/view.ctp:46
+msgid "Leave comment"
+msgstr "Tinggalkan komen"
+
+#: /views/meetings_tags/add.ctp:4
+msgid "Add MeetingsTag"
+msgstr "Tambah tag mesyuarat"
+
+#: /views/meetings_tags/edit.ctp:4
+msgid "Edit MeetingsTag"
+msgstr "Kemaskini tag mesyuarat"
+
+#: /views/meetings_tags/index.ctp:2
+msgid "MeetingsTags"
+msgstr "Tag mesyuarat"
+
+#: /views/meetings_tags/view.ctp:2
+msgid "MeetingsTag"
+msgstr "Tag mesyuarat"
+
+#: /views/meetings_tags/view.ctp:14
+#: /views/tags/view.ctp:2
+msgid "Tag"
+msgstr "Tag"
+
+#: /views/meetings_todos/add.ctp:4
+msgid "Add MeetingsTodo"
+msgstr "Tambah semakan mesyuarat"
+
+#: /views/meetings_todos/edit.ctp:4
+msgid "Edit MeetingsTodo"
+msgstr "Kemaskini semakan mesyuarat"
+
+#: /views/meetings_todos/index.ctp:2
+msgid "Add new meetingtodos"
+msgstr "Tambah semakan mesyuarat"
+
+#: /views/meetings_todos/index.ctp:3
+msgid "MeetingsTodos"
+msgstr "Semakan mesyuarat"
+
+#: /views/meetings_todos/view.ctp:29
+msgid "Done"
+msgstr "Siap"
+
+#: /views/meetings_todos/view.ctp:34
+msgid "Date Done"
+msgstr "Tarikh siap"
+
+#: /views/meetings_users/add.ctp:4
+msgid "Add MeetingsUser"
+msgstr "Tambah ahli mesyuarat"
+
+#: /views/meetings_users/edit.ctp:4
+msgid "Edit MeetingsUser"
+msgstr "Kemaskini ahli mesyuarat"
+
+#: /views/meetings_users/index.ctp:2
+msgid "MeetingsUsers"
+msgstr "Ahli mesyuarat"
+
+#: /views/meetings_users/view.ctp:2
+msgid "MeetingsUser"
+msgstr "Ahli mesyuarat"
+
+#: /views/notifications/add.ctp:4
+msgid "Add Notification"
+msgstr "Tambah pemberitahuan"
+
+#: /views/notifications/edit.ctp:4
+msgid "Edit Notification"
+msgstr "Kemaskini pemberitahuan"
+
+#: /views/notifications/index.ctp:2
+msgid "Notifications"
+msgstr "Pemberitahuan"
+
+#: /views/notifications/view.ctp:2;14
+msgid "Notification"
+msgstr "Pemberitahuan"
+
+#: /views/notifications/view.ctp:19
+msgid "Notification Date"
+msgstr "Tarikh pemberitahuan"
+
+#: /views/notifications/view.ctp:24
+msgid "Notification Sent"
+msgstr "Pemberitahuan telah dihantar"
+
+#: /views/projects/add.ctp:4
+msgid "Add Project"
+msgstr "Tambah projek"
+
+#: /views/projects/edit.ctp:4
+msgid "Edit Project"
+msgstr "Kemaskini projek"
+
+#: /views/projects/index.ctp:2
+msgid "New Project"
+msgstr "Projek baru"
+
+#: /views/projects/view.ctp:24
+msgid "Start Date"
+msgstr "Tarikh mula"
+
+#: /views/projects/view.ctp:29
+msgid "End Date"
+msgstr "Tarikh akhir"
+
+#: /views/roles/add.ctp:9;14
+msgid "Add Role"
+msgstr "Tambah peranan"
+
+#: /views/roles/add.ctp:16
+msgid "Please fill in the field and select tasks for the role. "
+msgstr "Sila isikan kesemua ruangan beserta tugas peranan."
+
+#: /views/roles/add.ctp:17
+msgid "Please be sure of the role name as it is not editable after it is saved. "
+msgstr "Sila semak nama peranan kerana ianya tidak dapat dikemaskini lagi setelah disimpan."
+
+#: /views/roles/add.ctp:23
+#: /views/roles/edit.ctp:21
+msgid "Modules"
+msgstr "Modul"
+
+#: /views/roles/add.ctp:24
+#: /views/roles/edit.ctp:22
+msgid "Create"
+msgstr "Cipta"
+
+#: /views/roles/add.ctp:26
+#: /views/roles/edit.ctp:24
+msgid "Update"
+msgstr "Kemaskini"
+
+#: /views/roles/add.ctp:43
+#: /views/roles/edit.ctp:41
+msgid "To-do's List"
+msgstr "Senarai semakan"
+
+#: /views/roles/add.ctp:46;65;264
+#: /views/roles/edit.ctp:44;63;262
+msgid "Committee level"
+msgstr "Tahap jawatankuasa"
+
+#: /views/roles/add.ctp:53;72
+#: /views/roles/edit.ctp:51;70
+msgid "Meeting level"
+msgstr "Tahap mesyuarat"
+
+#: /views/roles/add.ctp:62
+#: /views/roles/edit.ctp:60
+msgid "Email Templates"
+msgstr "Templat emel"
+
+#: /views/roles/add.ctp:81
+#: /views/roles/edit.ctp:79
+msgid "Meetings (uninvited)"
+msgstr "Mesyuarat (tidak dijemput)"
+
+#: /views/roles/add.ctp:91;105;119;133;147;161;182;196;210;224;238;252
+#: /views/roles/edit.ctp:89;103;117;131;145;159;180;194;208;222;236;250
+#: /views/uploads/index.ctp:2
+msgid "Uploads"
+msgstr "Muat naik"
+
+#: /views/roles/add.ctp:172
+#: /views/roles/edit.ctp:170
+msgid "Meetings (invited)"
+msgstr "Mesyuarat (dijemput)"
+
+#: /views/roles/add.ctp:261
+#: /views/roles/edit.ctp:259
+#: /views/users/index.ctp:4
+msgid "Users"
+msgstr "Ahli-ahli"
+
+#: /views/roles/edit.ctp:11
+#: /views/roles/view.ctp:18
+msgid "Edit Role"
+msgstr "Kemaskini peranan"
+
+#: /views/roles/edit.ctp:12
+msgid "Please fill in the field and select tasks for the role."
+msgstr "Sila isikan kesemua ruangan beserta tugas peranan."
+
+#: /views/roles/index.ctp:2
+msgid "Add new role"
+msgstr "Tambah peranan baru"
+
+#: /views/roles/index.ctp:4
+msgid "Roles"
+msgstr "Peranan"
+
+#: /views/roles/view.ctp:19
+msgid "Delete Role"
+msgstr "Hapus peranan"
+
+#: /views/roles/view.ctp:20
+msgid "List Roles"
+msgstr "Senarai peranan"
+
+#: /views/roles/view.ctp:21
+msgid "New Role"
+msgstr "Peranan baru"
+
+#: /views/roles/view.ctp:22
+msgid "List Committees Users"
+msgstr "Senarai ahli jawatankuasa"
+
+#: /views/roles/view.ctp:23
+msgid "New Committees User"
+msgstr "Ahli jawatankuasa baru"
+
+#: /views/roles/view.ctp:27
+msgid "Related Committees Users"
+msgstr "Ahli jawatankuasa yang berkaitan"
+
+#: /views/roles/view.ctp:33
+#: /views/tags/view.ctp:32
+#: /views/uploads/view.ctp:105
+msgid "Committee Id"
+msgstr "Id jawatankuasa"
+
+#: /views/roles/view.ctp:34
+msgid "Role Id"
+msgstr "Peranan Id"
+
+#: /views/settings/add.ctp:4
+msgid "Add Setting"
+msgstr "Tambah tetapan"
+
+#: /views/settings/add.ctp:15
+#: /views/settings/edit.ctp:19
+#: /views/settings/view.ctp:30
+msgid "List Settings"
+msgstr "Senarai tetapan"
+
+#: /views/settings/edit.ctp:4
+#: /views/settings/view.ctp:28
+msgid "Edit Setting"
+msgstr "Kemaskini tetapan"
+
+#: /views/settings/view.ctp:2;9
+msgid "Setting"
+msgstr "Tetapan"
+
+#: /views/settings/view.ctp:14
+msgid "Value"
+msgstr "Nilai"
+
+#: /views/settings/view.ctp:29
+msgid "Delete Setting"
+msgstr "Hapus tetapan"
+
+#: /views/settings/view.ctp:31
+msgid "New Setting"
+msgstr "Tetapan baru"
+
+#: /views/statuses/add.ctp:4
+msgid "Add Status"
+msgstr "Tambah status"
+
+#: /views/statuses/edit.ctp:4
+#: /views/statuses/view.ctp:51
+msgid "Edit Status"
+msgstr "Kemaskini status"
+
+#: /views/statuses/index.ctp:2
+msgid "Statuses"
+msgstr "Status"
+
+#: /views/statuses/view.ctp:52
+msgid "Delete Status"
+msgstr "Hapus status"
+
+#: /views/statuses/view.ctp:53
+#: /views/uploads/view.ctp:53
+msgid "List Statuses"
+msgstr "Senarai status"
+
+#: /views/statuses/view.ctp:54
+#: /views/uploads/view.ctp:54
+msgid "New Status"
+msgstr "Status baru"
+
+#: /views/statuses/view.ctp:59
+#: /views/uploads/view.ctp:49
+msgid "List Comments"
+msgstr "Senarai komen"
+
+#: /views/statuses/view.ctp:60;103
+#: /views/uploads/view.ctp:50;95
+msgid "New Comment"
+msgstr "Komen baru"
+
+#: /views/statuses/view.ctp:66
+#: /views/uploads/view.ctp:58
+msgid "Related Comments"
+msgstr "Komen yang berkaitan"
+
+#: /views/tags/add.ctp:4
+msgid "Add Tag"
+msgstr "Tambah tag baru"
+
+#: /views/tags/edit.ctp:4
+#: /views/tags/view.ctp:18
+msgid "Edit Tag"
+msgstr "Kemaskini tag"
+
+#: /views/tags/index.ctp:2
+msgid "Tags"
+msgstr "Tag"
+
+#: /views/tags/view.ctp:19
+msgid "Delete Tag"
+msgstr "Hapus tag"
+
+#: /views/tags/view.ctp:20
+msgid "List Tags"
+msgstr "Senarai tag"
+
+#: /views/tags/view.ctp:21
+msgid "New Tag"
+msgstr "Tag baru"
+
+#: /views/tags/view.ctp:22
+#: /views/uploads/view.ctp:51
+msgid "List Meetings"
+msgstr "Senarai mesyuarat"
+
+#: /views/tags/view.ctp:23
+#: /views/uploads/view.ctp:52;149
+msgid "New Meeting"
+msgstr "Mesyuarat baru"
+
+#: /views/tags/view.ctp:27
+#: /views/uploads/view.ctp:100
+msgid "Related Meetings"
+msgstr "Mesyuarat berkaitan"
+
+#: /views/tags/view.ctp:36
+#: /views/uploads/view.ctp:109
+msgid "Agenda"
+msgstr "Agenda"
+
+#: /views/tags/view.ctp:37
+#: /views/uploads/view.ctp:110
+msgid "Minutes"
+msgstr "Minit"
+
+#: /views/tags/view.ctp:38
+#: /views/uploads/view.ctp:111
+msgid "Status Deadline"
+msgstr "Tarikh akhir status"
+
+#: /views/templates/add.ctp:3;7
+msgid "Add Template"
+msgstr "Tambah templat"
+
+#: /views/templates/edit.ctp:2;6
+msgid "Edit Template"
+msgstr "Kemaskini templat"
+
+#: /views/templates/edit.ctp:10;10
+#: /views/templates/view.ctp:2;7
+msgid "Template"
+msgstr "Templat"
+
+#: /views/templates/edit.ctp:12;12
+msgid "Available token"
+msgstr "Token yang boleh didapati"
+
+#: /views/templates/index.ctp:3
+msgid "Templates"
+msgstr "Templat"
+
+#: /views/templates/index.ctp:14
+#: /views/users/index.ctp:7
+msgid "No"
+msgstr "Bil"
+
+#: /views/templates/index.ctp:22
+msgid "No record found"
+msgstr "Tiada rekod ditemui"
+
+#: /views/templates/view.ctp:6
+msgid "Help"
+msgstr "Bantuan"
+
+#: /views/titles/add.ctp:4
+msgid "Add Title"
+msgstr "Tambah gelaran"
+
+#: /views/titles/edit.ctp:4
+msgid "Edit Title"
+msgstr "Kemaskini gelaran"
+
+#: /views/titles/index.ctp:2
+msgid "Titles"
+msgstr "Gelaran"
+
+#: /views/titles/view.ctp:7
+msgid "Long Name"
+msgstr "Nama"
+
+#: /views/todos/add.ctp:4
+msgid "Add Todo"
+msgstr "Tambah semakan"
+
+#: /views/todos/edit.ctp:4
+msgid "Edit Todo"
+msgstr "Kemaskini semakan"
+
+#: /views/todos/index.ctp:2
+msgid "Add new todos"
+msgstr "Tambah semakan baru"
+
+#: /views/todos/index.ctp:4
+#: /views/todos/view.ctp:2
+msgid "Todos"
+msgstr "Semakan"
+
+#: /views/todos/summary.ctp:1
+msgid "list Todo"
+msgstr "Senarai semak"
+
+#: /views/uploads/add.ctp:4
+msgid "Add Upload"
+msgstr "Tambah muat naik"
+
+#: /views/uploads/edit.ctp:4
+#: /views/uploads/view.ctp:43
+msgid "Edit Upload"
+msgstr "Kemaskini muat naik"
+
+#: /views/uploads/view.ctp:2
+#: /views/uploads_comments/view.ctp:9
+#: /views/uploads_meetings/view.ctp:9
+#: /views/uploads_statuses/view.ctp:9
+msgid "Upload"
+msgstr "Muat naik"
+
+#: /views/uploads/view.ctp:14
+msgid "File Category"
+msgstr "Kategori fail"
+
+#: /views/uploads/view.ctp:44
+msgid "Delete Upload"
+msgstr "Hapus muat naik"
+
+#: /views/uploads/view.ctp:47
+msgid "List File Categories"
+msgstr "Senarai kategori fail"
+
+#: /views/uploads/view.ctp:48
+msgid "New File Category"
+msgstr "Kategori fail baru"
+
+#: /views/uploads_comments/add.ctp:4
+msgid "Add UploadsComment"
+msgstr "Tambah muat naik komen"
+
+#: /views/uploads_comments/edit.ctp:4
+msgid "Edit UploadsComment"
+msgstr "Kemaskini comment yang dimuatnaik"
+
+#: /views/uploads_comments/index.ctp:2
+msgid "UploadsComments"
+msgstr "Muat naik komen"
+
+#: /views/uploads_comments/view.ctp:2
+msgid "UploadsComment"
+msgstr "Muat naik komen"
+
+#: /views/uploads_meetings/add.ctp:4
+msgid "Add UploadsMeeting"
+msgstr "Tambah muat naik mesyuarat"
+
+#: /views/uploads_meetings/edit.ctp:4
+msgid "Edit UploadsMeeting"
+msgstr "Kemaskini mesyuarat yang dimuatnaik"
+
+#: /views/uploads_meetings/index.ctp:2
+msgid "UploadsMeetings"
+msgstr "Maut naik mesyuarat"
+
+#: /views/uploads_meetings/view.ctp:2
+msgid "UploadsMeeting"
+msgstr "Muat naik mesyuarat"
+
+#: /views/uploads_statuses/add.ctp:4
+msgid "Add UploadsStatus"
+msgstr "Tambah muat naik status"
+
+#: /views/uploads_statuses/edit.ctp:4
+msgid "Edit UploadsStatus"
+msgstr "Kemaskini status yang dimuatnaik"
+
+#: /views/uploads_statuses/index.ctp:2
+msgid "UploadsStatuses"
+msgstr "Muat naik status"
+
+#: /views/uploads_statuses/view.ctp:2
+msgid "UploadsStatus"
+msgstr "Muat naik status"
+
+#: /views/users/add.ctp:5
+msgid "Add User"
+msgstr "Tambah ahli"
+
+#: /views/users/alert.ctp:3
+msgid "Alerts"
+msgstr "Peringatan"
+
+#: /views/users/changepassword.ctp:4
+msgid "Change Password"
+msgstr "Tukar kata laluan"
+
+#: /views/users/edit.ctp:5
+msgid "Edit User"
+msgstr "Kemaskini profail"
+
+#: /views/users/index.ctp:3
+msgid "Add new user"
+msgstr "Tambah Ahli"
+
+#: /views/users/login.ctp:3
+msgid "Login"
+msgstr "Log masuk"
+
+#: /views/users/view.ctp:6
+msgid "E-mail"
+msgstr "Emel"
+
+#: /views/users_groups/add.ctp:4
+msgid "Add UsersGroup"
+msgstr "Tambah kumpulan baru"
+
+#: /views/users_groups/add.ctp:16
+#: /views/users_groups/edit.ctp:18
+#: /views/users_groups/view.ctp:25
+msgid "List UsersGroups"
+msgstr "Senarai kumpulan"
+
+#: /views/users_groups/add.ctp:19
+#: /views/users_groups/edit.ctp:21
+#: /views/users_groups/index.ctp:53
+#: /views/users_groups/view.ctp:29
+msgid "List Groups"
+msgstr "Senarai kumpulan"
+
+#: /views/users_groups/add.ctp:20
+#: /views/users_groups/edit.ctp:22
+#: /views/users_groups/index.ctp:54
+#: /views/users_groups/view.ctp:30
+msgid "New Group"
+msgstr "Kumpulan baru"
+
+#: /views/users_groups/edit.ctp:4
+#: /views/users_groups/view.ctp:23
+msgid "Edit UsersGroup"
+msgstr "Kemaskini kumpulan ahli"
+
+#: /views/users_groups/index.ctp:2
+msgid "UsersGroups"
+msgstr "Kumpulan ahli"
+
+#: /views/users_groups/index.ctp:50
+#: /views/users_groups/view.ctp:26
+msgid "New UsersGroup"
+msgstr "Kumpulan ahli baru"
+
+#: /views/users_groups/view.ctp:2
+msgid "UsersGroup"
+msgstr "Kumpulan Ahli"
+
+#: /views/users_groups/view.ctp:24
+msgid "Delete UsersGroup"
+msgstr "Hapuskan Kumpulan Ahli"
+
+#: /webroot/test.php:75
+msgid "Debug setting does not allow access to this url."
+msgstr "Akses ke url ini tidak dibenarkan."
+
+#: /app_controller.php:53
+msgid "There appears to be more than 1 committee with that name"
+msgstr "Terdapat jawatankuasa yang mempunyai nama yang sama."
+
+#: /app_controller.php:60
+msgid "Please select a valid committee"
+msgstr "Sila pilih jawatankuasa yang sah."
+
+#: /app_controller.php:74
+msgid "Please key in CAPTCHA value"
+msgstr "Sila isikan nilai CAPTCHA"
+
+#: /app_controller.php:82
+msgid "Invalid username or password"
+msgstr "Kata nama atau kata laluan tidak sah"
+
+#: /controllers/committees_controller.php:60
+msgid "The community does not exists"
+msgstr "Komuniti tidak wujud"
+
+#: /controllers/committees_todos_controller.php:112
+#: /controllers/todos_controller.php:84;123
+msgid "The To-do has been saved"
+msgstr "Semakan telah disimpan"
+
+#: /controllers/committees_todos_controller.php:115
+#: /controllers/todos_controller.php:87;126
+msgid "The To-do could not be saved. Please, try again."
+msgstr "Semakan tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/committees_users_controller.php:169
+msgid "The User already exists"
+msgstr "Ahli telah pun wujud"
+
+#: /controllers/decisions_groups_controller.php:64;97;124
+msgid "Invalid DecisionsGroup"
+msgstr "Keputusan kumpulan tidak wujud"
+
+#: /controllers/decisions_groups_controller.php:78
+msgid "DecisionsGroup saved."
+msgstr "Keputusan kumpulan telah disimpan."
+
+#: /controllers/decisions_groups_controller.php:102
+msgid "The DecisionsGroup has been saved."
+msgstr "Keputusan kumpulan telah disimpan."
+
+#: /controllers/decisions_groups_controller.php:127
+msgid "DecisionsGroup deleted"
+msgstr "Keputusan kumpulan telah dihapuskan"
+
+#: /controllers/groupstatuses_controller.php:44
+msgid "Invalid Groupstatus."
+msgstr "Status kumpulan tidak wujud"
+
+#: /controllers/groupstatuses_controller.php:63;97
+msgid "The Groupstatus has been saved"
+msgstr "Status kumpulan telah disimpan."
+
+#: /controllers/groupstatuses_controller.php:71;105
+msgid "The Groupstatus could not be saved. Please, try again."
+msgstr "Status kumpulan tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/groupstatuses_controller.php:92
+msgid "Invalid Groupstatus"
+msgstr "Status kumpulan tidak wujud"
+
+#: /controllers/groupstatuses_controller.php:128
+msgid "Invalid id for Groupstatus"
+msgstr "Id tidak wujud untuk status kumpulan"
+
+#: /controllers/groupstatuses_controller.php:132
+msgid "Groupstatus deleted"
+msgstr "Status kumpulan telah dihapuskan"
+
+#: /controllers/items_controller.php:75
+msgid "Invalid Project."
+msgstr "Projek tidak wujud"
+
+#: /controllers/meetings_controller.php:304
+msgid "Emails set to send"
+msgstr "Emel yang ditetapkan untuk dihantar"
+
+#: /controllers/meetings_controller.php:343
+msgid "The invitations has been sent"
+msgstr "Jemputan telah dihantar"
+
+#: /controllers/meetings_controller.php:658
+msgid "Invalid data"
+msgstr "Data tidak wujud"
+
+#: /controllers/settings_controller.php:90
+msgid "The System Setting has been saved"
+msgstr "Penyelarasan sistem telah disimpan"
+
+#: /controllers/settings_controller.php:93
+msgid "The System Setting could not be saved. Please, try again."
+msgstr "Penyelarasan sistem tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/todos_controller.php:102
+msgid "Invalid To-do."
+msgstr "Id semakan tidak wujud"
+
+#: /controllers/todos_controller.php:118
+msgid "Invalid To-do"
+msgstr "Id semakan tidak wujud"
+
+#: /controllers/todos_controller.php:146
+msgid "Invalid id for To-do"
+msgstr "Id semakan tidak wujud"
+
+#: /controllers/todos_controller.php:150
+msgid "To-do deleted"
+msgstr "Semakan telah dihapuskan"
+
+#: /controllers/users_controller.php:100
+msgid "Your password has been changed"
+msgstr "Kata laluan anda telah berubah"
+
+#: /controllers/users_controller.php:130
+msgid "Successfully logged out"
+msgstr "Berjaya log keluar"
+
+#: /controllers/users_controller.php:225
+msgid "The profile has been saved"
+msgstr "Profail the disimpan"
+
+#: /controllers/users_controller.php:228
+msgid "The profile could not be saved. Please, try again."
+msgstr "Profail tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/wfmodels_controller.php:75
+msgid "Invalid Wfmodel."
+msgstr "Aliran kerja model tidak wujud."
+
+#: /controllers/wfmodels_controller.php:93;136
+msgid "The Wfmodel has been saved"
+msgstr "Aliran kerja tidak dapat disimpan"
+
+#: /controllers/wfmodels_controller.php:101;139
+msgid "The Wfmodel could not be saved. Please, try again."
+msgstr "Aliran kerja tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/wfmodels_controller.php:120
+msgid "Invalid Wfmodel"
+msgstr "Aliran kerja model tidak wujud"
+
+#: /controllers/wfmodels_controller.php:162
+msgid "Invalid id for Wfmodel"
+msgstr "Id aliran kerja model tidak wujud"
+
+#: /controllers/wfmodels_controller.php:166
+msgid "Wfmodel deleted"
+msgstr "Aliran kerja telah dihapuskan"
+
+#: /controllers/wfstatuses_controller.php:64
+msgid "Invalid Wfstatus."
+msgstr "Aliran kerja status tidak wujud."
+
+#: /controllers/wfstatuses_controller.php:79;102
+msgid "The Wfstatus has been saved"
+msgstr "Aliran kerja status telah disimpan."
+
+#: /controllers/wfstatuses_controller.php:82;105
+msgid "The Wfstatus could not be saved. Please, try again."
+msgstr "Aliran kerja tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/wfstatuses_controller.php:97
+msgid "Invalid Wfstatus"
+msgstr "Aliran kerja status tidak wujud"
+
+#: /controllers/wfstatuses_controller.php:123
+msgid "Invalid id for Wfstatus"
+msgstr "Aliran kerja status tidak wujud"
+
+#: /controllers/wfstatuses_controller.php:127
+msgid "Wfstatus deleted"
+msgstr "Aliran kerja status telah dihapuskan."
+
+#: /controllers/workflows_controller.php:72
+msgid "Invalid Workflow."
+msgstr "Aliran kerja tidak wujud."
+
+#: /controllers/workflows_controller.php:90;116
+msgid "The Workflow has been saved"
+msgstr "Aliran kerja telah disimpan"
+
+#: /controllers/workflows_controller.php:93;119
+msgid "The Workflow could not be saved. Please, try again."
+msgstr "Aliran kerja tidak dapat disimpan. Sila cuba sekali lagi."
+
+#: /controllers/workflows_controller.php:111
+msgid "Invalid Workflow"
+msgstr "Aliran kerja tidak wujud"
+
+#: /controllers/workflows_controller.php:140
+msgid "Invalid id for Workflow"
+msgstr "Id tidak wujud untuk aliran kerja."
+
+#: /controllers/workflows_controller.php:144
+msgid "Workflow deleted"
+msgstr "Aliran kerja telah dihapuskan"
+
+#: /models/behaviors/bindable.php:464
+msgid "%s.%s is not a valid binding"
+msgstr "%s.%s bukan satu penjilidan yang sah"
+
+#: /vendors/shells/createdb.php:8
+msgid "Please enter mysql root password to create database and user"
+msgstr "Sila masukkan kata laluan mysql root untuk mewujudkan pangkalan data dan pengguna."
+
+#: /vendors/shells/createdb.php:11
+msgid "Created the %s database"
+msgstr "Database %s telah diwujudkan"
+
+#: /vendors/shells/createdb.php:13
+msgid "Granted access to %s database for %s at %s"
+msgstr "Akses telah diberi kepada %s pangkalan data untuk %s pada %s"
+
+#: /vendors/shells/createdb.php:15
+msgid "Updated %s password to %s"
+msgstr "Pengemaskinian %s kata laluan kepada %s"
+
+#: /vendors/shells/createdb.php:18
+msgid "Database is set. Please run the installation script again"
+msgstr "Pangkalan data telah ditetapkan. Sila run script instalasi sekali lagi."
+
+#: /vendors/shells/createdb.php:24
+msgid "The database configuration is not set yet. Please run `cake install` to create it"
+msgstr "Konfigurasi pangkalan data belum ditetapkan lagi. Sila run 'cake install' untuk mengwujudkannya. "
+
+#: /vendors/shells/install.php:76
+msgid "Welcome to the MyMeeting v2 installer"
+msgstr "Selamat datang ke pemasangan MyMeeting v2"
+
+#: /vendors/shells/install.php:78
+msgid "This would install MyMeeting v2 on your system. Would you like to continue?"
+msgstr "Ini akan memasang MyMeeting v2 dalam sistem anda. Adakah anda ingin meneruskannya?"
+
+#: /vendors/shells/install.php:81
+msgid "Installing..."
+msgstr "Memasang..."
+
+#: /vendors/shells/install.php:85
+msgid "Quiting.."
+msgstr "Sedang berhenti..."
+
+#: /vendors/shells/install.php:95
+msgid "Database is already set. Do you want to reconfigure it?"
+msgstr "Pangkalan data telah ditetapkan. Adakah anda ingin menyusun atur semula?"
+
+#: /vendors/shells/install.php:104
+msgid "Or do you want to create a new configuration?"
+msgstr "Atau adakah anda hendak mewujudkan konfigurasi baru?"
+
+#: /vendors/shells/install.php:204
+msgid "Agency name:"
+msgstr "Nama agensi :"
+
+#: /vendors/shells/install.php:205
+msgid "Agency address:"
+msgstr "Alamat agensi :"
+
+#: /vendors/shells/install.php:206
+msgid "Agency slogan:"
+msgstr "Slogan agensi :"
+
+#: /vendors/shells/install.php:207
+msgid "Date format:"
+msgstr "Format tarikh :"
+
+#: /vendors/shells/install.php:208
+msgid "Time format:"
+msgstr "Format masa :"
+
+#: /vendors/shells/install.php:209
+msgid "E-mail from:"
+msgstr "Emel :"
+
+#: /vendors/shells/install.php:210
+msgid "E-mail from name:"
+msgstr "Emel (nama) :"
+
+#: /vendors/shells/install.php:211
+msgid "E-mail host:"
+msgstr "Perumah emel :"
+
+#: /vendors/shells/install.php:212
+msgid "E-mail port:"
+msgstr "Port emel :"
+
+#: /vendors/shells/install.php:213
+msgid "Days to remind:"
+msgstr "Bilangan hari untuk peringatan :"
+
+#: /vendors/shells/schema.php:98
+msgid "Schema could not be found"
+msgstr "Skema tidak dapat ditemui"
+
+#: /vendors/shells/schema.php:149;152
+msgid "Schema file: %s generated"
+msgstr "Skema fail: %s telah dijana"
+
+#: /vendors/shells/schema.php:167
+msgid "Schema could not be loaded"
+msgstr "Skema tidak dapat diload"
+
+#: /vendors/shells/schema.php:186
+msgid "SQL dump file created in %s"
+msgstr "SQL dumb fail telah diwuudkan dalam %s"
+
+#: /vendors/shells/schema.php:189
+msgid "SQL dump could not be created"
+msgstr "SQL dump tidak dapat diwujudkan."
+
+#: /vendors/shells/schema.php:218
+msgid "Performing a dry run."
+msgstr "Dry run sedang dijalankan."
+
+#: /vendors/shells/schema.php:229
+msgid "%s could not be loaded"
+msgstr "%s tidak dapat dimuat"
+
+#: /vendors/shells/schema.php:246
+msgid "command not found"
+msgstr "Arahan tidak dijumpai"
+
+#: /vendors/shells/schema.php:271;317
+msgid "Schema is up to date."
+msgstr "Skema telah dikemaskini."
+
+#: /vendors/shells/schema.php:275
+msgid "The following tables will drop."
+msgstr "Table berikut akan dihapuskan."
+
+#: /vendors/shells/schema.php:278
+msgid "Are you sure you want to drop the tables?"
+msgstr "Adakah anda pasti untuk hapus tables?"
+
+#: /vendors/shells/schema.php:283
+msgid "The following tables will create."
+msgstr "Tables berikut akan diwujudkan."
+
+#: /vendors/shells/schema.php:286
+msgid "Are you sure you want to create the tables?"
+msgstr "Adakah anda pasti untuk wujudkan tables?"
+
+#: /vendors/shells/schema.php:291
+msgid "End create."
+msgstr "Tamat create."
+
+#: /vendors/shells/schema.php:321
+msgid "The following statements will run."
+msgstr "Kenyataan berikut akan diproses."
+
+#: /vendors/shells/schema.php:323
+msgid "Are you sure you want to alter the tables?"
+msgstr "Adakah anda pasti untuk mengubah tables?"
+
+#: /vendors/shells/schema.php:325
+msgid "Updating Database..."
+msgstr "Pangkalan data sedang dikemaskini..."
+
+#: /vendors/shells/schema.php:329
+msgid "End update."
+msgstr "Tamat kemaskini"
+
+#: /vendors/shells/schema.php:338
+msgid "Sql could not be run"
+msgstr "Sql tidak dapat diproses"
+
+#: /vendors/shells/schema.php:348
+msgid "%s is up to date."
+msgstr "%s ialah yang terbaru."
+
+#: /vendors/shells/schema.php:351
+msgid "Dry run for %s :"
+msgstr "Dry run for %s :"
+
+#: /vendors/shells/schema.php:366
+msgid "%s updated."
+msgstr "%s telah dikemaskini."
+
+#: /views/announcements/index.ctp:2
+msgid "Add new announcement"
+msgstr "Tambah pengumuman baru"
+
+#: /views/attachments/index.ctp:5
+msgid "Meeting Files"
+msgstr "Fail mesyuarat"
+
+#: /views/attachments/index.ctp:7;28;49;70
+msgid "File"
+msgstr "Fail"
+
+#: /views/attachments/index.ctp:26
+msgid "Decision Files"
+msgstr "Fail keputusan"
+
+#: /views/attachments/index.ctp:28
+msgid "Decision Date"
+msgstr "Tarikh keputusan"
+
+#: /views/attachments/index.ctp:47
+msgid "User Status Files"
+msgstr "Fail status ahli"
+
+#: /views/attachments/index.ctp:49;70
+msgid "Status Date"
+msgstr "Tarikh status"
+
+#: /views/attachments/index.ctp:68
+msgid "Group Status Files"
+msgstr "Fail status kumpulan"
+
+#: /views/committees/add.ctp:7;9;12
+#: /views/committees/edit.ctp:9;11
+#: /views/roles/add.ctp:19
+#: /views/roles/edit.ctp:19
+#: /views/titles/add.ctp:9
+msgid "This field cannot be left blank"
+msgstr "Ruangan ini tidak boleh dibiarkan kosong."
+
+#: /views/committees/add.ctp:10
+#: /views/committees/edit.ctp:12
+#: /views/titles/add.ctp:10
+msgid "The short name already taken"
+msgstr "Nama ringkas telah diguna."
+
+#: /views/committees/alert.ctp:3
+msgid "Your upcoming meetings"
+msgstr "Mesyuarat yang akan datang"
+
+#: /views/committees/alert.ctp:8
+msgid "Important Alerts"
+msgstr "Peringatan Penting"
+
+#: /views/committees/committeeto.ctp:35
+msgid "Add Meeting todos"
+msgstr "Tambah semakan mesyuarat"
+
+#: /views/committees/index.ctp:35
+#: /views/wfmodels/add.ctp:13
+#: /views/wfmodels/view.ctp:14
+#: /views/wfstatuses/view.ctp:19
+#: /views/workflows/view.ctp:2
+msgid "Workflow"
+msgstr "Aliran kerja"
+
+#: /views/committees/index.ctp:37
+msgid "Committee Todo"
+msgstr "Senarai semakan jawatankuasa"
+
+#: /views/committees/mainpage.ctp:3
+msgid "My committees"
+msgstr "Jawatankuasa"
+
+#: /views/committees/mainpage.ctp:4
+msgid "The following is a list of committees you're involved in. To call for a new meeting, update current status or add new committee member, please click on the appropriate committee name to continue:"
+msgstr "Berikut adalah senarai jawatankuasa yang anda terlibat. Untuk membuat mesyuarat baru, kemaskini status semasa atau menambah ahli jawatankuasa, sila klik pada nama jawatankuasa untuk teruskan :"
+
+#: /views/committees/mainpage.ctp:44
+msgid "<tr><td colspan='2'> You are not registered under any committee yet </td></tr>"
+msgstr "<tr><td colspan='2'> Anda tidak mendaftar dibawah mana-mana jawatankuasa lagi </td></tr>"
+
+#: /views/committees/mainpage.ctp:53
+msgid "Other tasks"
+msgstr "Tugas lain"
+
+#: /views/committees/mainpage.ctp:54
+#: /views/elements/rightside.ctp:3
+msgid "You have access to these:"
+msgstr "Anda mempunyai akses ke :"
+
+#: /views/committees/mainpage.ctp:58
+#: /views/elements/rightside.ctp:7
+msgid "Add committee"
+msgstr "Tambah jawatankuasa"
+
+#: /views/committees/mainpage.ctp:59
+msgid "Add a committee"
+msgstr "Tambah jawatankuasa"
+
+#: /views/committees/mainpage.ctp:62
+msgid "Manage roles and privileges"
+msgstr "Uruskan peranan dan keistimewaan (privileges)"
+
+#: /views/committees/mainpage.ctp:65
+msgid "Manage all titles (Y.Bhg Dato', Y.Brs Dr., Tuan, Puan etc) available for everyone in the system"
+msgstr "Kemaskini gelaran (Y.Bhg Dato', Y.Brs Dr., Tuan, Puan dan sebagainya) supaya dapat dilihat oleh semua ahli dalam sistem"
+
+#: /views/committees/mainpage.ctp:68
+msgid "Manage users & their committees in the system"
+msgstr "Uruskan ahli serta jawatankuasa ahli dalam sistem."
+
+#: /views/committees/mainpage.ctp:72
+#: /views/elements/rightside.ctp:15
+msgid "To-dos"
+msgstr "Senarai semakan"
+
+#: /views/committees/mainpage.ctp:73
+msgid "Default checklist prior to a meeting"
+msgstr "Senarai semakan default bagi mesyuarat"
+
+#: /views/committees/mainpage.ctp:75
+#: /views/elements/rightside.ctp:16
+#: /views/templates/index.ctp:4
+msgid "Messages"
+msgstr "Mesej"
+
+#: /views/committees/mainpage.ctp:76
+msgid "Manage the templates to be sent out to users as reminders"
+msgstr "Urus templat untuk menghantar peringatan kepada ahli "
+
+#: /views/committees/search.ctp:4
+msgid "Search committee"
+msgstr "Carian untuk Jawatankuasa"
+
+#: /views/committees/search.ctp:10
+msgid "Please enter your criteria below:"
+msgstr "Sila isikan kriteria anda dibawah :"
+
+#: /views/committees/search.ctp:15
+msgid "Action Status"
+msgstr "Status tindakan"
+
+#: /views/committees/search.ctp:21
+#: /views/elements/searchbox.ctp:18;26;34;48;56;64
+msgid "--please select--"
+msgstr "--sila pilih--"
+
+#: /views/committees/search.ctp:29
+msgid "Individual Implementors"
+msgstr "Pelaksana individu"
+
+#: /views/committees/search.ctp:35;84
+msgid "Project/Item"
+msgstr "Projek / Perkara"
+
+#: /views/committees/search.ctp:37;86
+msgid "Implementors & Status"
+msgstr "Pelaksana dan status"
+
+#: /views/committees/search.ctp:63;68;112;117
+msgid "No status"
+msgstr "Tiada status"
+
+#: /views/committees/search.ctp:78
+msgid "Group Implementors"
+msgstr "Pelaksana kumpulan"
+
+#: /views/committees_todos/add.ctp:2
+msgid "Add new committee's To-do"
+msgstr "Tambah semakan jawatankuasa baru"
+
+#: /views/committees_todos/add.ctp:7
+msgid "Add To-do"
+msgstr "Tambah semakan"
+
+#: /views/committees_todos/edit.ctp:2
+msgid "Edit committee's To-do"
+msgstr "Kemaskini semakan jawatankuasa"
+
+#: /views/committees_todos/edit.ctp:7
+msgid "Edit To-do"
+msgstr "Kemaskini semakan"
+
+#: /views/committees_todos/index.ctp:7
+msgid "Committee's To-do's"
+msgstr "Semakan jawatankuasa"
+
+#: /views/committees_todos/view.ctp:2
+msgid "View committee's To-do"
+msgstr "Lihat semakan jawatankuasa"
+
+#: /views/committees_todos/view.ctp:5
+msgid "Task"
+msgstr "Tugas"
+
+#: /views/committees_todos/view.ctp:13
+msgid "Back"
+msgstr "Balik"
+
+#: /views/committees_users/add.ctp:49;52
+msgid "Add Committee Member"
+msgstr "Tambah ahli Jawatankuasa"
+
+#: /views/committees_users/edit.ctp:2;5
+msgid "Edit Committee Member"
+msgstr "Kemaskini ahli jawatankuasa "
+
+#: /views/committees_users/index.ctp:3
+msgid "Add new member"
+msgstr "Tambah ahli baru"
+
+#: /views/committees_users/view.ctp:10
+#: /views/users/view.ctp:9
+msgid "Telephone"
+msgstr "Telefon"
+
+#: /views/committees_users/view.ctp:11
+#: /views/users/view.ctp:11
+msgid "Mobile"
+msgstr "Mobil"
+
+#: /views/committees_users/view.ctp:12
+#: /views/users/view.ctp:10
+msgid "Fax"
+msgstr "Fax"
+
+#: /views/committees_users/view.ctp:13
+#: /views/users/view.ctp:8
+msgid "Address"
+msgstr "Alamat"
+
+#: /views/decisions/add.ctp:7
+msgid " for Meeting: "
+msgstr "untuk Mesyuarat :"
+
+#: /views/decisions/add.ctp:11
+msgid " for Project: "
+msgstr "untuk Projek :"
+
+#: /views/decisions/add.ctp:21
+#: /views/meetings/view.ctp:52
+msgid "Meeting No"
+msgstr "Nombor mesyuarat"
+
+#: /views/decisions/add.ctp:33
+#: /views/items/view.ctp:18
+msgid "Project Name"
+msgstr "Nama projek"
+
+#: /views/decisions/add.ctp:34
+#: /views/items/view.ctp:19
+msgid "Project Short Name"
+msgstr "Nama ringkas projek"
+
+#: /views/decisions/view.ctp:3
+msgid "Add new User status"
+msgstr "Tambah status baru ahli"
+
+#: /views/decisions/view.ctp:7
+msgid "Add new %s user status "
+msgstr "Tambah status baru ahli %s"
+
+#: /views/decisions/view.ctp:11
+msgid "Add new %s group status "
+msgstr "Tambah status baru kumpulan %s"
+
+#: /views/decisions/view.ctp:24
+#: /views/elements/decision_list.ctp:44
+#: /views/elements/searchbox.ctp:28;58
+#: /views/elements/usergrouplist.ctp:41
+#: /views/reports/meeting.ctp:26
+msgid "Individual Implementor"
+msgstr "Pelaksana individu"
+
+#: /views/decisions/view.ctp:29
+#: /views/elements/decision_list.ctp:51
+#: /views/elements/searchbox.ctp:20;50
+#: /views/elements/usergrouplist.ctp:47
+#: /views/reports/meeting.ctp:35
+msgid "Group Implementor"
+msgstr "Pelaksana kumpulan"
+
+#: /views/decisions/view.ctp:37
+msgid "Files for this decision"
+msgstr "Fail untuk keputusan ini"
+
+#: /views/decisions/view.ctp:49
+msgid "Comments for this decision"
+msgstr "Komen bagi keputusan ini"
+
+#: /views/decisions/view.ctp:55
+msgid "List of statuses"
+msgstr "Senarai status"
+
+#: /views/decisions/view.ctp:67;89
+#: /views/elements/decision_list.ctp:37
+msgid "Additional Files"
+msgstr "Fail sokongan"
+
+#: /views/decisions/view.ctp:83
+msgid "Updated By"
+msgstr "Dikemaskini oleh"
+
+#: /views/elements/calendar.ctp:13
+msgid "prev"
+msgstr "Sebelumya"
+
+#: /views/elements/calendar.ctp:17
+msgid "You're currently viewing month: "
+msgstr "Anda sedang lihat mesyuarat bulan : "
+
+#: /views/elements/calendar.ctp:22
+msgid "Monday"
+msgstr "Isnin"
+
+#: /views/elements/calendar.ctp:22
+msgid "Tuesday"
+msgstr "Selasa"
+
+#: /views/elements/calendar.ctp:22
+msgid "Wednesday"
+msgstr "Rabu"
+
+#: /views/elements/calendar.ctp:22
+msgid "Thursday"
+msgstr "Khamis"
+
+#: /views/elements/calendar.ctp:22
+msgid "Friday"
+msgstr "Jumaat"
+
+#: /views/elements/calendar.ctp:22
+msgid "Saturday"
+msgstr "Sabtu"
+
+#: /views/elements/calendar.ctp:22
+msgid "Sunday"
+msgstr "Ahad"
+
+#: /views/elements/decision_list.ctp:64
+msgid "No update"
+msgstr "Tiada kemaskinian"
+
+#: /views/elements/decision_list.ctp:77
+msgid "No decisions found"
+msgstr "Tiada keputusan ditemui"
+
+#: /views/elements/form_instructions.ctp:4
+msgid "Note"
+msgstr "Nota"
+
+#: /views/elements/form_instructions.ctp:5
+msgid "Please fill all <span class=\"required\">required</span> fields."
+msgstr "Sila isikan semua <span class=\"required\">bahagian</span> dikehendaki."
+
+#: /views/elements/form_instructions.ctp:7
+msgid "Please select your filter criteria/s"
+msgstr "Sila pilih turas kriteria anda"
+
+#: /views/elements/personal_links.ctp:4
+msgid "My Committees"
+msgstr "Jawatankuasa"
+
+#: /views/elements/upcoming.ctp:3
+msgid "Upcoming meetings"
+msgstr "Mesyuarat yang akan datang"
+
+#: /views/elements/upcoming.ctp:5
+msgid "Upcoming status deadlines"
+msgstr "Status yang perlu dikemaskini"
+
+#: /views/elements/upcoming.ctp:20
+msgid "Meeting Number :"
+msgstr "Nombor mesyuarat : "
+
+#: /views/elements/upcoming.ctp:21
+msgid "Meeting Title :"
+msgstr "Tajuk mesyuarat :"
+
+#: /views/elements/upcoming.ctp:22
+msgid "Meeting Date :"
+msgstr "Tarikh mesyuarat"
+
+#: /views/elements/upcoming.ctp:23
+msgid "Meeting Venue :"
+msgstr "Tempat mesyuarat :"
+
+#: /views/elements/upcoming.ctp:36
+msgid "User Decisions:"
+msgstr "Keputusan ahli :"
+
+#: /views/elements/upcoming.ctp:38
+msgid "Decisions deadline :"
+msgstr "Tarikh akhir keputusan :"
+
+#: /views/elements/users_per_committee.ctp:57
+msgid "Set templates"
+msgstr "set templat"
+
+#: /views/elements/users_per_committee.ctp:65
+msgid "Available tokens"
+msgstr "Token yang boleh didapati"
+
+#: /views/groups/view.ctp:2
+msgid "Group : "
+msgstr "Kumpulan : "
+
+#: /views/groupstatuses/add.ctp:4
+msgid "Add Groupstatus"
+msgstr "Tambah status kumpulan"
+
+#: /views/groupstatuses/edit.ctp:4
+#: /views/groupstatuses/view.ctp:58
+msgid "Edit GroupStatus"
+msgstr "Kemaskini status kumpulan"
+
+#: /views/groupstatuses/edit.ctp:21
+#: /views/groupstatuses/view.ctp:60
+msgid "List GroupStatuses"
+msgstr "Senarai status kumpulan"
+
+#: /views/groupstatuses/index.ctp:2
+msgid "GroupStatuses"
+msgstr "Status kumpulan"
+
+#: /views/groupstatuses/index.ctp:78
+#: /views/groupstatuses/view.ctp:61
+msgid "New GroupStatus"
+msgstr "Status kumpulan baru"
+
+#: /views/groupstatuses/view.ctp:2
+msgid "GroupStatus"
+msgstr "Status kumpulan"
+
+#: /views/groupstatuses/view.ctp:34
+#: /views/userstatuses/view.ctp:29
+msgid "Deleted"
+msgstr "Hapus"
+
+#: /views/groupstatuses/view.ctp:39
+#: /views/userstatuses/view.ctp:34
+msgid "Deleted Date"
+msgstr "Tarikh dihapuskan"
+
+#: /views/groupstatuses/view.ctp:59
+msgid "Delete GroupStatus"
+msgstr "Hapus status kumpulan"
+
+#: /views/helpers/comment.php:39
+msgid "Leave a comment"
+msgstr "Bagi komen"
+
+#: /views/helpers/form.php:254;933
+msgid "Submit"
+msgstr "Hantar"
+
+#: /views/helpers/form.php:377
+msgid "Error in field %s"
+msgstr "Kesilapan di bahagian %s"
+
+#: /views/helpers/form.php:459
+msgid "New"
+msgstr "Baru"
+
+#: /views/meetings/addfollowup.ctp:2
+msgid "Add Follow-Up Meeting"
+msgstr "Tambah mesyuarat pemantauan"
+
+#: /views/meetings/attendance.ctp:5
+#: /views/meetings/todo.ctp:5
+msgid "Meeting title"
+msgstr "Tajuk mesyuarat"
+
+#: /views/meetings/attendance.ctp:24
+msgid "Confirmed Attendance"
+msgstr "Kehadiran yang disah"
+
+#: /views/meetings/attendance.ctp:26
+msgid "Reason"
+msgstr "Alasan"
+
+#: /views/meetings/edit.ctp:28
+msgid "Select Members"
+msgstr "Pilih ahli"
+
+#: /views/meetings/edit_template.ctp:2;11
+msgid "Edit "
+msgstr "Kemaskini"
+
+#: /views/meetings/edit_template.ctp:4
+#: /views/meetings/editemails.ctp:8
+msgid "Invitation"
+msgstr "Jemputan"
+
+#: /views/meetings/editemails.ctp:2;5
+msgid "Edit Emails"
+msgstr "Kemaskini emel"
+
+#: /views/meetings/editemails.ctp:10
+msgid "Change"
+msgstr "Ubah"
+
+#: /views/meetings/editemails.ctp:12
+msgid "Uninvite"
+msgstr "Tidak dijemput"
+
+#: /views/meetings/editminutes.ctp:2;4
+msgid "Edit Minutes"
+msgstr "Kemaskini minit"
+
+#: /views/meetings/index.ctp:3
+msgid "Add new Meeting"
+msgstr "Tambah mesyuarat baru"
+
+#: /views/meetings/index.ctp:63
+#: /views/meetings/indexfollowup.ctp:50
+msgid "Todo"
+msgstr "Semakan"
+
+#: /views/meetings/indexfollowup.ctp:3
+#: /views/meetings/view.ctp:3
+msgid "Add follow-up meeting"
+msgstr "Tambah mesyuarat pemantauan"
+
+#: /views/meetings/indexfollowup.ctp:5
+msgid "Follow-up Meetings for :"
+msgstr "Mesyuarat pemantauan untuk :"
+
+#: /views/meetings/invite.ctp:7
+msgid "Edit invitation"
+msgstr "Kemaskini jemputan"
+
+#: /views/meetings/invite.ctp:9
+msgid "Send invitation on %s"
+msgstr "Jemputan dihantar pada %s"
+
+#: /views/meetings/invite.ctp:12
+msgid "Send invitation now"
+msgstr "Jemputan dihantar sekarang"
+
+#: /views/meetings/invite.ctp:15
+msgid "Do not send invitation"
+msgstr "Jemputan jangan dihantar"
+
+#: /views/meetings/meetingtodo.ctp:26
+msgid "New Meetings Todo"
+msgstr "Semakan mesyuarat baru"
+
+#: /views/meetings/meetingtodo.ctp:29
+msgid "Add New Meeting todos"
+msgstr "Tambah semakan baru mesyuarat"
+
+#: /views/meetings/minutes.ctp:3
+msgid "Minutes Of Meeting"
+msgstr "Minit mesyuarat"
+
+#: /views/meetings/minutes.ctp:6
+msgid "Subject"
+msgstr "Subjek"
+
+#: /views/meetings/minutes.ctp:7
+msgid "Date"
+msgstr "Tarikh"
+
+#: /views/meetings/minutes.ctp:8
+msgid "Time"
+msgstr "Masa"
+
+#: /views/meetings/minutes.ctp:9
+msgid "Place"
+msgstr "Tempat"
+
+#: /views/meetings/minutes.ctp:13
+msgid "Present"
+msgstr "Hadir"
+
+#: /views/meetings/minutes.ctp:23
+msgid "No one has attended this meeting"
+msgstr "Tiada siapa hadir untuk mesyuarat ini"
+
+#: /views/meetings/minutes.ctp:27
+msgid "Absent with apologies"
+msgstr "Tidak hadir, dengan maaf"
+
+#: /views/meetings/minutes.ctp:37
+msgid "No absenty"
+msgstr "Semua hadir"
+
+#: /views/meetings/previewemails.ctp:2
+msgid "Inviation Email Preview"
+msgstr "Lihat emel jemputan"
+
+#: /views/meetings/previewemails.ctp:9
+msgid "Change Email Preview"
+msgstr "Tukar emel preview"
+
+#: /views/meetings/previewemails.ctp:16
+msgid "Uninvite Email Preview"
+msgstr "Linat emel yang tidak dijemput"
+
+#: /views/meetings/previewemails.ctp:23
+msgid "Edit emails"
+msgstr "Kemaskini emel"
+
+#: /views/meetings/previewemails.ctp:25
+msgid "Send emails on %s"
+msgstr "Emel dihantar pada %s"
+
+#: /views/meetings/previewemails.ctp:28
+msgid "Send emails now"
+msgstr "Emel dihantar sekarang"
+
+#: /views/meetings/previewemails.ctp:31
+msgid "Do not send emails"
+msgstr "Emel jangan dihantar"
+
+#: /views/meetings/summary.ctp:4
+#: /views/meetings/view.ctp:51
+msgid "Meeting Title"
+msgstr "Tajuk mesyuarat"
+
+#: /views/meetings/summary.ctp:9
+msgid "Meeting Invitees"
+msgstr "Jemputan mesyuarat"
+
+#: /views/meetings/summary.ctp:21
+msgid "No one has been invited for this meeting"
+msgstr "Tiada siapa dijemput lagi untuk mesyuarat ini."
+
+#: /views/meetings/todo.ctp:11
+msgid "Task Todo"
+msgstr "Tugasan senarai semak"
+
+#: /views/meetings/todo.ctp:12
+msgid "Add new Meeting Todo"
+msgstr "Tambah semakan mesyuarat baru"
+
+#: /views/meetings/todo.ctp:14
+msgid "List of todo list for this meeting. Please select the members who is responsible for the todo."
+msgstr "Senarai semakan untuk mesyuarat ini. Sila pilih ahli yang bertanggungjawab bagi tugasan ini."
+
+#: /views/meetings/todo.ctp:37;38
+msgid "Not done"
+msgstr "Tidak siap"
+
+#: /views/meetings/todo.ctp:47
+msgid "Delete meetings todo '%s'"
+msgstr "Hapus senarai semak mesyuarat '%s'"
+
+#: /views/meetings/view.ctp:2
+msgid "View follow-up meeting"
+msgstr "Lihat mesyuarat pemantauan"
+
+#: /views/meetings/view.ctp:8
+msgid "Add minutes"
+msgstr "Tambah minit"
+
+#: /views/meetings/view.ctp:11
+msgid "Edit minutes"
+msgstr "Kemaskini minit"
+
+#: /views/meetings/view.ctp:15
+msgid "View Report"
+msgstr "Lihat laporan"
+
+#: /views/meetings_todos/index.ctp:4
+msgid "Add new Meetings Todo"
+msgstr "Tambah senarai semak baru untuk mesyuarat"
+
+#: /views/meetings_todos/index.ctp:8
+msgid "Meetings Todos"
+msgstr "Senarai semak mesyuarat"
+
+#: /views/reports/meeting.ctp:2
+msgid "Report for Meeting"
+msgstr "Laporan untuk mesyuarat"
+
+#: /views/reports/meeting.ctp:4
+msgid ", "
+msgstr ","
+
+#: /views/roles/add.ctp:20
+#: /views/roles/edit.ctp:20
+msgid "The name already taken"
+msgstr "Nama ini telah diambil"
+
+#: /views/settings/edit.ctp:3;6
+msgid "Edit System Setting"
+msgstr "Kemaskini penyelarasan sistem"
+
+#: /views/settings/index.ctp:4
+#: /views/settings/system.ctp:4
+msgid "Settings"
+msgstr "Penyelarasan"
+
+#: /views/settings/index.ctp:31
+#: /views/users/edit.ctp:3
+#: /views/users/profile.ctp:3
+#: /views/users/viewprofile.ctp:3
+msgid "Edit Profile"
+msgstr "Kemaskini profail"
+
+#: /views/templates/edit.ctp:2;13
+msgid "Edit System-wide Message"
+msgstr "Kemaskini mesej dalam sistem "
+
+#: /views/templates/edit.ctp:16
+msgid "Editing this message will not affect messages that has been created in committee and meeting level."
+msgstr "Pengemaskinian mesej ini tidak akan menjejaskan mesej yang telah diwujudkan dalam tahap jawatankuasa dan mesyuarat. "
+
+#: /views/templates/view.ctp:6
+msgid "Message"
+msgstr "Mesej"
+
+#: /views/titles/index.ctp:2
+msgid "Add Titles"
+msgstr "Tambah gelaran"
+
+#: /views/todos/add.ctp:2;5
+msgid "Add System-wide To-do"
+msgstr "Tambah senarai semak sistem"
+
+#: /views/todos/edit.ctp:2;5
+msgid "Edit System-wide To-do"
+msgstr "Kemaskini senarai semak sistem "
+
+#: /views/todos/index.ctp:2
+msgid "Add new system-wide to-do"
+msgstr "Tambah senarai semak baru sistem"
+
+#: /views/todos/index.ctp:4
+msgid "To-do's"
+msgstr "Senarai semakan"
+
+#: /views/users/index.ctp:4
+msgid "All Users"
+msgstr "Semua ahli"
+
+#: /views/users/profile.ctp:10
+msgid "Changes here will take effect after you login next time."
+msgstr "Perubahan yang dibuat akan berkuatkuasa setelah anda log masuk seterusnya. "
+
+#: /views/users/view.ctp:3
+msgid "View User"
+msgstr "Lihat ahli"
+
+#: /views/userstatuses/add.ctp:4
+msgid "Add User Status"
+msgstr "Tambah status ahli"
+
+#: /views/userstatuses/edit.ctp:4
+#: /views/userstatuses/view.ctp:53
+msgid "Edit UserStatus"
+msgstr "Kemaskini status ahli"
+
+#: /views/userstatuses/edit.ctp:20
+#: /views/userstatuses/view.ctp:55
+msgid "List UserStatuses"
+msgstr "Senarai status ahli"
+
+#: /views/userstatuses/index.ctp:2
+msgid "UserStatuses"
+msgstr "Status ahli"
+
+#: /views/userstatuses/index.ctp:74
+#: /views/userstatuses/view.ctp:56
+msgid "New UserStatus"
+msgstr "Status baru ahli "
+
+#: /views/userstatuses/view.ctp:2
+msgid "UserStatus"
+msgstr "Status ahli"
+
+#: /views/userstatuses/view.ctp:54
+msgid "Delete UserStatus"
+msgstr "Hapus status ahli"
+
+#: /views/wfmodels/add.ctp:2
+#: /views/wfmodels/edit.ctp:27
+#: /views/workflows/index.ctp:5
+msgid "Workflows"
+msgstr "Aliran kerja"
+
+#: /views/wfmodels/add.ctp:7
+msgid "Add Wfmodel"
+msgstr "Tambah aliran kerja model"
+
+#: /views/wfmodels/add.ctp:14
+msgid "Model Workflow"
+msgstr "Aliran kerja model"
+
+#: /views/wfmodels/add.ctp:16
+msgid "User Status"
+msgstr "Status ahli"
+
+#: /views/wfmodels/add.ctp:17
+msgid "Committe Todo"
+msgstr "Semakan jawatankuasa"
+
+#: /views/wfmodels/add.ctp:18
+msgid "Meeting Todo"
+msgstr "Semakan mesyuarat"
+
+#: /views/wfmodels/add.ctp:20
+msgid "Group Status"
+msgstr "Status kumpulan"
+
+#: /views/wfmodels/edit.ctp:32
+#: /views/workflows/edit.ctp:4
+msgid "Edit Workflow"
+msgstr "Kemaskini aliran kerja"
+
+#: /views/wfmodels/edit.ctp:42
+#: /views/wfmodels/view.ctp:9
+#: /views/wfstatuses/view.ctp:9
+msgid "Model"
+msgstr "Model"
+
+#: /views/wfmodels/edit.ctp:49
+msgid "Add new level"
+msgstr "Tambah tahap baru"
+
+#: /views/wfmodels/edit.ctp:50
+#: /views/wfstatuses/view.ctp:24
+msgid "Level"
+msgstr "Tahap"
+
+#: /views/wfmodels/edit.ctp:50
+msgid "Approve"
+msgstr "Diluluskan"
+
+#: /views/wfmodels/edit.ctp:50
+msgid "Disapprove"
+msgstr "Tidak diluluskan"
+
+#: /views/wfmodels/index.ctp:4
+msgid "Add new model rules"
+msgstr "Tambah peraturan model baru"
+
+#: /views/wfmodels/index.ctp:7
+msgid "Wfmodels"
+msgstr "Aliran kerja model"
+
+#: /views/wfmodels/view.ctp:2
+msgid "Wfmodel"
+msgstr "Aliran kerja model"
+
+#: /views/wfmodels/view.ctp:28
+msgid "Edit Wfmodel"
+msgstr "Kemaskini aliran kerja model"
+
+#: /views/wfmodels/view.ctp:29
+msgid "Delete Wfmodel"
+msgstr "Hapus aliran kerja model"
+
+#: /views/wfmodels/view.ctp:30
+msgid "List Wfmodels"
+msgstr "Senarai aliran kerja model"
+
+#: /views/wfmodels/view.ctp:31
+msgid "New Wfmodel"
+msgstr "Aliran kerja model baru"
+
+#: /views/wfmodels/view.ctp:32
+#: /views/wfstatuses/view.ctp:37
+msgid "List Workflows"
+msgstr "Senarai aliran kerja"
+
+#: /views/wfmodels/view.ctp:33
+#: /views/wfstatuses/view.ctp:38
+msgid "New Workflow"
+msgstr "Aliran kerja baru"
+
+#: /views/wfmodels/view.ctp:34
+msgid "List Committees"
+msgstr "Senarai jawatankuasa"
+
+#: /views/wfmodels/view.ctp:35
+msgid "New Committee"
+msgstr "Jawatankuasa baru"
+
+#: /views/wfstatuses/add.ctp:4
+msgid "Add Wfstatus"
+msgstr "Tambah aliran kerja status"
+
+#: /views/wfstatuses/edit.ctp:4
+#: /views/wfstatuses/view.ctp:33
+msgid "Edit Wfstatus"
+msgstr "Kemaskini aliran kerja status"
+
+#: /views/wfstatuses/index.ctp:3
+msgid "Add new workflow status"
+msgstr "Tambah aliran kerja status baru"
+
+#: /views/wfstatuses/index.ctp:5
+msgid "Wfstatuses"
+msgstr "Aliran kerja status"
+
+#: /views/wfstatuses/view.ctp:2
+msgid "Wfstatus"
+msgstr "Aliran kerja status"
+
+#: /views/wfstatuses/view.ctp:14
+msgid "Foreign Key"
+msgstr "Foreign key"
+
+#: /views/wfstatuses/view.ctp:34
+msgid "Delete Wfstatus"
+msgstr "Hapus aliran kerja status"
+
+#: /views/wfstatuses/view.ctp:35
+msgid "List Wfstatuses"
+msgstr "Senarai aliran kerja status"
+
+#: /views/wfstatuses/view.ctp:36
+msgid "New Wfstatus"
+msgstr "Wfstatus baru"
+
+#: /views/workflows/add.ctp:4
+msgid "Add Workflow"
+msgstr "Tambah aliran kerja"
+
+#: /views/workflows/index.ctp:3
+msgid "Add new workflow"
+msgstr "Tambah aliran kerja baru"
+
+#: /views/workflows/index.ctp:35
+msgid "Rules"
+msgstr "Peraturan"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "No upcoming deadline found"
+msgstr "Tiada tarikh akhir yang akan datang"
+
+msgid "Files Archive"
+msgstr "Arkib Fail"
+
+msgid "Search"
+msgstr "Carian"
+
+msgid "New Password:"
+msgstr "Kata Laluan Baru :"
+
+msgid "Old Password:"
+msgstr "Kata Laluan Lama :"
+
+msgid "Confirm Password:"
+msgstr "Sahkan Kata Laluan :"
+
+msgid "Immediate"
+msgstr "Paling segera"
+
+msgid "Urgent"
+msgstr "Sangat segera"
+
+msgid "High"
+msgstr "Segera"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Low"
+msgstr "Tidak penting"
+
+msgid "None"
+msgstr "Tiada"
+
+msgid "Select by group"
+msgstr "Pilih mengikut kumpulan"
+
+msgid "Manage global settings"
+msgstr "Penyelenggaran global"
+
+msgid "Global settings"
+msgstr "Penyelenggaran global"
+
+msgid "[[ project/item ]] :- The short name or name of the project or item the decision is related to"
+msgstr "[[ projek/perkara ]] :- Nama ringkas projek atau perkara yang berkaitan dengan keputusan"
+
+msgid "{{ user }} :- The user or users(separated by comma) which have to take action on the decision"
+msgstr "{{ pengguna }} :- Nama seorang atau lebih pengguna(dipisahkan dengan koma) yang mengambil tindakan bagi keputusan"
+
+msgid " (( dateline )) :- The dateline for the decision"
+msgstr "(( tarikh akhir )) :- Tarikh akhir keputusan"
+
+msgid "No. of records:"
+msgstr "Bil rekod:"
+
+msgid "Submit Criteria/s"
+msgstr "Hantar Kriteria"
+
+msgid "Filters"
+msgstr "Carian"
+
+#: /controllers/decisions_controller.php:394
+msgid "New comments for %s meeting decision"
+msgstr "Komen baru untuk %s keputusan mesyuarat"
+
+#: /views/pages/home.ctp:75
+msgid ""
+"To change the content of this page, edit: %s\n"
+"\t\tTo change its layout, edit: %s\n"
+"\t\tYou can also add some CSS styles for your pages at: %s"
+msgstr ""
+"Untuk mengubahsuai kandungan halaman ini, kemaskini: %s\n"
+"\t\tUntuk mengubahsuai layout , kemaskini: %s\n"
+"\t\t Anda juga boleh mengubahsuai CSS halaman pada: %s"
+
+#: /controllers/decisions_controller.php:398
+#: /controllers/groupstatuses_controller.php:100
+#: /controllers/meetings_controller.php:570
+#: /controllers/userstatuses_controller.php:131
+msgid "%s commented: %s"
+msgstr "%s Telah dikomen: %s"
+
+#: /controllers/groupstatuses_controller.php:96
+#: /controllers/userstatuses_controller.php:127
+msgid "New comments for %s meeting status"
+msgstr "Komen baru untuk %s status meeting"
+
+#: /controllers/logs_controller.php:14
+msgid "Invalid Log."
+msgstr "Log tidak wujud"
+
+#: /controllers/logs_controller.php:24;41
+msgid "The Log has been saved"
+msgstr "Log telah disimpan"
+
+#: /controllers/logs_controller.php:27;44
+msgid "The Log could not be saved. Please, try again."
+msgstr "Log tidak dapat disimpan. Sila cuba lagi."
+
+#: /controllers/logs_controller.php:36
+msgid "Invalid Log"
+msgstr "Log tidak wujud"
+
+#: /controllers/logs_controller.php:56
+msgid "Invalid id for Log"
+msgstr "Id log tidak wujud"
+
+#: /controllers/logs_controller.php:60
+msgid "Log deleted"
+msgstr "Log telah dihapuskan"
+
+#: /controllers/meetings_controller.php:566
+msgid "New comments for %s meeting"
+msgstr "Komen baru untuk %s mesyuarat"
+
+#: /controllers/memberships_controller.php:67;224
+msgid "Invalid Membership"
+msgstr "Pengguna tidak wujud"
+
+#: /controllers/memberships_controller.php:75;232
+msgid "The Membership could not be saved. Please, try again."
+msgstr "Maklumat pengguna tidak dapat disimpan. Sila cuba lagi."
+
+#: /controllers/memberships_controller.php:159
+msgid "Invalid Membership."
+msgstr "Pengguna tidak wujud"
+
+#: /controllers/memberships_controller.php:229
+msgid "The Membership has been saved"
+msgstr "Pengguna telah disimpan"
+
+#: /controllers/memberships_controller.php:256
+msgid "Invalid id for Membership"
+msgstr "Id pengguna tidak wujud"
+
+#: /controllers/memberships_controller.php:260
+msgid "Membership deleted"
+msgstr "Pengguna telah dihapuskan"
+
+#: /controllers/settings_controller.php:65
+msgid "The Global Settings has been saved"
+msgstr "Pilihan Global telah disimpan"
+
+#: /controllers/settings_controller.php:67
+msgid "The Global Settings could not be saved. Configuration file mymeeting.php is not writable."
+msgstr "Pilihan Global tidak dapat disimpan. Fail configurasi mymeeting.php tidak boleh diubah."
+
+#: /controllers/settings_controller.php:160
+msgid "Logo has been saved."
+msgstr "Logo telah disimpan"
+
+#: /controllers/settings_controller.php:170
+msgid "Please correct errors below."
+msgstr "Sila betulkan kesilapan dibawah"
+
+#: /vendors/shells/createdb.php:9
+msgid "The username for the database is too long. Has to be less than 16 characters"
+msgstr "Sila masukkan nama pengguna kurang maksimum 16 aksara"
+
+#: /vendors/shells/install.php:209
+msgid "Server Address:"
+msgstr "Alamat Pelayan:"
+
+#: /views/committees/mainpage.ctp:27
+msgid "Are you sure you want to delete commitee called %s?"
+msgstr "Adakah anda pasti,untuk hapuskan komiti %s"
+
+#: /views/decisions/addminutes.ctp:10
+msgid "Legend:"
+msgstr "Legend:"
+
+#: /views/elements/upcoming.ctp:11
+msgid "Decision Need Updating"
+msgstr "Keputusan yang perlu diambil tindakan"
+
+#: /views/elements/upcoming.ctp:19
+msgid "No upcoming meeting found"
+msgstr "Tiada Mesyuarat akan datang"
+
+#: /views/elements/upcoming.ctp:41;80
+msgid "Project:"
+msgstr "Projek/Perkara:"
+
+#: /views/elements/upcoming.ctp:43;82
+msgid "Decision:"
+msgstr "Keputusan"
+
+#: /views/elements/upcoming.ctp:47;86
+msgid "Decision deadline :"
+msgstr "Tarikh akhir tindakan perlu diambil :"
+
+#: /views/elements/upcoming.ctp:75
+msgid "No decision need updating"
+msgstr "Tiada keputusan yang perlu dikemaskini"
+
+#: /views/helpers/form.php:1779
+msgid "January"
+msgstr "Januari"
+
+#: /views/helpers/form.php:1780
+msgid "February"
+msgstr "Februari"
+
+#: /views/helpers/form.php:1781
+msgid "March"
+msgstr "Mac"
+
+#: /views/helpers/form.php:1782
+msgid "April"
+msgstr "April"
+
+#: /views/helpers/form.php:1783
+msgid "May"
+msgstr "Mei"
+
+#: /views/helpers/form.php:1784
+msgid "June"
+msgstr "Jun"
+
+#: /views/helpers/form.php:1785
+msgid "July"
+msgstr "Julai"
+
+#: /views/helpers/form.php:1786
+msgid "August"
+msgstr "Ogos"
+
+#: /views/helpers/form.php:1787
+msgid "September"
+msgstr "September"
+
+#: /views/helpers/form.php:1788
+msgid "October"
+msgstr "Oktober"
+
+#: /views/helpers/form.php:1789
+msgid "November"
+msgstr "November"
+
+#: /views/helpers/form.php:1790
+msgid "December"
+msgstr "Desember"
+
+#: /views/layouts/default.ctp:83
+msgid "Powered by MyMeeting"
+msgstr "Dijanakan oleh MyMeeting"
+
+#: /views/logs/add.ctp:4
+msgid "Add Log"
+msgstr "Tambah Log"
+
+#: /views/logs/add.ctp:17
+#: /views/logs/edit.ctp:19
+#: /views/logs/view.ctp:40
+msgid "List Logs"
+msgstr "Senarai Log-log"
+
+#: /views/logs/edit.ctp:4
+#: /views/logs/view.ctp:38
+msgid "Edit Log"
+msgstr "Kemaskini Log"
+
+#: /views/logs/index.ctp:2
+msgid "Logs"
+msgstr "Log-log"
+
+#: /views/logs/index.ctp:62
+#: /views/logs/view.ctp:41
+msgid "New Log"
+msgstr "Tambah Log"
+
+#: /views/logs/view.ctp:2
+msgid "Log"
+msgstr "Log"
+
+#: /views/logs/view.ctp:14
+msgid "Controller"
+msgstr "Pengawal"
+
+#: /views/logs/view.ctp:19
+msgid "Action"
+msgstr "Tindakan"
+
+#: /views/logs/view.ctp:24
+msgid "Url"
+msgstr "Url"
+
+#: /views/logs/view.ctp:29
+msgid "Timestamp"
+msgstr "Tarikh"
+
+#: /views/logs/view.ctp:39
+msgid "Delete Log"
+msgstr "Hapus Log"
+
+#: /views/meetings/add.ctp:13
+#: /views/meetings/edit.ctp:24
+msgid "Agenda Files"
+msgstr "Fail Agenda"
+
+#: /views/meetings/add.ctp:14
+#: /views/meetings/edit.ctp:25
+msgid "Minutes Files"
+msgstr "Fail Minit"
+
+#: /views/meetings/add.ctp:15
+#: /views/meetings/edit.ctp:26
+msgid "Presentation Files"
+msgstr "Fail Pembentangan"
+
+#: /views/meetings/minutes.ctp:3
+msgid " Meeting Minutes"
+msgstr "Minit Mesyuarat"
+
+#: /views/settings/edit.ctp:2
+msgid "Reload settings"
+msgstr "Muat semula pilihan"
+
+#: /views/settings/edit.ctp:3
+#: /views/settings/logo.ctp:3;6
+msgid "Change logo"
+msgstr "Kemaskini logo"
+
+#: /views/settings/edit.ctp:6;9
+msgid "Edit Global Settings"
+msgstr "Kemaskini Pilihan Global"
+
+#: /views/settings/logo.ctp:10
+msgid "Current logo"
+msgstr "Logo sekarang"
+
+#: /views/settings/logo.ctp:14
+msgid "Suitable logo size to upload is 155x80"
+msgstr "Muat naik logo berasaiz 155x80"
+
+#: /app_model.php:299
+msgid "%s,%s"
+msgstr "%s,%s"
+
+#: /controllers/decisions_controller.php:503
+msgid "Notifications of decision sent to users"
+msgstr "Emel pemberitahuan telah dihantar"
+
+#: /controllers/hashes_controller.php:56
+msgid "Invalid Hash."
+msgstr "Tidak sah"
+
+#: /controllers/hashes_controller.php:66;83
+msgid "The Hash has been saved"
+msgstr "Maklumat telah disimpan"
+
+#: /controllers/hashes_controller.php:69;86
+msgid "The Hash could not be saved. Please, try again."
+msgstr "Maklumat tidak dapat disimpan. Sila cuba lagi."
+
+#: /controllers/hashes_controller.php:78
+msgid "Invalid Hash"
+msgstr "Tidak sah"
+
+#: /controllers/hashes_controller.php:98
+msgid "Invalid id for Hash"
+msgstr "Tidak sah"
+
+#: /controllers/hashes_controller.php:102
+msgid "Hash deleted"
+msgstr "Maklumat telah dihapuskan"
+
+#: /controllers/logs_controller.php:42
+msgid "Users activity"
+msgstr "Aktiviti pengguna"
+
+#: /controllers/logs_controller.php:42
+msgid "No of meetings"
+msgstr "Jumlah mesyuarat"
+
+#: /controllers/meetings_controller.php:127
+msgid "Notifications of decisions sent to users"
+msgstr "Emel pemberitahuan telah dihantar"
+
+#: /controllers/meetings_controller.php:131
+msgid "Invalid meeting id"
+msgstr "Id mesyuarat tidak sah"
+
+#: /controllers/meetings_controller.php:557
+msgid "The cancelations has been sent"
+msgstr "Emel pembatalan mesyuarat telah dihantar"
+
+#: /controllers/users_controller.php:123
+msgid "Password for %s has been reset"
+msgstr "Kata laluan untuk %s telah diset semula"
+
+#: /controllers/components/auth.php:417
+msgid "Could not find $userModel. Please set AuthComponent::$userModel in beforeFilter()."
+msgstr "$userModel tidak ditemui. Sila setkan AuthComponent::$userModel pada beforeFilter()."
+
+#: /controllers/components/auth.php:427
+msgid "Login failed. Invalid username or password."
+msgstr "Log masuk tidak berjaya. Nama pengguna atau kata laluan tidak tepat."
+
+#: /controllers/components/auth.php:428
+msgid "You are not authorized to access that location."
+msgstr "Anda tidak mempunyai izin untuk akses disini."
+
+#: /controllers/components/auth.php:510
+msgid "Could not find %s. Set AuthComponent::$object in beforeFilter() or pass a valid object"
+msgstr "%s tidak ditemui. Setkan AuthComponent::$object pada beforeFilter() atau bekalkan nilai yang sah pada objek"
+
+#: /controllers/components/auth.php:516
+msgid "%s::isAuthorized() is not defined."
+msgstr "%s::isAuthorized() tidak ditakrifkan"
+
+#: /controllers/components/auth.php:524
+msgid "Auth::isAuthorized() - $authorize is set to an incorrect value.  Allowed settings are: \"actions\", \"crud\", \"model\" or null."
+msgstr "Auth::isAuthorized() - $authorize di setkan dengan nilai yang tidask sah.  Nilai yang sah adalah seperti berikut: \"actions\", \"crud\", \"model\" or null."
+
+#: /controllers/components/auth.php:757
+msgid "Auth::getModel() - Model is not set or could not be found"
+msgstr "Auth::getModel() - Model ini tidak disetkan atau tidak ditemui"
+
+#: /views/committees/add.ctp:9
+#: /views/committees/edit.ctp:11
+msgid "Note:<br/> %xxxx refers to Meeting Number<br/>%yyyy refers to year<br/>%committeeshort refers to committee's short name<br/>%committeelong refers to committee's long name"
+msgstr "Nota:<br/> %xxxx pembolehubah digit untuk bilangan mesyaurat<br/>%yyyy pembolehubah tahun<br/>%committeeshort pembolehubah nama singkatan jawatankuasa<br/>%committeelong pembolehubah nama penuh jawatankuasa"
+
+#: /views/committees/mainpage.ctp:61
+msgid "Manage all titles (Y.Bhg Dato', Tuan, Puan etc)"
+msgstr "Uruskan gelaran (Y.Bhg Dato', Tuan, Puan etc)"
+
+#: /views/committees/mainpage.ctp:64
+msgid "Manage users & committees"
+msgstr "Uruskan pengguna dan jawatankuasa"
+
+#: /views/committees/mainpage.ctp:72
+msgid "Manage the email templates"
+msgstr "Uruskan templat-templat email"
+
+#: /views/committees/mainpage.ctp:78
+msgid "View Logs"
+msgstr "Lihat log"
+
+#: /views/committees/mainpage.ctp:82
+#: /views/elements/rightside.ctp:24
+#: /views/logs/report.ctp:2
+msgid "Statistics"
+msgstr "Statistik"
+
+#: /views/committees/mainpage.ctp:83
+msgid "Various reports"
+msgstr "Pelbagai laporan"
+
+#: /views/committees/search.ctp:17
+msgid "Taken, on time"
+msgstr "Telah diambil tindakan, dan tepat masa"
+
+#: /views/committees/search.ctp:18
+msgid "Taken, late"
+msgstr "Telah diambil tindakan, dan lewat"
+
+#: /views/committees/search.ctp:19
+msgid "Not taken, before due date"
+msgstr "Belum"
+
+#: /views/committees/search.ctp:20
+msgid "Not taken, overdue"
+msgstr "Belum diambil tindakan, dan telah tamat tarikh akhir tindakan"
+
+#: /views/decisions/add.ctp:45
+msgid " for %s: "
+msgstr "untuk %s: "
+
+#: /views/decisions/add.ctp:67
+#: /views/items/view.ctp:21
+msgid "%s Name"
+msgstr "%s Nama"
+
+#: /views/decisions/add.ctp:68
+#: /views/items/view.ctp:22
+msgid "%s Short Name"
+msgstr "%s Nama singkat"
+
+#: /views/decisions/addminutes.ctp:6
+msgid "### :- Every decision is separated by 3 hashes"
+msgstr "### :- Setiap keputusan dipisahkan dengan 3 hash"
+
+#: /views/elements/announcement.ctp:10
+msgid "No announcements currently"
+msgstr "Tidak terdapat sebarang keputusan"
+
+#: /views/elements/searchbox.ctp:137
+msgid "Report"
+msgstr "Laporan"
+
+#: /views/elements/upcoming.ctp:42;82
+msgid "Meeting:"
+msgstr "Mesyuarat:"
+
+#: /views/items/add.ctp:6;10
+#: /views/items/add_dialog.ctp:16;20
+msgid "Add %s"
+msgstr "Tambah %s"
+
+#: /views/items/edit.ctp:6;12
+msgid "Edit %s"
+msgstr "Kemaskini %s"
+
+#: /views/items/index.ctp:6
+msgid "Add new %s"
+msgstr "Tambah %s baru"
+
+#: /views/logs/report.ctp:13
+msgid "No. of logins"
+msgstr "Jumlah log masuk"
+
+#: /views/logs/report.ctp:14
+msgid "No. of status update"
+msgstr "Jumlah status tindakan"
+
+#: /views/logs/report.ctp:15
+msgid "No. of comments"
+msgstr "Jumlah komen"
+
+#: /views/logs/report.ctp:56
+msgid "Total meetings"
+msgstr "Total mesyuarat"
+
+#: /views/logs/report.ctp:57
+msgid "Total decisions"
+msgstr "Total keputusan "
+
+#: /views/logs/report.ctp:58
+msgid "Assigned to"
+msgstr "Tindakan oleh"
+
+#: /views/logs/report.ctp:59
+msgid "Total status update"
+msgstr "Total status tindakan "
+
+#: /views/logs/report.ctp:60
+msgid "Update from"
+msgstr "Borang kemaskini"
+
+#: /views/logs/report.ctp:106;116
+msgid "Individual:"
+msgstr "Individu:"
+
+#: /views/logs/report.ctp:108;118
+msgid "Group:"
+msgstr "Kumpulan:"
+
+#: /views/logs/report.ctp:134
+msgid "Please select type of report above to view"
+msgstr "Sila pilih jenis laporan yang ingin dilihat"
+
+#: /views/meetings/cancel.ctp:7
+msgid "Edit cancelation"
+msgstr "Kemaskini pembatalan"
+
+#: /views/meetings/cancel.ctp:8
+msgid "Send cancelation"
+msgstr "Hantar pembatalan"
+
+#: /views/meetings/cancel.ctp:10
+msgid "Do not send cancelation"
+msgstr "Jangan hantar pembatalan"
+
+#: /views/meetings/edit_template.ctp:9
+msgid "Cancelation"
+msgstr "Pembatalan"
+
+#: /views/meetings/invite.ctp:3
+msgid "Edit message/Schedule invitation"
+msgstr "Kemaskini kandungan/ Jadualkan jemputan"
+
+#: /views/meetings/invite.ctp:5;7
+msgid "Invitation to meeting"
+msgstr "Jemputan ke mesyuarat"
+
+#: /views/meetings/invite.ctp:9
+msgid "Note:<br/>1. Below is the message that is going to be sent to all invitees.<br/>2. %name will be replaced with invitee's name."
+msgstr "Nota:<br/>1. Berikut merupakanBelow is the message that is going to be sent to all invitees.<br/>2. %name will be replaced with invitee's name."
+
+#: /views/meetings/view.ctp:15
+msgid "Announce Decisions"
+msgstr "Umumkan keputusan"
+
+#: /views/meetings/view.ctp:15
+msgid "Are you sure you want to announce all of the decisions?"
+msgstr "Adakah anda pasti untuk mengumumkan keputusan?"
+
+#: /views/meetings/view.ctp:17
+msgid "View Minutes"
+msgstr "Lihat Minit"
+
+#: /views/pages/home.ctp:12
+msgid "Your tmp directory is writable."
+msgstr "Direktori tmp tidak boleh diubahsuai"
+
+#: /views/pages/home.ctp:16
+msgid "Your tmp directory is NOT writable."
+msgstr "Direktori tmp tidak boleh diubah"
+
+#: /views/pages/home.ctp:26
+msgid "The %s is being used for caching. To change the config edit APP/config/core.php "
+msgstr "%s digunakan oleh cahcing. Untuk mengubahsuai fail config kemaskini pada APP/config/core.php"
+
+#: /views/pages/home.ctp:30
+msgid "Your cache is NOT working. Please check the settings in APP/config/core.php"
+msgstr "Cache tidak berfungsi. Sila semak penyelarasan pada APP/config/core.php"
+
+#: /views/pages/home.ctp:40
+msgid "Your database configuration file is present."
+msgstr "Konfigurasi pangkalan data wujud."
+
+#: /views/pages/home.ctp:45
+msgid "Your database configuration file is NOT present."
+msgstr "Konfigurasi pangkalan data tidak wujud"
+
+#: /views/pages/home.ctp:47
+msgid "Rename config/database.php.default to config/database.php"
+msgstr "Namakan semula config/database.php.default kepada config/database.php"
+
+#: /views/pages/home.ctp:62
+msgid "Cake is able to connect to the database."
+msgstr "Cake berjaya akses ke pangkalan data."
+
+#: /views/pages/home.ctp:66
+msgid "Cake is NOT able to connect to the database."
+msgstr "Cake tidak berjaya akses ke pangkalan data."
+
+#: /views/pages/home.ctp:72
+msgid "Editing this Page"
+msgstr "Ubahsuai halaman ini"
+
+#: /views/reports/meeting.ctp:24
+msgid "Deadline : %s"
+msgstr "Tarikh akhir tindakan perlu diambil: %s"
+
+#: /views/reports/meeting.ctp:51
+msgid "No status update yet"
+msgstr "Tiada status tindakan"
+
+#: /views/users/index.ctp:44
+msgid "Are you sure you want to delete %s?"
+msgstr "Adakah anda pasti untuk hapuskan %s?"
+
+#: /views/users/index.ctp:45
+msgid "Are you sure you want to reset password for %s?"
+msgstr "Adakah anda pasti untuk set semula kata laluan untuk %s?"
+
+#: /views/wfmodels/add.ctp:2
+#: /views/wfmodels/edit.ctp:27
+#: /views/wfmodels/index.ctp:7
+msgid "Permissions"
+msgstr "Izin-izin"
+
+#: /views/wfmodels/add.ctp:7
+msgid "Add Permissions"
+msgstr "Tambah izin"
+
+#: /views/wfmodels/add.ctp:8
+#: /views/wfmodels/edit.ctp:33
+msgid "Each permission is separated by a comma (,). To negate a permission prefix it with a !. The list of possible permission is:"
+msgstr "Setiap izin dipisahkan dengan koma (,). Untuk menafikan izin sila gunakan awalan !. Berikut merupakan izin-izin yang boleh diguna pakai:"
+
+#: /views/wfmodels/add.ctp:10
+#: /views/wfmodels/edit.ctp:35
+msgid "all"
+msgstr "all"
+
+#: /views/wfmodels/add.ctp:11
+#: /views/wfmodels/edit.ctp:36
+msgid "owner"
+msgstr "owner"
+
+#: /views/wfmodels/add.ctp:12
+#: /views/wfmodels/edit.ctp:37
+msgid "invited"
+msgstr "invited"
+
+#: /views/wfmodels/add.ctp:13
+#: /views/wfmodels/edit.ctp:38
+msgid "attended"
+msgstr "attended"
+
+#: /views/wfmodels/add.ctp:14
+#: /views/wfmodels/edit.ctp:39
+msgid "role:&lt;user role&gt;"
+msgstr "role:&lt;peranan pengguna&gt;"
+
+#: /views/wfmodels/add.ctp:15
+#: /views/wfmodels/edit.ctp:40
+msgid "group:&lt;user group&gt;"
+msgstr "group:&lt;kumpulan&gt;"
+
+#: /views/wfmodels/edit.ctp:32
+msgid "Edit Permissions"
+msgstr "Kemaskini izin"
+
+#: /views/wfmodels/index.ctp:4
+msgid "Add new model permissions"
+msgstr "Tambah izin baru untuk model"
+
+#: /controllers/committees_controller.php:343
+msgid "The sub-committee has been saved"
+msgstr ""
+
+#: /controllers/committees_controller.php:346
+msgid "The sub-committee could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:98
+msgid "Invalid Committeetodo."
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:144
+msgid "Invalid Committeetodo"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:149
+msgid "The Committeetodo has been saved"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:152
+msgid "The Committeetodo could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:174
+msgid "Invalid id for Committeetodo"
+msgstr ""
+
+#: /controllers/committeetodos_controller.php:178
+msgid "Committeetodo deleted"
+msgstr ""
+
+#: /controllers/groupstatuses_controller.php:115
+msgid ""
+"For the status: %s\n"
+"\n"
+msgstr ""
+
+#: /controllers/hashes_controller.php:54
+msgid "Attendance confirmation has been saved"
+msgstr ""
+
+#: /controllers/hashes_controller.php:56
+msgid "Attendance confirmation could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/hashes_controller.php:76
+msgid "Invalid action."
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:73
+msgid "Invalid Meetingtodo."
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:92;122
+msgid "The Meetingtodo has been saved"
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:95;131
+msgid "The Meetingtodo could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:117
+msgid "Invalid Meetingtodo"
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:154
+msgid "Invalid id for Meetingtodo"
+msgstr ""
+
+#: /controllers/meetingtodos_controller.php:159
+msgid "Meetingtodo deleted"
+msgstr ""
+
+#: /controllers/systemtodos_controller.php:68
+msgid "Invalid Systemtodo."
+msgstr ""
+
+#: /controllers/users_controller.php:366
+msgid "Your new password has been generated. Please check your email."
+msgstr ""
+
+#: /controllers/users_controller.php:387
+msgid "Your username has been sent to your email."
+msgstr ""
+
+#: /vendors/shells/fixup.php:24
+msgid "defaultmessages - restore default messages for the whole system and for every committee"
+msgstr ""
+
+#: /vendors/shells/fixup.php:25
+msgid "messages - create default messages for the system and committee if the message does not yet exist"
+msgstr ""
+
+#: /vendors/shells/fixup.php:26
+msgid "defaultwfmodels - restore default permissions for all the committee for the whole system"
+msgstr ""
+
+#: /vendors/shells/fixup.php:27
+msgid "cleanminutes - remove any mymeeting tagging from the minutes"
+msgstr ""
+
+#: /vendors/shells/fixup.php:28
+msgid "database - update the database to the latest schema"
+msgstr ""
+
+#: /vendors/shells/fixup.php:29
+msgid "dumpdb - dump the database for backup"
+msgstr ""
+
+#: /vendors/shells/fixup.php:30
+msgid "resettree - build tree structure for the first time, this will bring all committees on top level"
+msgstr ""
+
+#: /vendors/shells/fixup.php:379
+msgid "Preparing the data..."
+msgstr ""
+
+#: /vendors/shells/fixup.php:380
+msgid "No committees found"
+msgstr ""
+
+#: /vendors/shells/fixup.php:392;406
+msgid "..yes"
+msgstr ""
+
+#: /vendors/shells/fixup.php:393;407
+msgid "..no"
+msgstr ""
+
+#: /vendors/shells/fixup.php:398
+msgid "Resetting committees to top level..."
+msgstr ""
+
+#: /vendors/shells/install.php:98;111
+msgid "New settings have been written. Please run the installation script again"
+msgstr ""
+
+#: /vendors/shells/install.php:103;121
+msgid "There is a problem connecting to the database. Please make sure that the database "
+msgstr ""
+
+#: /vendors/shells/install.php:105;123
+msgid "exists and that the mysql user"
+msgstr ""
+
+#: /vendors/shells/install.php:107;125
+msgid "has proper access to it. You can run `cake createdb` to do it for you and then run this script again."
+msgstr ""
+
+#: /vendors/shells/install.php:242
+msgid "Server Address (eg http://www.agensi.gov.my, http://www.agensi.gov.my/mymeeting):"
+msgstr ""
+
+#: /views/committees/add.ctp:17
+#: /views/committees/addsubcomm.ctp:20
+#: /views/committees/edit.ctp:31
+msgid "Alphabets and numbers only"
+msgstr ""
+
+#: /views/committees/addsubcomm.ctp:2;9
+msgid "Add Sub-committee"
+msgstr ""
+
+#: /views/committees/addsubcomm.ctp:22
+msgid "Year"
+msgstr ""
+
+#: /views/committees/addsubcomm.ctp:23
+msgid "Mesyuarat"
+msgstr ""
+
+#: /views/committees/edit.ctp:11
+msgid "%xxxx refers to meeting number"
+msgstr ""
+
+#: /views/committees/edit.ctp:11;12
+msgid "(Meeting Num Template)"
+msgstr ""
+
+#: /views/committees/edit.ctp:12
+msgid "%yyyy refers to year"
+msgstr ""
+
+#: /views/committees/edit.ctp:13
+msgid "%committeeshort refers to committee's short name"
+msgstr ""
+
+#: /views/committees/edit.ctp:13;14
+msgid "(Meeting Title Template)"
+msgstr ""
+
+#: /views/committees/edit.ctp:14
+msgid "%committeelong refers to committee's long name"
+msgstr ""
+
+#: /views/committees/edit.ctp:22
+msgid "Top level"
+msgstr ""
+
+#: /views/committees/edit.ctp:23
+msgid "Parent"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:21;138
+msgid "Create: Click here to create a sub-committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:21;138
+msgid "Click here to add a sub-committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:24
+msgid "Edit: Click here to edit this committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:24
+msgid "Click here to edit this committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:27
+msgid "Delete: Delete this committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:27
+msgid "Click here to delete this committee"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:30
+msgid "Permissions: Click here to navigate to permission management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:30
+msgid "Click here to navigate to workflow management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:33
+msgid "Announcements: Click here to navigate to committee announcements"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:33
+msgid "Click here to navigate to committee announcements"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:36
+msgid "Groups: Click here to navigate to committee groups management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:36
+msgid "Click here to navigate to committee groups management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:39
+msgid "Users: Click here to navigate to committee users management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:39
+msgid "Click here to navigate to committee users management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:42
+msgid "To-dos: Click here to navigate to committee to-dos management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:42
+msgid "Click here to navigate to committee to-dos management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:45
+msgid "Messages: Click here to navigate to committee messages management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:45
+msgid "Click here to navigate to committee messages management"
+msgstr ""
+
+#: /views/committees/mainpage.ctp:50
+msgid " You are not registered under any committee yet"
+msgstr ""
+
+#: /views/elements/crud.ctp:4;4
+msgid "View item"
+msgstr ""
+
+#: /views/elements/crud.ctp:14;14
+msgid "Edit item"
+msgstr ""
+
+#: /views/elements/crud.ctp:24;24
+msgid "Delete item"
+msgstr ""
+
+#: /views/elements/crud.ctp:24
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+#: /views/elements/personal_links.ctp:5
+msgid "Calendar"
+msgstr ""
+
+#: /views/elements/userlist.ctp:66
+msgid "Members"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:2
+msgid "Confirm attendance"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:16
+msgid "Confirmation to attend the above meeting"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:19
+msgid "Attendance for:"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:28
+msgid "You can no longer confirm attendance. It is past due date:"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:31
+msgid "Please confirm attendance before this due date:"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:37
+msgid "You have confirmed to attend the meeting on"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:43
+msgid "You have confirmed NOT to attend the meeting on"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:48
+msgid "You have appointed no one as your representative."
+msgstr ""
+
+#: /views/hashes/confirm.ctp:50
+msgid "You have appointed"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:50
+msgid "as your representative."
+msgstr ""
+
+#: /views/hashes/confirm.ctp:56
+msgid "You have not confirmed the attendance yet."
+msgstr ""
+
+#: /views/hashes/confirm.ctp:62
+msgid "Yes, I will attend"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:62
+msgid "No, I will not attend (please give your excuse below)"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:63
+msgid "No, I will not attend but will send a representative on behalf<br/>(please give your excuse & your representative below)"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:64
+msgid "Please select appropriately"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:74
+#: /views/meetings/attendance.ctp:33
+msgid "Representative"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:77
+msgid "This meeting does not allow you to send representatives"
+msgstr ""
+
+#: /views/hashes/confirm.ctp:82
+msgid "OK"
+msgstr ""
+
+#: /views/hashes/hash.ctp:5
+msgid "Please contact the administrator to confirm your attendance."
+msgstr ""
+
+#: /views/meetings/add.ctp:13
+#: /views/meetings/edit.ctp:23
+msgid "Allow representatives"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:20
+msgid "List of members invited for this meeting. Members who have confirmed their attendance will be shown below."
+msgstr ""
+
+#: /views/meetings/attendance.ctp:21
+msgid "You can also update their attendance on their behalf here."
+msgstr ""
+
+#: /views/meetings/attendance.ctp:23
+msgid "This meeting does not allow members to send representatives"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:38
+msgid "Will attend"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:39
+msgid "Confirmed on"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:41
+msgid "Date updated"
+msgstr ""
+
+#: /views/meetings/attendance.ctp:71;81;99;109
+msgid "Y"
+msgstr "Y"
+
+#: /views/meetings/attendance.ctp:71;81;99;109
+msgid "N"
+msgstr ""
+
+#: /views/meetings/edit_template.ctp:23
+msgid "It is recommended to send the invitations 10 days before the meeting date."
+msgstr ""
+
+#: /views/meetingtodos/add.ctp:5
+msgid "Add Meetingtodo"
+msgstr ""
+
+#: /views/meetingtodos/edit.ctp:4
+msgid "Edit Meetingtodo"
+msgstr ""
+
+#: /views/meetingtodos/view.ctp:2
+msgid "Meetingtodo"
+msgstr ""
+
+#: /views/memberships/add.ctp:57
+msgid "Existing email will automatically fill up all fields below."
+msgstr ""
+
+#: /views/memberships/view.ctp:3
+msgid "View member"
+msgstr ""
+
+#: /views/memberships/view.ctp:10
+#: /views/users/add.ctp:15
+#: /views/users/edit.ctp:16
+#: /views/users/profile.ctp:15
+#: /views/users/view.ctp:8
+msgid "Section/Division"
+msgstr ""
+
+#: /views/memberships/view.ctp:11
+#: /views/users/view.ctp:9
+msgid "Grade"
+msgstr ""
+
+#: /views/memberships/view.ctp:22
+msgid "This member is involved in the following committees:"
+msgstr ""
+
+#: /views/pages/home.ctp:75
+msgid ""
+"To change the content of this page, edit: %s\n"
+"\t\tTo change its layout, edit: %s\n"
+"\t\tYou can also add some CSS styles for your pages at: %s"
+msgstr ""
+
+#: /views/reports/meeting.ctp:42;82
+msgid "Status : "
+msgstr ""
+
+#: /views/reports/meeting.ctp:45;85
+msgid "Files Uploaded : "
+msgstr ""
+
+#: /views/systemtodos/view.ctp:2
+msgid "Systemtodos"
+msgstr ""
+
+#: /views/users/forgotpass.ctp:3
+#: /views/users/login.ctp:15
+msgid "Forgot your password?"
+msgstr ""
+
+#: /views/users/forgotpass.ctp:6
+msgid "Password reset"
+msgstr ""
+
+#: /views/users/forgotpass.ctp:8
+msgid "Please fill in your email address to reset your password"
+msgstr ""
+
+#: /views/users/forgotuser.ctp:3
+#: /views/users/login.ctp:17
+msgid "Forgot your username?"
+msgstr ""
+
+#: /views/users/forgotuser.ctp:6
+msgid "Username retrieval"
+msgstr ""
+
+#: /views/users/forgotuser.ctp:8
+msgid "Please fill in your email address to retrieve your username"
+msgstr ""
+
+#: /views/users/index.ctp:53
+msgid "Password will be reset to the username."
+msgstr ""
+
+#: /views/wfmodels/add.ctp:2
+msgid "Add permission"
+msgstr ""
+
+#: /views/wfmodels/add.ctp:13
+#: /views/wfmodels/index.ctp:4
+msgid "Add new model permission"
+msgstr ""
+
+#: /views/wfmodels/edit.ctp:27
+msgid "Edit model permission"
+msgstr ""
+
+#: /views/wfmodels/edit.ctp:39
+msgid "Edit permission"
+msgstr ""
+
+#: /views/wfmodels/edit.ctp:68
+msgid "Levels"
+msgstr ""
+
+#: /views/wfmodels/index.ctp:12
+msgid "Permission"
+msgstr "Kebenaran"
+

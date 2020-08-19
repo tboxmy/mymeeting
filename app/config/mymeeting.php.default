@@ -1,0 +1,13 @@
+<?php
+    Configure::write('agency_name','OSCC');
+    Configure::write('agency_address','cyberjaya');
+    Configure::write('agency_slogan','lalalala');
+    Configure::write('date_format','d/m/Y');
+    Configure::write('time_format','H:i a');
+    Configure::write('email_from','nuhaa@oscc.org.my');
+    Configure::write('email_from_name','nuhaa');
+    Configure::write('email_host','localhost');
+    Configure::write('email_port','25');
+    Configure::write('version','v2.0.0');
+    Configure::write('defaultrole','admin');
+?>

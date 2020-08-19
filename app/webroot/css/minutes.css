@@ -1,0 +1,29 @@
+H1.minutetitle {
+    font-size: 12pt;
+    text-align: center;
+    clear: both;
+    width: 100%;
+}
+
+H1.minutepart {
+    font-size: 12pt;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+H1 {
+    font-size: 12pt;
+    text-align: left;
+}
+
+.fieldtitle {
+    width: 49%;
+    text-align: right;
+    float: left;
+}
+
+.fielddata {
+    width: 49%;
+    text-align: left;
+    float: right;
+}

@@ -1,0 +1,38 @@
+Finally got the plugable comments component working. It consists mainly of 2 files which is the behavior for the comment which can be found in model/behavior/comment.php. The file is used by adding an:
+
+var $actsAs=array('Comment');
+
+into the model declaration.
+
+The second file is the helper to display the comments. Of course like any other helpers the controller have to add in the line:
+
+var $helpers=array('Comment');
+
+And then in the view you can use the following:
+
+echo $comment->disp_comment('name of model');    
+
+to display list of all the comments for that model and display a form to key in new comments
+
+A special case is that in the view function of the controller you have to define data so as to be editing it:
+
+$this->data=$this->Model->read(null,$id);
+
+So that it will actually be editing the data.  
+
+And also if you want it to redirect back to the view you of the current model being commented, just add 
+
+if(isset($this->data['Model']['returnpage'])){
+    $this->redirect($this->data['Model']['returnpage']);
+}
+else{
+    $this->redirect(array('action'=>'index'));
+}
+
+in your edit method of the model controller.
+
+
+If you are adding this component to your project the first time, then you must install the proper table to fill in the data. The easy way to do that is to navigate to the cake/console directory and run:
+./cake schema run create commments
+
+And it will ask whether you want to create the table.

@@ -1,0 +1,82 @@
+digraph G {
+	overlap=false;
+	splines=true;
+	node [fontname="Helvetica",fontsize=9];
+	edge [fontname="Helvetica",fontsize=8];
+	ranksep=0.1;
+	nodesep=0.1;
+	_schema_info [shape="plaintext", label="2009", fontname="Helvetica",fontsize=8];
+	"Aco" [label="{Aco|id : integer[10]\nparent_id : integer[10]\nmodel : string[255]\nforeign_key : integer[10]\nalias : string[255]\nlft : integer[10]\nrght : integer[10]\n}" shape="record"];
+	"Announcement" [label="{Announcement|id : integer[11]\ndescription : text\nupdated : datetime\ncreated : datetime\ncommittee_id : integer[11]\nuser_id : integer[11]\n}" shape="record"];
+	"Aro" [label="{Aro|id : integer[10]\nparent_id : integer[10]\nmodel : string[255]\nforeign_key : integer[10]\nalias : string[255]\nlft : integer[10]\nrght : integer[10]\n}" shape="record"];
+	"ArosAco" [label="{ArosAco|id : integer[10]\naro_id : integer[10]\naco_id : integer[10]\n_create : string[2]\n_read : string[2]\n_update : string[2]\n_delete : string[2]\n}" shape="record"];
+	"Attachment" [label="{Attachment|id : integer[11]\nmodel : string[20]\nforeign_key : integer[11]\nfile : string[255]\nfilename : string[255]\nchecksum : string[255]\nfield : string[255]\ntype : string[50]\nsize : integer[11]\ncreated : datetime\nmodified : datetime\n}" shape="record"];
+	"Attendance" [label="{Attendance|id : integer[11]\nmeeting_id : integer[11]\nuser_id : integer[11]\nwill_attend : boolean[1]\nattended : boolean[1]\nexcuse : string[200]\ncreated : date\nupdated : date\nrepresentative : boolean[1]\n}" shape="record"];
+	"Comment" [label="{Comment|id : integer[11]\nmodel : string[20]\nforeign_key : integer[11]\ndescription : string[1000]\nuser_id : integer[11]\ncreated : datetime\nupdated : datetime\n}" shape="record"];
+	"Committee" [label="{Committee|id : integer[11]\nname : string[100]\nshort_name : string[30]\nminute_template : text\nmeeting_num_template : string[30]\ndeleted : boolean[1]\ndeleted_date : datetime\nmeeting_title_template : string[255]\nitem_name : string[30]\nempty_minutes : boolean[1]\n}" shape="record"];
+	"Committeetodo" [label="{Committeetodo|id : integer[11]\ncommittee_id : integer[11]\nname : string[100]\npriority : integer[11]\ndeleted : boolean[1]\ndeleted_date : datetime\nuser_id : integer[11]\n}" shape="record"];
+	"Decision" [label="{Decision|id : integer[11]\ncommittee_id : integer[11]\nmeeting_id : integer[11]\nitem_id : integer[11]\ndescription : text\ndeadline : date\ndeleted : boolean[1]\ndeleted_date : datetime\ncreated : datetime\nupdated : datetime\nminute_reference : string[20]\nordering : integer[11]\n}" shape="record"];
+	"DecisionsGroup" [label="{DecisionsGroup|id : integer[11]\ndecision_id : integer[11]\ngroup_id : integer[11]\n}" shape="record"];
+	"DecisionsUser" [label="{DecisionsUser|id : integer[11]\ndecision_id : integer[11]\nuser_id : integer[11]\n}" shape="record"];
+	"Group" [label="{Group|id : integer[11]\ncommittee_id : integer[11]\nname : string[30]\ndeleted : boolean[1]\ndeleted_date : datetime\n}" shape="record"];
+	"Groupstatus" [label="{Groupstatus|id : integer[11]\ncommittee_id : integer[11]\ndecision_id : integer[11]\nuser_id : integer[11]\ngroup_id : integer[11]\ndescription : text\naction_date : date\ndeleted : boolean[1]\ndeleted_date : datetime\ncreated : datetime\nupdated : datetime\nclosed : boolean[1]\ndate_closed : datetime\n}" shape="record"];
+	"Hash" [label="{Hash|id : integer[11]\nuser_id : integer[11]\nmeeting_id : integer[11]\nurl : string[255]\nhash_type : string[30]\nhash : string[30]\nlimit : integer[11]\ndue_date : datetime\nlimit_count : integer[11]\ncreated : datetime\n}" shape="record"];
+	"Item" [label="{Item|id : integer[11]\ncommittee_id : integer[11]\nname : string[150]\nshort_name : string[30]\ndescription : text\ndeleted : boolean[1]\ndeleted_date : datetime\ncreated : datetime\nupdated : datetime\n}" shape="record"];
+	"Log" [label="{Log|id : integer[11]\ntargetid : integer[11]\nuser_id : integer[11]\ncontroller : string[50]\naction : string[50]\nurl : string[255]\ntimestamp : timestamp, default: \"CURRENT_TIMESTAMP\"\n}" shape="record"];
+	"Meeting" [label="{Meeting|id : integer[11]\nparent_id : integer[11]\ncommittee_id : integer[11]\nmeeting_num : string[20]\nmeeting_title : string[1000]\nmeeting_date : datetime\nvenue : string[100]\nagenda : text\nminutes_raw : text\nminutes : text\ninvite_date : date\ndeleted : boolean[1]\ndeleted_date : datetime\ncreated : date\nupdated : date\nmeeting_end_estimate : datetime\nmeeting_end : datetime\nallow_representative : boolean[1]\n}" shape="record"];
+	"Meetingtodo" [label="{Meetingtodo|id : integer[11]\nmeeting_id : integer[11]\nname : string[100]\npriority : integer[11]\nuser_id : integer[11]\ndone : boolean[1]\ndate_done : date\ndeleted : boolean[1]\ndeleted_date : datetime\n}" shape="record"];
+	"Membership" [label="{Membership|id : integer[11]\nuser_id : integer[11]\ncommittee_id : integer[11]\nrole_id : integer[11]\n}" shape="record"];
+	"Notification" [label="{Notification|id : integer[11]\nmeeting_id : integer[11]\ntype : string[20]\nmessage_title : string[255]\nnotification_date : datetime\nnotification_sent : boolean[1]\nmessage : text\nto : text\n}" shape="record"];
+	"Role" [label="{Role|id : integer[11]\nname : string[20]\ndeleted : boolean[1]\ndeleted_date : datetime\n}" shape="record"];
+	"Setting" [label="{Setting|id : integer[11]\nsetting : string[30]\nvalue : text\ngroup : string[30]\ndescription : string[255]\n}" shape="record"];
+	"Systemtodo" [label="{Systemtodo|id : integer[11]\nname : string[100]\npriority : integer[11]\ndeleted : boolean[1]\ndeleted_date : datetime\n}" shape="record"];
+	"Template" [label="{Template|id : integer[11]\nmodel : string[20]\nforeign_key : integer[11]\ntype : string[20]\ntitle : string[200]\ndescription : string[500]\ntemplate : text\n}" shape="record"];
+	"Title" [label="{Title|id : integer[11]\nshort_name : string[10]\nlong_name : string[100]\ncreated : datetime\nupdated : datetime\n}" shape="record"];
+	"User" [label="{User|id : integer[11]\nusername : string[20]\npassword : string[200]\nsuperuser : boolean[1]\njob_title : string[30]\nname : string[80]\nemail : string[150]\ntelephone : string[30]\nmobile : string[30]\nfax : string[30]\naddress : string[200]\ntitle_id : integer[11]\ndeleted : boolean[1]\ndeleted_date : datetime\nprotocol : integer[11]\n}" shape="record"];
+	"UsersGroup" [label="{UsersGroup|id : integer[11]\nuser_id : integer[11]\ngroup_id : integer[11]\n}" shape="record"];
+	"Userstatus" [label="{Userstatus|id : integer[11]\ncommittee_id : integer[11]\ndecision_id : integer[11]\nuser_id : integer[11]\nupdater : integer[11]\ndescription : text\naction_date : date\ndeleted : boolean[1]\ndeleted_date : datetime\ncreated : datetime\nupdated : datetime\nclosed : boolean[1]\ndate_closed : datetime\n}" shape="record"];
+	"Wfmodel" [label="{Wfmodel|id : integer[11]\nmodel : string[50]\ncommittee_id : integer[11]\ncreate : string[200]\nview : string[200]\nedit : string[200]\ndelete : string[200]\napprove : string[200]\ndisapprove : string[200]\n}" shape="record"];
+	"Wfstatus" [label="{Wfstatus|id : integer[11]\nmodel : string[50]\nforeign_key : integer[11]\nworkflow_id : integer[11]\nlevel : integer[11]\n}" shape="record"];
+	"Workflow" [label="{Workflow|id : integer[11]\ncommittee_id : integer[11]\nmodel : string[50]\nlevel : integer[11]\nview : string[200]\nedit : string[200]\ndelete : string[200]\napprove : string[200]\ndisapprove : string[200]\n}" shape="record"];
+	"Announcement" -> "Committee" [label="committee_id"]
+	"Announcement" -> "User" [label="user_id"]
+	"ArosAco" -> "Aro" [label="aro_id"]
+	"ArosAco" -> "Aco" [label="aco_id"]
+	"Attendance" -> "Meeting" [label="meeting_id"]
+	"Attendance" -> "User" [label="user_id"]
+	"Comment" -> "User" [label="user_id"]
+	"Committeetodo" -> "Committee" [label="committee_id"]
+	"Committeetodo" -> "User" [label="user_id"]
+	"Decision" -> "Committee" [label="committee_id"]
+	"Decision" -> "Meeting" [label="meeting_id"]
+	"Decision" -> "Item" [label="item_id"]
+	"DecisionsGroup" -> "Decision" [label="decision_id"]
+	"DecisionsGroup" -> "Group" [label="group_id"]
+	"DecisionsUser" -> "Decision" [label="decision_id"]
+	"DecisionsUser" -> "User" [label="user_id"]
+	"Group" -> "Committee" [label="committee_id"]
+	"Groupstatus" -> "Committee" [label="committee_id"]
+	"Groupstatus" -> "Decision" [label="decision_id"]
+	"Groupstatus" -> "User" [label="user_id"]
+	"Groupstatus" -> "Group" [label="group_id"]
+	"Hash" -> "User" [label="user_id"]
+	"Hash" -> "Meeting" [label="meeting_id"]
+	"Item" -> "Committee" [label="committee_id"]
+	"Log" -> "User" [label="user_id"]
+	"Meeting" -> "Committee" [label="committee_id"]
+	"Meetingtodo" -> "Meeting" [label="meeting_id"]
+	"Meetingtodo" -> "User" [label="user_id"]
+	"Membership" -> "User" [label="user_id"]
+	"Membership" -> "Committee" [label="committee_id"]
+	"Membership" -> "Role" [label="role_id"]
+	"Notification" -> "Meeting" [label="meeting_id"]
+	"User" -> "Title" [label="title_id"]
+	"UsersGroup" -> "User" [label="user_id"]
+	"UsersGroup" -> "Group" [label="group_id"]
+	"Userstatus" -> "Committee" [label="committee_id"]
+	"Userstatus" -> "Decision" [label="decision_id"]
+	"Userstatus" -> "User" [label="user_id"]
+	"Wfmodel" -> "Committee" [label="committee_id"]
+	"Wfstatus" -> "Workflow" [label="workflow_id"]
+	"Workflow" -> "Committee" [label="committee_id"]
+}
